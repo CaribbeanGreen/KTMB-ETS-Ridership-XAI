@@ -1,0 +1,78 @@
+{
+  "params": {
+    "n_trees": 100,
+    "max_depth": 20,
+    "min_samples_leaf": 1,
+    "max_features": 0.5,
+    "random_state": 42
+  },
+  "tuned": true,
+  "features": [
+    "day_of_week",
+    "is_weekend",
+    "month",
+    "is_public_holiday",
+    "is_holiday_eve",
+    "days_to_festival",
+    "days_since_festival",
+    "is_festive_period",
+    "is_ramadan",
+    "temp_mean_c",
+    "rain_mm",
+    "population_k",
+    "hh_income_median_rm"
+  ],
+  "train_period": [
+    "2023-01-01",
+    "2025-05-25"
+  ],
+  "test_period": [
+    "2025-05-26",
+    "2025-12-31"
+  ],
+  "train_rows": 18396,
+  "test_rows": 4620,
+  "train_seconds": 122.3,
+  "oob_r2": 0.9861175702518327,
+  "mean_nodes_per_tree": 18618.58,
+  "metrics": {
+    "rf": {
+      "row_r2": 0.9880205616602173,
+      "row_mae": 55.18463472350459,
+      "row_rmse": 96.4217050807853,
+      "network_r2": 0.6931151937517406,
+      "network_mae": 448.67715745645137,
+      "network_rmse": 665.5897904469939,
+      "network_mape": 4.142422731749412,
+      "festive_network_mape": 6.743447814808191,
+      "festive_days": 44
+    },
+    "naive_baseline": {
+      "row_r2": 0.9850992014672211,
+      "row_mae": 62.09111483542912,
+      "row_rmse": 107.53785021888153,
+      "network_r2": 0.4687899338260262,
+      "network_mae": 706.3917434343434,
+      "network_rmse": 875.6934596887776,
+      "network_mape": 6.441559492419587,
+      "festive_network_mape": 9.39194656798641,
+      "festive_days": 44
+    }
+  },
+  "feature_importance": {
+    "day_of_week": 0.009915973029424947,
+    "is_weekend": 0.0008764597118377629,
+    "month": 0.004448293131665526,
+    "is_public_holiday": 0.0008664572313177469,
+    "is_holiday_eve": 0.0007033699005593169,
+    "days_to_festival": 0.004355574849828765,
+    "days_since_festival": 0.0029521578598322618,
+    "is_festive_period": 0.002259680380488564,
+    "is_ramadan": 0.0015018146047884632,
+    "temp_mean_c": 0.013700202529856185,
+    "rain_mm": 0.0038290156364928344,
+    "population_k": 0.6195340358005773,
+    "hh_income_median_rm": 0.33505696533333024
+  },
+  "median_district_pct_error": 20.83842119054875
+}

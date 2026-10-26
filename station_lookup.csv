@@ -1,0 +1,51 @@
+station,state,district,holiday_subdiv,lat,lon
+KL Sentral,W.P. Kuala Lumpur,W.P. Kuala Lumpur,14,3.1340,101.6865
+Kuala Lumpur,W.P. Kuala Lumpur,W.P. Kuala Lumpur,14,3.1395,101.6936
+Bandar Tasek Selatan,W.P. Kuala Lumpur,W.P. Kuala Lumpur,14,3.0763,101.7110
+Kepong Sentral,W.P. Kuala Lumpur,W.P. Kuala Lumpur,14,3.2087,101.6285
+Sungai Buloh,Selangor,Petaling,10,3.2064,101.5806
+Shah Alam,Selangor,Petaling,10,3.0567,101.5250
+Subang Jaya,Selangor,Petaling,10,3.0845,101.5880
+Rawang,Selangor,Gombak,10,3.3190,101.5750
+Batang Kali,Selangor,Ulu Selangor,10,3.4686,101.6378
+Kuala Kubu Bharu,Selangor,Ulu Selangor,10,3.5540,101.6390
+Kajang,Selangor,Ulu Langat,10,2.9833,101.7906
+Klang,Selangor,Klang,10,3.0430,101.4490
+Tanjong Malim,Perak,Muallim,08,3.6853,101.5186
+Slim River,Perak,Muallim,08,3.8262,101.4040
+Sungkai,Perak,Batang Padang,08,3.9920,101.3120
+Tapah Road,Perak,Batang Padang,08,4.1720,101.1880
+Kampar,Perak,Kampar,08,4.3000,101.1540
+Batu Gajah,Perak,Kinta,08,4.4690,101.0410
+Ipoh,Perak,Kinta,08,4.5970,101.0740
+Sungai Siput,Perak,Kuala Kangsar,08,4.8230,101.0690
+Kuala Kangsar,Perak,Kuala Kangsar,08,4.7730,100.9420
+Padang Rengas,Perak,Kuala Kangsar,08,4.7830,100.8570
+Taiping,Perak,Larut dan Matang,08,4.8540,100.7400
+Bagan Serai,Perak,Kerian,08,5.0100,100.5420
+Parit Buntar,Perak,Kerian,08,5.1250,100.4930
+Nibong Tebal,Pulau Pinang,Seberang Perai Selatan,07,5.1640,100.4780
+Bukit Mertajam,Pulau Pinang,Seberang Perai Tengah,07,5.3630,100.4600
+Butterworth,Pulau Pinang,Seberang Perai Utara,07,5.3940,100.3660
+Tasek Gelugor,Pulau Pinang,Seberang Perai Utara,07,5.4800,100.4990
+Sungai Petani,Kedah,Kuala Muda,02,5.6470,100.4870
+Gurun,Kedah,Kuala Muda,02,5.8170,100.4750
+Alor Setar,Kedah,Kota Setar,02,6.1210,100.3680
+Anak Bukit,Kedah,Kota Setar,02,6.1850,100.3650
+Arau,Perlis,Perlis,09,6.4300,100.2700
+Padang Besar,Perlis,Perlis,09,6.6620,100.3210
+Seremban,Negeri Sembilan,Seremban,05,2.7190,101.9410
+Rembau,Negeri Sembilan,Rembau,05,2.5900,102.0920
+Gemas,Negeri Sembilan,Tampin,05,2.5830,102.6120
+Pulau Sebang (Tampin),Melaka,Alor Gajah,04,2.4640,102.2260
+Batang Melaka,Melaka,Jasin,04,2.4630,102.3970
+Segamat,Johor,Segamat,01,2.5140,102.8160
+Labis,Johor,Segamat,01,2.3850,103.0210
+Bekok,Johor,Segamat,01,2.3110,103.0500
+Paloh,Johor,Kluang,01,2.1840,103.1940
+Kluang,Johor,Kluang,01,2.0340,103.3190
+Rengam,Johor,Kluang,01,1.8820,103.3950
+Layang-Layang,Johor,Kluang,01,1.8140,103.4700
+Kulai,Johor,Kulai,01,1.6620,103.6000
+Kempas Baru,Johor,Johor Bahru,01,1.5360,103.7120
+JB Sentral,Johor,Johor Bahru,01,1.4630,103.7650

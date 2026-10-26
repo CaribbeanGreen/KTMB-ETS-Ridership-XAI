@@ -1,0 +1,30 @@
+column,type,source,description
+date,date,derived,Calendar day (Asia/Kuala_Lumpur)
+state,text,lookup,State of the departure district
+district,text,lookup,DOSM administrative district of the departure station
+split,text,derived,"'study' (2023-2025, train/test) or 'holdout' (2026, unseen check)"
+ridership,int,data.gov.my ridership_od_ets,TARGET: ETS trips departing this district this day to stations on the established line (Padang Besar-Gemas)
+active_hours,int,data.gov.my ridership_od_ets,Hours of the day with at least one departure
+n_destinations,int,data.gov.my ridership_od_ets,Distinct destination stations served that day
+days_since_service_start,int,derived,"Days since the district's first ETS departure, capped at 365"
+year,int,derived,Calendar year
+month,int,derived,Month 1-12
+day_of_week,int,derived,0 = Monday ... 6 = Sunday
+is_weekend,0/1,derived,Saturday or Sunday
+holiday_name,text,holidays package,"Name of the public holiday in this state, blank if none"
+is_public_holiday,0/1,holidays package,Federal or state public holiday in this state
+is_holiday_eve,0/1,derived,Day before a public holiday (typical outbound travel day)
+days_to_festival,int,derived,"Days until the next major festival, capped at 30"
+days_since_festival,int,derived,"Days since the last major festival, capped at 30"
+is_festive_period,0/1,derived,Within 7 days of a major festival
+festival,text,derived,Which festival the festive period belongs to
+temp_mean_c,float,Open-Meteo archive,Daily mean air temperature at 2 m (deg C)
+temp_max_c,float,Open-Meteo archive,Daily max air temperature at 2 m (deg C)
+rain_mm,float,Open-Meteo archive,Daily total precipitation (mm)
+rain_hours,float,Open-Meteo archive,Hours with precipitation
+is_heavy_rain,0/1,derived,rain_mm >= 20
+population_k,float,DOSM population_district,"District population, thousands (latest year <= row year)"
+population_src_year,int,DOSM population_district,DOSM year the population value comes from
+hh_income_mean_rm,float,DOSM hh_income_district,Mean gross monthly household income (RM)
+hh_income_median_rm,float,DOSM hh_income_district,Median gross monthly household income (RM)
+income_src_year,int,DOSM hh_income_district,HIES year the income value comes from

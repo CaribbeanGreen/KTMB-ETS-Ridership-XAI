@@ -1,0 +1,95 @@
+== 1. RIDERSHIP ==
+ets_2023: 527,131 hourly O-D rows, 2023-01-01 to 2023-12-31, 4,114,978 trips
+ets_2024: 504,580 hourly O-D rows, 2024-01-01 to 2024-12-31, 4,145,120 trips
+ets_2025: 496,689 hourly O-D rows, 2025-01-01 to 2025-12-31, 4,174,696 trips
+ets_2026: 682,394 hourly O-D rows, 2026-01-01 to 2026-10-21, 5,154,815 trips
+All 50 origin stations mapped to 28 districts.
+
+Districts that opened during the data period: ['Johor Bahru', 'Klang', 'Kluang', 'Kulai', 'Rembau', 'Segamat']
+Trips TO those districts removed from the target (not part of the established line):
+   2025: 83,764 trips (2.0% of that year)
+   2026: 957,328 trips (18.6% of that year)
+District-days after aggregation: 38,920
+
+== 2. CALENDAR ==
+Festival start dates found: 20
+   2023-01-22  chinese_new_year
+   2023-04-21  hari_raya_aidilfitri
+   2023-06-29  hari_raya_haji
+   2023-11-12  deepavali
+   2023-12-25  christmas
+   2024-02-10  chinese_new_year
+   2024-04-10  hari_raya_aidilfitri
+   2024-06-17  hari_raya_haji
+   2024-10-31  deepavali
+   2024-12-25  christmas
+   2025-01-29  chinese_new_year
+   2025-03-31  hari_raya_aidilfitri
+   2025-06-07  hari_raya_haji
+   2025-10-20  deepavali
+   2025-12-25  christmas
+   2026-02-17  chinese_new_year
+   2026-03-20  hari_raya_aidilfitri
+   2026-05-27  hari_raya_haji
+   2026-11-08  deepavali
+   2026-12-25  christmas
+Public-holiday district-days: 2,259  |  festive-period district-days: 7,560
+
+== 3. WEATHER ==
+Weather attached for 99.6% of district-days
+
+== 4. DOSM ==
+population: matched 100% of rows
+income: matched 100% of rows
+Source year used per study year (population / income):
+   2023: population [2023]  income [2022]
+   2024: population [2024]  income [2022, 2024]
+   2025: population [2025]  income [2022, 2024]
+   2026: population [2025]  income [2022, 2024]
+
+== 5. SERVICE COVERAGE ==
+First recorded departure per district (only those after 2023-01-01 shown):
+   Segamat: 2025-03-15
+   Kluang: 2025-08-30
+   Johor Bahru: 2025-12-12
+   Kulai: 2025-12-12
+   Klang: 2026-04-18
+   Rembau: 2026-07-31
+Pre-service district-days removed (structural zeros): 6,438
+Dropped - no service in study years: ['Klang', 'Rembau']
+Dropped - under 20 trips/day on average: Ulu Selangor (6.6)
+Dropped - southern extension, under 1 year of study history: ['Segamat', 'Kluang', 'Kulai', 'Johor Bahru']
+Dropped - weather not yet published (archive lags ~1 week): 126 rows, 2026-10-16 to 2026-10-21
+Districts kept: 21
+
+== 6. FINAL DATASET ==
+holdout: 6,048 rows | 2026-01-01 to 2026-10-15 | 21 districts | 3,522,493 trips
+study: 23,016 rows | 2023-01-01 to 2025-12-31 | 21 districts | 12,262,148 trips
+
+Missing values per column (only columns with gaps):
+   none
+
+Ridership by district (study years):
+                            sum    mean   max
+district                                     
+W.P. Kuala Lumpur       4396972  4011.8  5632
+Kinta                   1990539  1816.2  2670
+Seberang Perai Utara     914731   834.6  1428
+Perlis                   848177   773.9  1433
+Seberang Perai Tengah    533318   486.6   829
+Petaling                 517362   472.0  1002
+Larut dan Matang         459469   419.2   805
+Kuala Muda               368191   335.9   701
+Kota Setar               346765   316.4   747
+Kampar                   329226   300.4  1019
+Muallim                  267886   244.4   918
+Kerian                   226212   206.4   484
+Tampin                   203613   185.8   446
+Kuala Kangsar            202027   184.3   773
+Batang Padang            174510   159.2   991
+Seremban                 124344   113.5   229
+Alor Gajah               124041   113.2   306
+Ulu Langat                86987    79.4   186
+Gombak                    66657    60.8   154
+Jasin                     48957    44.7   170
+Seberang Perai Selatan    32164    29.3   141

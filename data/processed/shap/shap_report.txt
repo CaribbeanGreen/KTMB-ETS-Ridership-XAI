@@ -1,0 +1,47 @@
+Explaining 422 rows with TreeSHAP (100 trees)...
+Done in 399s. Base value (average training prediction) = 535.0 trips
+
+== CHECK 1: additivity (base + sum of SHAP = prediction) ==
+max error over 422 rows: 5.46e-12 trips  ->  PASS
+
+== CHECK 2: TreeSHAP vs exact Shapley enumeration (2^13 = 8,192 subsets) ==
+row 0 (W.P. Kuala Lumpur, 2025-03-28): max difference 1.82e-12 (19s)
+row 1 (W.P. Kuala Lumpur, 2025-06-08): max difference 1.36e-12 (20s)
+row 2 (W.P. Kuala Lumpur, 2025-07-01): max difference 1.36e-12 (20s)
+-> PASS (differences are floating-point rounding only)
+
+== CHECK 3: do the explanations make sense? ==
+Holiday eve pushes UP on holiday-eve days: mean SHAP +25.7 trips over 62 rows -> PASS
+Days-to-festival pushes UP in the week before a festival: mean SHAP +30.3 trips over 94 rows -> PASS
+Weekend pushes UP on weekends: mean SHAP +4.3 trips over 122 rows -> PASS
+Day of week pushes DOWN on Tue/Wed: mean SHAP -50.2 trips over 118 rows -> PASS
+Ramadan pushes DOWN during Ramadan: mean SHAP -29.4 trips over 53 rows -> PASS
+
+== GLOBAL: mean |SHAP| (trips) ==
+  District population             346.4
+  Median household income         205.8
+  Day of week                      36.3
+  Mean temperature                 18.9
+  Festive period                    9.0
+  Days since festival               7.4
+  Days to festival                  6.2
+  Month                             5.7
+  Rainfall                          4.5
+  Weekend                           4.1
+  Ramadan                           3.8
+  Public holiday                    3.6
+  Holiday eve                       2.1
+
+LOCAL fig_shap_local_raya.png: predicted 5,196, actual 5,474
+  District population          =         2,074k    +2582.6
+  Median household income      =      RM 10,234    +1404.7
+  Days to festival             =         3 days     +275.2
+  Day of week                  =            Fri     +179.4
+  Festive period               =            yes     +169.0
+
+LOCAL fig_shap_local_test.png: predicted 4,717, actual 4,302
+  District population          =         2,074k    +2475.4
+  Median household income      =      RM 10,234    +1314.2
+  Days since festival          =         1 days     +188.5
+  Day of week                  =            Sun     +116.0
+  Festive period               =            yes     +101.7

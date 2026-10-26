@@ -1,0 +1,8 @@
+{
+  "n_trees": 100,
+  "max_depth": 20,
+  "min_samples_leaf": 1,
+  "max_features": 0.5,
+  "random_state": 42,
+  "tuned": true
+}

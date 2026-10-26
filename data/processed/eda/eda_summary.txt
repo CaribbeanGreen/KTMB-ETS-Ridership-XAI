@@ -1,0 +1,48 @@
+EDA on study period: 2023-01-01 to 2025-12-31, 23,016 district-days, 21 districts
+Ramadan periods: 2023-03-23 to 2023-04-20; 2024-03-12 to 2024-04-09; 2025-03-02 to 2025-03-30
+
+== Fig 1: daily trend ==
+2023: total 4,112,516 | mean/day 11,267 | min 6,464 | max 14,576
+2024: total 4,142,602 | mean/day 11,319 | min 6,866 | max 14,589
+2025: total 4,007,030 | mean/day 10,978 | min 6,758 | max 15,312
+Busiest days: 2025-04-06 (15,312); 2025-03-28 (15,237); 2024-02-09 (14,589); 2023-05-01 (14,576); 2024-02-12 (14,458)
+Quietest days: 2023-01-10 (6,464); 2023-03-29 (6,713); 2025-03-05 (6,758); 2024-03-20 (6,866); 2023-04-05 (6,869)
+
+== Fig 2: weekly / monthly pattern ==
+Day of week (normal periods): Mon 11,110, Tue 9,591, Wed 9,636, Thu 10,762, Fri 12,077, Sat 11,760, Sun 12,045
+Busiest weekday Fri is 26% above quietest Tue
+Month: Jan 10,931, Feb 11,831, Mar 10,700, Apr 11,371, May 10,965, Jun 11,543, Jul 11,092, Aug 11,019, Sep 11,154, Oct 10,768, Nov 11,132, Dec 11,820
+
+== Fig 3: festive curve (index, normal same weekday = 100) ==
+Hari Raya Aidilfitri: peak before = 125 (day -1), festival day = 119, peak after = 124 (day +4)
+Chinese New Year: peak before = 124 (day -1), festival day = 117, peak after = 130 (day +3)
+Deepavali: peak before = 118 (day -1), festival day = 114, peak after = 124 (day +2)
+Hari Raya Haji: peak before = 124 (day -2), festival day = 116, peak after = 122 (day +1)
+Christmas: peak before = 122 (day -1), festival day = 119, peak after = 121 (day +1)
+
+== Fig 4: uplift vs each district's normal weekday ==
+Weekend: +15.0%  (n=5,229 district-days)
+Holiday eve: +21.1%  (n=978 district-days)
+Public holiday: +22.4%  (n=1,304 district-days)
+Festive period (±7 days): +21.1%  (n=4,704 district-days)
+Ramadan: -4.2%  (n=1,386 district-days)
+
+== Fig 5: rainfall (normal weekdays) ==
+Dry (<0.1 mm): -1.3% (n=1,213)
+Light (0.1–5 mm): -0.1% (n=4,229)
+Moderate (5–20 mm): +1.1% (n=4,406)
+Heavy (≥20 mm): +0.8% (n=1,777)
+population: r = 0.36
+income: r = -0.03
+
+== Fig 6: district profile ==
+Share of study trips: W.P. Kuala Lumpur 35.9%, Kinta 16.2%, Seberang Perai Utara 7.5%, Perlis 6.9%, Seberang Perai Tengah 4.3%
+Top 2 districts together: 52.1%
+
+== Fig 7: correlation with ridership ==
+Population +0.52, Median income +0.27, Mean temp +0.12, Day of week +0.04, Festive period +0.03, Weekend +0.03, Public holiday +0.02, Days since festival -0.02, Holiday eve +0.01, Rain hours -0.01, Days to festival -0.01, Rainfall +0.00, Month +0.00
+Highly correlated feature pairs (|r| >= 0.7): Day of week ~ Weekend (+0.79); Population ~ Median income (+0.82)
+
+== Fig 8: target distribution ==
+District-day ridership: mean 533, median 241, std 885, skewness 3.23, zero days 0
+Network daily: mean 11,188, std 1,495, skewness -0.44

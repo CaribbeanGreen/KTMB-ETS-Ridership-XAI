@@ -1,0 +1,54 @@
+{
+  "rows_explained": 422,
+  "seconds": 398.6,
+  "base_value": 534.9571754729288,
+  "additivity_max_error": 5.4569682106375694e-12,
+  "exact_vs_treeshap_max_diff": 1.8189894035458565e-12,
+  "sanity_checks": [
+    {
+      "check": "Holiday eve pushes UP on holiday-eve days",
+      "rows": 62,
+      "mean_shap": 25.67391779473601,
+      "pass": true
+    },
+    {
+      "check": "Days-to-festival pushes UP in the week before a festival",
+      "rows": 94,
+      "mean_shap": 30.311143668809493,
+      "pass": true
+    },
+    {
+      "check": "Weekend pushes UP on weekends",
+      "rows": 122,
+      "mean_shap": 4.255435916617404,
+      "pass": true
+    },
+    {
+      "check": "Day of week pushes DOWN on Tue/Wed",
+      "rows": 118,
+      "mean_shap": -50.225845396091756,
+      "pass": true
+    },
+    {
+      "check": "Ramadan pushes DOWN during Ramadan",
+      "rows": 53,
+      "mean_shap": -29.380479511489945,
+      "pass": true
+    }
+  ],
+  "mean_abs_shap": {
+    "is_holiday_eve": 2.1336152672820266,
+    "is_public_holiday": 3.5564716569811305,
+    "is_ramadan": 3.8324564542404618,
+    "is_weekend": 4.090467089912173,
+    "rain_mm": 4.4823084211872954,
+    "month": 5.738399960282407,
+    "days_to_festival": 6.161821853604696,
+    "days_since_festival": 7.4193526756840935,
+    "is_festive_period": 8.98740330995281,
+    "temp_mean_c": 18.904808132272418,
+    "day_of_week": 36.25765046021407,
+    "hh_income_median_rm": 205.82316434999152,
+    "population_k": 346.37258153562254
+  }
+}

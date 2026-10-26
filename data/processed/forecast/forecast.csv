@@ -1,0 +1,1618 @@
+date,district,pred,normal,temp_mean_c,rain_mm,holiday_name,festival,weather_source
+2026-10-16,Alor Gajah,153.3,139.8,27.7,2.9,,,Open-Meteo recent weather
+2026-10-16,Batang Padang,209.4,219.3,27.3,3.1,,,Open-Meteo recent weather
+2026-10-16,Gombak,40.1,43.0,27.0,10.4,,,Open-Meteo recent weather
+2026-10-16,Jasin,75.5,80.3,27.3,6.8,,,Open-Meteo recent weather
+2026-10-16,Kampar,343.8,383.5,27.2,3.6,,,Open-Meteo recent weather
+2026-10-16,Kerian,212.3,215.2,26.7,13.5,,,Open-Meteo recent weather
+2026-10-16,Kinta,1966.7,1867.2,27.6,9.3,,,Open-Meteo recent weather
+2026-10-16,Kota Setar,335.1,324.6,27.3,7.3,,,Open-Meteo recent weather
+2026-10-16,Kuala Kangsar,221.5,215.5,26.6,9.3,,,Open-Meteo recent weather
+2026-10-16,Kuala Muda,403.6,386.1,26.8,14.7,,,Open-Meteo recent weather
+2026-10-16,Larut dan Matang,447.0,453.9,27.4,13.2,,,Open-Meteo recent weather
+2026-10-16,Muallim,294.3,262.6,27.7,3.5,,,Open-Meteo recent weather
+2026-10-16,Perlis,614.7,598.4,27.3,8.0,,,Open-Meteo recent weather
+2026-10-16,Petaling,564.7,561.5,27.2,3.8,,,Open-Meteo recent weather
+2026-10-16,Seberang Perai Selatan,46.1,39.0,26.6,15.2,,,Open-Meteo recent weather
+2026-10-16,Seberang Perai Tengah,547.2,561.4,27.5,12.3,,,Open-Meteo recent weather
+2026-10-16,Seberang Perai Utara,1012.5,927.2,27.5,12.3,,,Open-Meteo recent weather
+2026-10-16,Seremban,222.2,145.1,27.7,13.4,,,Open-Meteo recent weather
+2026-10-16,Tampin,150.2,129.9,27.7,15.2,,,Open-Meteo recent weather
+2026-10-16,Ulu Langat,106.1,91.5,27.1,6.2,,,Open-Meteo recent weather
+2026-10-16,W.P. Kuala Lumpur,4458.8,4340.2,27.8,5.6,,,Open-Meteo recent weather
+2026-10-17,Alor Gajah,139.8,134.8,26.9,8.6,,,Open-Meteo recent weather
+2026-10-17,Batang Padang,159.0,196.9,26.8,50.2,,,Open-Meteo recent weather
+2026-10-17,Gombak,72.4,54.6,26.0,33.6,,,Open-Meteo recent weather
+2026-10-17,Jasin,50.3,51.0,26.8,10.7,,,Open-Meteo recent weather
+2026-10-17,Kampar,335.1,302.1,26.6,34.7,,,Open-Meteo recent weather
+2026-10-17,Kerian,231.8,227.5,26.3,36.7,,,Open-Meteo recent weather
+2026-10-17,Kinta,2094.6,1897.4,27.3,25.8,,,Open-Meteo recent weather
+2026-10-17,Kota Setar,333.2,300.8,26.7,16.4,,,Open-Meteo recent weather
+2026-10-17,Kuala Kangsar,186.1,182.9,26.0,20.3,,,Open-Meteo recent weather
+2026-10-17,Kuala Muda,363.2,345.4,26.5,18.5,,,Open-Meteo recent weather
+2026-10-17,Larut dan Matang,439.1,418.4,26.9,16.5,,,Open-Meteo recent weather
+2026-10-17,Muallim,282.1,251.2,26.9,35.8,,,Open-Meteo recent weather
+2026-10-17,Perlis,742.7,741.6,26.7,9.8,,,Open-Meteo recent weather
+2026-10-17,Petaling,601.5,558.0,26.2,27.1,,,Open-Meteo recent weather
+2026-10-17,Seberang Perai Selatan,40.3,34.8,26.3,33.0,,,Open-Meteo recent weather
+2026-10-17,Seberang Perai Tengah,560.9,557.3,27.1,13.5,,,Open-Meteo recent weather
+2026-10-17,Seberang Perai Utara,978.9,938.7,27.1,13.5,,,Open-Meteo recent weather
+2026-10-17,Seremban,200.0,172.1,26.7,10.3,,,Open-Meteo recent weather
+2026-10-17,Tampin,118.2,123.6,26.9,12.9,,,Open-Meteo recent weather
+2026-10-17,Ulu Langat,94.0,90.6,26.2,9.6,,,Open-Meteo recent weather
+2026-10-17,W.P. Kuala Lumpur,4272.2,4243.6,26.7,26.2,,,Open-Meteo recent weather
+2026-10-18,Alor Gajah,154.3,141.3,27.0,19.8,,,Open-Meteo recent weather
+2026-10-18,Batang Padang,166.0,195.4,26.8,9.9,,,Open-Meteo recent weather
+2026-10-18,Gombak,75.0,74.6,26.3,18.1,,,Open-Meteo recent weather
+2026-10-18,Jasin,60.8,62.1,27.2,14.3,,,Open-Meteo recent weather
+2026-10-18,Kampar,326.2,299.4,26.4,20.5,,,Open-Meteo recent weather
+2026-10-18,Kerian,224.5,234.5,25.6,13.5,,,Open-Meteo recent weather
+2026-10-18,Kinta,1975.7,1903.6,26.9,10.2,,,Open-Meteo recent weather
+2026-10-18,Kota Setar,248.2,262.4,26.3,11.4,,,Open-Meteo recent weather
+2026-10-18,Kuala Kangsar,181.8,188.8,25.6,23.0,,,Open-Meteo recent weather
+2026-10-18,Kuala Muda,355.0,312.7,26.4,1.4,,,Open-Meteo recent weather
+2026-10-18,Larut dan Matang,501.4,479.5,26.6,11.8,,,Open-Meteo recent weather
+2026-10-18,Muallim,245.2,252.6,26.4,16.3,,,Open-Meteo recent weather
+2026-10-18,Perlis,923.3,821.5,26.4,12.7,,,Open-Meteo recent weather
+2026-10-18,Petaling,599.6,577.0,26.3,20.6,,,Open-Meteo recent weather
+2026-10-18,Seberang Perai Selatan,34.3,36.5,25.7,18.2,,,Open-Meteo recent weather
+2026-10-18,Seberang Perai Tengah,513.9,523.5,27.0,3.8,,,Open-Meteo recent weather
+2026-10-18,Seberang Perai Utara,907.1,909.3,27.0,3.8,,,Open-Meteo recent weather
+2026-10-18,Seremban,199.2,171.0,26.9,11.1,,,Open-Meteo recent weather
+2026-10-18,Tampin,159.7,174.1,27.3,10.8,,,Open-Meteo recent weather
+2026-10-18,Ulu Langat,119.5,96.9,26.5,23.0,,,Open-Meteo recent weather
+2026-10-18,W.P. Kuala Lumpur,4425.7,4335.5,26.8,20.1,,,Open-Meteo recent weather
+2026-10-19,Alor Gajah,122.6,111.1,27.7,4.4,,,Open-Meteo recent weather
+2026-10-19,Batang Padang,126.0,128.9,27.4,6.4,,,Open-Meteo recent weather
+2026-10-19,Gombak,54.2,56.7,27.5,17.9,,,Open-Meteo recent weather
+2026-10-19,Jasin,43.7,39.7,27.4,2.8,,,Open-Meteo recent weather
+2026-10-19,Kampar,311.2,259.3,27.7,3.5,,,Open-Meteo recent weather
+2026-10-19,Kerian,190.5,191.7,27.6,6.4,,,Open-Meteo recent weather
+2026-10-19,Kinta,1879.0,1864.9,28.0,4.8,,,Open-Meteo recent weather
+2026-10-19,Kota Setar,267.2,262.7,27.5,4.5,,,Open-Meteo recent weather
+2026-10-19,Kuala Kangsar,140.6,148.5,26.9,2.1,,,Open-Meteo recent weather
+2026-10-19,Kuala Muda,306.6,288.2,27.3,9.0,,,Open-Meteo recent weather
+2026-10-19,Larut dan Matang,404.2,416.5,27.9,4.5,,,Open-Meteo recent weather
+2026-10-19,Muallim,175.9,193.6,27.4,5.2,,,Open-Meteo recent weather
+2026-10-19,Perlis,853.4,853.1,27.3,9.3,,,Open-Meteo recent weather
+2026-10-19,Petaling,491.8,456.3,27.7,19.7,,,Open-Meteo recent weather
+2026-10-19,Seberang Perai Selatan,28.2,25.6,27.7,7.5,,,Open-Meteo recent weather
+2026-10-19,Seberang Perai Tengah,482.2,494.0,28.3,7.3,,,Open-Meteo recent weather
+2026-10-19,Seberang Perai Utara,986.8,904.7,28.3,7.3,,,Open-Meteo recent weather
+2026-10-19,Seremban,206.0,119.1,27.6,8.9,,,Open-Meteo recent weather
+2026-10-19,Tampin,115.5,128.7,28.1,4.7,,,Open-Meteo recent weather
+2026-10-19,Ulu Langat,91.9,75.5,27.7,5.2,,,Open-Meteo recent weather
+2026-10-19,W.P. Kuala Lumpur,3869.6,3874.2,28.3,11.0,,,Open-Meteo recent weather
+2026-10-20,Alor Gajah,115.2,97.2,28.1,4.2,,,Open-Meteo recent weather
+2026-10-20,Batang Padang,101.8,107.3,26.5,16.1,,,Open-Meteo recent weather
+2026-10-20,Gombak,36.9,40.2,26.9,9.1,,,Open-Meteo recent weather
+2026-10-20,Jasin,37.8,33.3,27.9,2.0,,,Open-Meteo recent weather
+2026-10-20,Kampar,247.0,225.3,26.6,14.4,,,Open-Meteo recent weather
+2026-10-20,Kerian,146.1,152.2,26.5,25.1,,,Open-Meteo recent weather
+2026-10-20,Kinta,1535.2,1633.2,26.9,17.6,,,Open-Meteo recent weather
+2026-10-20,Kota Setar,292.0,306.8,26.9,32.5,,,Open-Meteo recent weather
+2026-10-20,Kuala Kangsar,134.8,136.8,26.5,16.7,,,Open-Meteo recent weather
+2026-10-20,Kuala Muda,296.0,310.5,26.4,24.2,,,Open-Meteo recent weather
+2026-10-20,Larut dan Matang,343.1,343.8,26.7,24.3,,,Open-Meteo recent weather
+2026-10-20,Muallim,163.4,186.2,26.7,10.3,,,Open-Meteo recent weather
+2026-10-20,Perlis,565.6,575.0,26.8,25.5,,,Open-Meteo recent weather
+2026-10-20,Petaling,384.8,392.4,27.0,16.6,,,Open-Meteo recent weather
+2026-10-20,Seberang Perai Selatan,25.1,25.7,26.6,25.2,,,Open-Meteo recent weather
+2026-10-20,Seberang Perai Tengah,371.5,394.9,27.1,25.1,,,Open-Meteo recent weather
+2026-10-20,Seberang Perai Utara,735.4,745.6,27.2,25.1,,,Open-Meteo recent weather
+2026-10-20,Seremban,207.5,115.2,28.1,3.9,,,Open-Meteo recent weather
+2026-10-20,Tampin,93.1,101.6,28.5,1.9,,,Open-Meteo recent weather
+2026-10-20,Ulu Langat,92.9,74.8,27.7,2.3,,,Open-Meteo recent weather
+2026-10-20,W.P. Kuala Lumpur,3237.1,3326.2,27.8,7.5,,,Open-Meteo recent weather
+2026-10-21,Alor Gajah,109.6,92.7,27.7,4.4,,,Open-Meteo recent weather
+2026-10-21,Batang Padang,106.8,106.4,27.3,2.7,,,Open-Meteo recent weather
+2026-10-21,Gombak,41.1,40.8,27.7,3.3,,,Open-Meteo recent weather
+2026-10-21,Jasin,45.1,33.5,27.5,0.9,,,Open-Meteo recent weather
+2026-10-21,Kampar,242.5,228.0,27.2,5.4,,,Open-Meteo recent weather
+2026-10-21,Kerian,143.4,153.1,26.6,10.6,,,Open-Meteo recent weather
+2026-10-21,Kinta,1513.0,1611.1,27.5,11.9,,,Open-Meteo recent weather
+2026-10-21,Kota Setar,291.0,308.4,27.2,11.9,,,Open-Meteo recent weather
+2026-10-21,Kuala Kangsar,125.8,131.5,26.3,12.0,,,Open-Meteo recent weather
+2026-10-21,Kuala Muda,298.7,311.4,27.1,7.1,,,Open-Meteo recent weather
+2026-10-21,Larut dan Matang,344.4,350.5,27.5,12.9,,,Open-Meteo recent weather
+2026-10-21,Muallim,168.9,188.8,27.8,6.2,,,Open-Meteo recent weather
+2026-10-21,Perlis,531.5,553.9,26.7,14.4,,,Open-Meteo recent weather
+2026-10-21,Petaling,397.1,403.9,27.9,9.6,,,Open-Meteo recent weather
+2026-10-21,Seberang Perai Selatan,27.8,28.3,26.7,14.4,,,Open-Meteo recent weather
+2026-10-21,Seberang Perai Tengah,362.7,383.1,27.6,15.1,,,Open-Meteo recent weather
+2026-10-21,Seberang Perai Utara,776.6,757.9,27.6,15.1,,,Open-Meteo recent weather
+2026-10-21,Seremban,215.1,112.8,28.6,0.8,,,Open-Meteo recent weather
+2026-10-21,Tampin,92.5,102.6,28.3,1.1,,,Open-Meteo recent weather
+2026-10-21,Ulu Langat,99.2,76.5,28.4,5.3,,,Open-Meteo recent weather
+2026-10-21,W.P. Kuala Lumpur,3259.7,3436.7,28.9,0.9,,,Open-Meteo recent weather
+2026-10-22,Alor Gajah,120.6,112.1,27.9,9.0,,,Open-Meteo recent weather
+2026-10-22,Batang Padang,151.6,184.4,26.6,7.7,,,Open-Meteo recent weather
+2026-10-22,Gombak,35.3,39.0,27.1,8.4,,,Open-Meteo recent weather
+2026-10-22,Jasin,38.4,34.2,27.8,3.2,,,Open-Meteo recent weather
+2026-10-22,Kampar,306.3,310.9,26.7,17.4,,,Open-Meteo recent weather
+2026-10-22,Kerian,149.3,160.2,26.4,12.8,,,Open-Meteo recent weather
+2026-10-22,Kinta,1664.5,1681.1,26.8,12.1,,,Open-Meteo recent weather
+2026-10-22,Kota Setar,382.0,374.0,27.2,15.5,,,Open-Meteo recent weather
+2026-10-22,Kuala Kangsar,141.7,155.4,26.2,4.6,,,Open-Meteo recent weather
+2026-10-22,Kuala Muda,368.7,388.7,26.4,18.4,,,Open-Meteo recent weather
+2026-10-22,Larut dan Matang,337.3,348.7,27.2,9.0,,,Open-Meteo recent weather
+2026-10-22,Muallim,202.6,229.7,27.0,6.1,,,Open-Meteo recent weather
+2026-10-22,Perlis,555.9,565.8,27.0,10.9,,,Open-Meteo recent weather
+2026-10-22,Petaling,475.7,483.0,27.3,5.6,,,Open-Meteo recent weather
+2026-10-22,Seberang Perai Selatan,28.1,26.9,26.3,15.5,,,Open-Meteo recent weather
+2026-10-22,Seberang Perai Tengah,423.2,439.2,26.9,23.5,,,Open-Meteo recent weather
+2026-10-22,Seberang Perai Utara,775.6,777.7,26.9,23.5,,,Open-Meteo recent weather
+2026-10-22,Seremban,180.3,108.0,27.8,2.7,,,Open-Meteo recent weather
+2026-10-22,Tampin,94.5,105.3,28.7,5.1,,,Open-Meteo recent weather
+2026-10-22,Ulu Langat,112.7,83.6,27.6,4.3,,,Open-Meteo recent weather
+2026-10-22,W.P. Kuala Lumpur,4086.9,4007.2,28.2,5.8,,,Open-Meteo recent weather
+2026-10-23,Alor Gajah,138.6,139.8,26.1,11.2,,,Open-Meteo weather forecast
+2026-10-23,Batang Padang,178.1,219.3,25.7,30.0,,,Open-Meteo weather forecast
+2026-10-23,Gombak,46.7,43.0,25.5,15.5,,,Open-Meteo weather forecast
+2026-10-23,Jasin,72.0,80.3,25.9,15.0,,,Open-Meteo weather forecast
+2026-10-23,Kampar,400.5,383.5,25.8,22.4,,,Open-Meteo weather forecast
+2026-10-23,Kerian,210.0,215.2,25.8,12.4,,,Open-Meteo weather forecast
+2026-10-23,Kinta,1860.4,1867.2,26.1,23.6,,,Open-Meteo weather forecast
+2026-10-23,Kota Setar,333.8,324.6,26.2,17.0,,,Open-Meteo weather forecast
+2026-10-23,Kuala Kangsar,244.3,215.5,25.3,28.6,,,Open-Meteo weather forecast
+2026-10-23,Kuala Muda,387.0,386.1,26.0,8.9,,,Open-Meteo weather forecast
+2026-10-23,Larut dan Matang,459.3,453.9,26.3,12.0,,,Open-Meteo weather forecast
+2026-10-23,Muallim,247.3,262.6,25.7,16.1,,,Open-Meteo weather forecast
+2026-10-23,Perlis,557.3,598.4,25.8,16.5,,,Open-Meteo weather forecast
+2026-10-23,Petaling,574.2,561.5,25.7,12.9,,,Open-Meteo weather forecast
+2026-10-23,Seberang Perai Selatan,39.5,39.0,26.1,7.6,,,Open-Meteo weather forecast
+2026-10-23,Seberang Perai Tengah,564.8,561.4,26.8,6.3,,,Open-Meteo weather forecast
+2026-10-23,Seberang Perai Utara,961.0,927.2,26.8,6.3,,,Open-Meteo weather forecast
+2026-10-23,Seremban,126.1,145.1,26.1,6.7,,,Open-Meteo weather forecast
+2026-10-23,Tampin,128.6,129.9,26.2,10.3,,,Open-Meteo weather forecast
+2026-10-23,Ulu Langat,85.9,91.5,25.6,22.5,,,Open-Meteo weather forecast
+2026-10-23,W.P. Kuala Lumpur,4325.4,4340.2,26.4,28.8,,,Open-Meteo weather forecast
+2026-10-24,Alor Gajah,128.1,134.8,25.4,9.2,,,Open-Meteo weather forecast
+2026-10-24,Batang Padang,158.0,196.9,25.3,29.1,,,Open-Meteo weather forecast
+2026-10-24,Gombak,52.0,54.6,25.0,17.3,,,Open-Meteo weather forecast
+2026-10-24,Jasin,47.6,51.0,25.6,14.7,,,Open-Meteo weather forecast
+2026-10-24,Kampar,319.0,302.1,25.2,44.0,,,Open-Meteo weather forecast
+2026-10-24,Kerian,232.7,227.5,24.6,33.9,,,Open-Meteo weather forecast
+2026-10-24,Kinta,1893.0,1897.4,25.4,19.4,,,Open-Meteo weather forecast
+2026-10-24,Kota Setar,288.3,300.8,25.3,30.3,,,Open-Meteo weather forecast
+2026-10-24,Kuala Kangsar,177.1,182.9,24.7,14.5,,,Open-Meteo weather forecast
+2026-10-24,Kuala Muda,336.4,345.4,24.6,25.8,,,Open-Meteo weather forecast
+2026-10-24,Larut dan Matang,404.3,418.4,25.1,28.1,,,Open-Meteo weather forecast
+2026-10-24,Muallim,205.5,251.2,25.3,22.9,,,Open-Meteo weather forecast
+2026-10-24,Perlis,757.6,741.6,25.4,23.0,,,Open-Meteo weather forecast
+2026-10-24,Petaling,535.6,558.0,25.0,20.3,,,Open-Meteo weather forecast
+2026-10-24,Seberang Perai Selatan,34.3,34.8,24.8,25.0,,,Open-Meteo weather forecast
+2026-10-24,Seberang Perai Tengah,546.5,557.3,25.7,25.0,,,Open-Meteo weather forecast
+2026-10-24,Seberang Perai Utara,976.7,938.7,25.7,25.0,,,Open-Meteo weather forecast
+2026-10-24,Seremban,148.2,172.1,25.3,29.9,,,Open-Meteo weather forecast
+2026-10-24,Tampin,123.2,123.6,26.2,16.3,,,Open-Meteo weather forecast
+2026-10-24,Ulu Langat,82.1,90.6,25.4,20.3,,,Open-Meteo weather forecast
+2026-10-24,W.P. Kuala Lumpur,4243.1,4243.6,25.9,21.3,,,Open-Meteo weather forecast
+2026-10-25,Alor Gajah,135.1,141.3,24.7,20.6,,,Open-Meteo weather forecast
+2026-10-25,Batang Padang,150.9,195.4,24.9,19.9,,,Open-Meteo weather forecast
+2026-10-25,Gombak,68.8,74.6,24.3,23.7,,,Open-Meteo weather forecast
+2026-10-25,Jasin,61.6,62.1,25.2,15.1,,,Open-Meteo weather forecast
+2026-10-25,Kampar,329.8,299.4,25.1,29.6,,,Open-Meteo weather forecast
+2026-10-25,Kerian,221.7,234.5,24.6,28.4,,,Open-Meteo weather forecast
+2026-10-25,Kinta,1944.1,1903.6,25.3,24.1,,,Open-Meteo weather forecast
+2026-10-25,Kota Setar,232.2,262.4,25.1,26.7,,,Open-Meteo weather forecast
+2026-10-25,Kuala Kangsar,177.3,188.8,24.6,18.2,,,Open-Meteo weather forecast
+2026-10-25,Kuala Muda,264.6,312.7,24.6,32.6,,,Open-Meteo weather forecast
+2026-10-25,Larut dan Matang,467.0,479.5,25.0,25.5,,,Open-Meteo weather forecast
+2026-10-25,Muallim,211.5,252.6,25.0,17.8,,,Open-Meteo weather forecast
+2026-10-25,Perlis,885.6,821.5,25.1,24.7,,,Open-Meteo weather forecast
+2026-10-25,Petaling,541.5,577.0,24.5,19.8,,,Open-Meteo weather forecast
+2026-10-25,Seberang Perai Selatan,38.2,36.5,24.7,19.1,,,Open-Meteo weather forecast
+2026-10-25,Seberang Perai Tengah,508.4,523.5,25.5,21.3,,,Open-Meteo weather forecast
+2026-10-25,Seberang Perai Utara,935.9,909.3,25.6,21.3,,,Open-Meteo weather forecast
+2026-10-25,Seremban,115.6,171.0,24.8,16.3,,,Open-Meteo weather forecast
+2026-10-25,Tampin,183.6,174.1,25.8,13.6,,,Open-Meteo weather forecast
+2026-10-25,Ulu Langat,79.7,96.9,25.3,8.9,,,Open-Meteo weather forecast
+2026-10-25,W.P. Kuala Lumpur,4231.4,4335.5,25.5,16.3,,,Open-Meteo weather forecast
+2026-10-26,Alor Gajah,88.2,111.1,24.7,21.7,,,Open-Meteo weather forecast
+2026-10-26,Batang Padang,144.2,128.9,24.9,9.4,,,Open-Meteo weather forecast
+2026-10-26,Gombak,53.0,56.7,24.8,7.5,,,Open-Meteo weather forecast
+2026-10-26,Jasin,36.6,39.7,24.7,16.0,,,Open-Meteo weather forecast
+2026-10-26,Kampar,248.4,259.3,24.8,19.7,,,Open-Meteo weather forecast
+2026-10-26,Kerian,186.2,191.7,23.8,54.9,,,Open-Meteo weather forecast
+2026-10-26,Kinta,1864.5,1864.9,25.0,12.9,,,Open-Meteo weather forecast
+2026-10-26,Kota Setar,240.7,262.7,23.8,53.8,,,Open-Meteo weather forecast
+2026-10-26,Kuala Kangsar,143.3,148.5,23.9,20.5,,,Open-Meteo weather forecast
+2026-10-26,Kuala Muda,275.9,288.2,23.3,59.0,,,Open-Meteo weather forecast
+2026-10-26,Larut dan Matang,417.2,416.5,24.4,38.6,,,Open-Meteo weather forecast
+2026-10-26,Muallim,213.7,193.6,24.8,8.6,,,Open-Meteo weather forecast
+2026-10-26,Perlis,892.3,853.1,24.1,46.7,,,Open-Meteo weather forecast
+2026-10-26,Petaling,463.2,456.3,25.1,9.1,,,Open-Meteo weather forecast
+2026-10-26,Seberang Perai Selatan,26.6,25.6,24.0,61.6,,,Open-Meteo weather forecast
+2026-10-26,Seberang Perai Tengah,458.7,494.0,24.2,44.5,,,Open-Meteo weather forecast
+2026-10-26,Seberang Perai Utara,883.7,904.7,24.2,44.5,,,Open-Meteo weather forecast
+2026-10-26,Seremban,107.9,119.1,24.7,18.7,,,Open-Meteo weather forecast
+2026-10-26,Tampin,148.2,128.7,25.4,10.8,,,Open-Meteo weather forecast
+2026-10-26,Ulu Langat,66.0,75.5,25.1,8.0,,,Open-Meteo weather forecast
+2026-10-26,W.P. Kuala Lumpur,3735.3,3874.2,25.8,4.9,,,Open-Meteo weather forecast
+2026-10-27,Alor Gajah,99.0,97.2,26.6,5.4,,,Open-Meteo weather forecast
+2026-10-27,Batang Padang,102.1,107.3,26.3,3.7,,,Open-Meteo weather forecast
+2026-10-27,Gombak,37.8,40.2,25.3,9.3,,,Open-Meteo weather forecast
+2026-10-27,Jasin,30.9,33.3,25.9,7.4,,,Open-Meteo weather forecast
+2026-10-27,Kampar,269.0,225.3,26.2,6.0,,,Open-Meteo weather forecast
+2026-10-27,Kerian,141.0,152.2,24.9,19.1,,,Open-Meteo weather forecast
+2026-10-27,Kinta,1553.1,1633.2,26.0,9.3,,,Open-Meteo weather forecast
+2026-10-27,Kota Setar,300.8,306.8,25.5,16.6,,,Open-Meteo weather forecast
+2026-10-27,Kuala Kangsar,131.9,136.8,24.5,7.1,,,Open-Meteo weather forecast
+2026-10-27,Kuala Muda,304.5,310.5,24.8,29.6,,,Open-Meteo weather forecast
+2026-10-27,Larut dan Matang,329.4,343.8,25.6,15.0,,,Open-Meteo weather forecast
+2026-10-27,Muallim,170.7,186.2,26.0,1.9,,,Open-Meteo weather forecast
+2026-10-27,Perlis,559.7,575.0,25.1,11.5,,,Open-Meteo weather forecast
+2026-10-27,Petaling,382.2,392.4,25.1,9.4,,,Open-Meteo weather forecast
+2026-10-27,Seberang Perai Selatan,29.9,25.7,24.8,25.4,,,Open-Meteo weather forecast
+2026-10-27,Seberang Perai Tengah,390.8,394.9,25.3,18.1,,,Open-Meteo weather forecast
+2026-10-27,Seberang Perai Utara,772.6,745.6,25.3,18.1,,,Open-Meteo weather forecast
+2026-10-27,Seremban,114.7,115.2,26.3,10.0,,,Open-Meteo weather forecast
+2026-10-27,Tampin,112.7,101.6,26.0,4.0,,,Open-Meteo weather forecast
+2026-10-27,Ulu Langat,67.4,74.8,25.7,8.0,,,Open-Meteo weather forecast
+2026-10-27,W.P. Kuala Lumpur,3332.8,3326.2,25.9,14.2,,,Open-Meteo weather forecast
+2026-10-28,Alor Gajah,86.5,92.7,24.8,16.8,,,Open-Meteo weather forecast
+2026-10-28,Batang Padang,100.4,106.4,25.4,17.4,,,Open-Meteo weather forecast
+2026-10-28,Gombak,39.7,40.8,25.1,12.6,,,Open-Meteo weather forecast
+2026-10-28,Jasin,30.5,33.5,24.3,17.0,,,Open-Meteo weather forecast
+2026-10-28,Kampar,262.9,228.0,25.7,10.4,,,Open-Meteo weather forecast
+2026-10-28,Kerian,167.0,153.1,24.7,9.0,,,Open-Meteo weather forecast
+2026-10-28,Kinta,1549.5,1611.1,26.2,15.6,,,Open-Meteo weather forecast
+2026-10-28,Kota Setar,302.0,308.4,25.5,9.0,,,Open-Meteo weather forecast
+2026-10-28,Kuala Kangsar,131.2,131.5,24.2,14.4,,,Open-Meteo weather forecast
+2026-10-28,Kuala Muda,285.5,311.4,25.2,7.2,,,Open-Meteo weather forecast
+2026-10-28,Larut dan Matang,382.1,350.5,24.7,17.4,,,Open-Meteo weather forecast
+2026-10-28,Muallim,177.7,188.8,25.0,11.8,,,Open-Meteo weather forecast
+2026-10-28,Perlis,543.6,553.9,24.7,10.6,,,Open-Meteo weather forecast
+2026-10-28,Petaling,413.9,403.9,25.2,12.6,,,Open-Meteo weather forecast
+2026-10-28,Seberang Perai Selatan,39.3,28.3,24.7,16.2,,,Open-Meteo weather forecast
+2026-10-28,Seberang Perai Tengah,375.4,383.1,26.0,11.4,,,Open-Meteo weather forecast
+2026-10-28,Seberang Perai Utara,776.4,757.9,26.0,11.4,,,Open-Meteo weather forecast
+2026-10-28,Seremban,99.3,112.8,25.0,12.2,,,Open-Meteo weather forecast
+2026-10-28,Tampin,124.3,102.6,25.2,14.0,,,Open-Meteo weather forecast
+2026-10-28,Ulu Langat,68.8,76.5,25.1,21.0,,,Open-Meteo weather forecast
+2026-10-28,W.P. Kuala Lumpur,3405.8,3436.7,26.3,13.4,,,Open-Meteo weather forecast
+2026-10-29,Alor Gajah,98.2,112.1,24.4,24.2,,,Open-Meteo weather forecast
+2026-10-29,Batang Padang,234.5,184.4,24.8,12.6,,,Open-Meteo weather forecast
+2026-10-29,Gombak,40.5,39.0,24.6,18.6,,,Open-Meteo weather forecast
+2026-10-29,Jasin,41.9,34.2,23.9,18.2,,,Open-Meteo weather forecast
+2026-10-29,Kampar,314.0,310.9,24.9,19.4,,,Open-Meteo weather forecast
+2026-10-29,Kerian,155.8,160.2,24.9,18.6,,,Open-Meteo weather forecast
+2026-10-29,Kinta,1678.9,1681.1,24.9,18.6,,,Open-Meteo weather forecast
+2026-10-29,Kota Setar,397.7,374.0,25.7,18.0,,,Open-Meteo weather forecast
+2026-10-29,Kuala Kangsar,163.0,155.4,24.4,13.2,,,Open-Meteo weather forecast
+2026-10-29,Kuala Muda,405.1,388.7,24.5,10.2,,,Open-Meteo weather forecast
+2026-10-29,Larut dan Matang,372.9,348.7,24.8,27.6,,,Open-Meteo weather forecast
+2026-10-29,Muallim,276.7,229.7,24.9,10.0,,,Open-Meteo weather forecast
+2026-10-29,Perlis,549.9,565.8,24.9,13.2,,,Open-Meteo weather forecast
+2026-10-29,Petaling,545.9,483.0,24.6,15.2,,,Open-Meteo weather forecast
+2026-10-29,Seberang Perai Selatan,29.5,26.9,25.0,26.8,,,Open-Meteo weather forecast
+2026-10-29,Seberang Perai Tengah,435.2,439.2,25.8,15.6,,,Open-Meteo weather forecast
+2026-10-29,Seberang Perai Utara,794.6,777.7,25.8,15.6,,,Open-Meteo weather forecast
+2026-10-29,Seremban,104.0,108.0,24.8,13.2,,,Open-Meteo weather forecast
+2026-10-29,Tampin,129.2,105.3,25.2,15.6,,,Open-Meteo weather forecast
+2026-10-29,Ulu Langat,70.3,83.6,24.9,14.0,,,Open-Meteo weather forecast
+2026-10-29,W.P. Kuala Lumpur,3785.2,4007.2,25.4,14.4,,,Open-Meteo weather forecast
+2026-10-30,Alor Gajah,135.4,139.8,25.4,8.4,,,Open-Meteo weather forecast
+2026-10-30,Batang Padang,197.5,219.3,25.9,7.2,,,Open-Meteo weather forecast
+2026-10-30,Gombak,42.0,43.0,26.0,10.0,,,Open-Meteo weather forecast
+2026-10-30,Jasin,78.8,80.3,24.9,7.8,,,Open-Meteo weather forecast
+2026-10-30,Kampar,379.3,383.5,25.9,7.6,,,Open-Meteo weather forecast
+2026-10-30,Kerian,204.0,215.2,25.9,11.8,,,Open-Meteo weather forecast
+2026-10-30,Kinta,1874.2,1867.2,26.2,5.8,,,Open-Meteo weather forecast
+2026-10-30,Kota Setar,371.6,324.6,25.8,7.2,,,Open-Meteo weather forecast
+2026-10-30,Kuala Kangsar,220.1,215.5,25.0,12.4,,,Open-Meteo weather forecast
+2026-10-30,Kuala Muda,399.6,386.1,25.5,10.6,,,Open-Meteo weather forecast
+2026-10-30,Larut dan Matang,430.5,453.9,26.3,9.0,,,Open-Meteo weather forecast
+2026-10-30,Muallim,273.4,262.6,26.5,5.8,,,Open-Meteo weather forecast
+2026-10-30,Perlis,591.9,598.4,25.6,9.0,,,Open-Meteo weather forecast
+2026-10-30,Petaling,571.2,561.5,25.9,8.0,,,Open-Meteo weather forecast
+2026-10-30,Seberang Perai Selatan,35.0,39.0,25.7,10.4,,,Open-Meteo weather forecast
+2026-10-30,Seberang Perai Tengah,562.9,561.4,26.1,8.8,,,Open-Meteo weather forecast
+2026-10-30,Seberang Perai Utara,912.0,927.2,26.1,8.8,,,Open-Meteo weather forecast
+2026-10-30,Seremban,130.3,145.1,25.9,2.4,,,Open-Meteo weather forecast
+2026-10-30,Tampin,131.1,129.9,25.4,7.4,,,Open-Meteo weather forecast
+2026-10-30,Ulu Langat,82.8,91.5,26.0,4.2,,,Open-Meteo weather forecast
+2026-10-30,W.P. Kuala Lumpur,4296.9,4340.2,26.4,9.8,,,Open-Meteo weather forecast
+2026-10-31,Alor Gajah,122.7,134.8,26.0,3.0,,,Open-Meteo weather forecast
+2026-10-31,Batang Padang,157.5,196.9,26.1,5.4,,,Open-Meteo weather forecast
+2026-10-31,Gombak,51.5,54.6,26.4,1.6,,,Open-Meteo weather forecast
+2026-10-31,Jasin,49.1,51.0,25.6,2.4,,,Open-Meteo weather forecast
+2026-10-31,Kampar,369.8,302.1,26.2,5.6,,,Open-Meteo weather forecast
+2026-10-31,Kerian,209.9,227.5,25.9,3.2,,,Open-Meteo weather forecast
+2026-10-31,Kinta,1880.6,1897.4,26.6,4.4,,,Open-Meteo weather forecast
+2026-10-31,Kota Setar,313.2,300.8,26.5,4.2,,,Open-Meteo weather forecast
+2026-10-31,Kuala Kangsar,182.0,182.9,25.6,2.0,,,Open-Meteo weather forecast
+2026-10-31,Kuala Muda,325.1,345.4,25.9,5.6,,,Open-Meteo weather forecast
+2026-10-31,Larut dan Matang,396.8,418.4,26.0,4.8,,,Open-Meteo weather forecast
+2026-10-31,Muallim,216.8,251.2,26.4,2.2,,,Open-Meteo weather forecast
+2026-10-31,Perlis,750.1,741.6,26.3,1.8,,,Open-Meteo weather forecast
+2026-10-31,Petaling,549.3,558.0,26.3,1.0,,,Open-Meteo weather forecast
+2026-10-31,Seberang Perai Selatan,34.2,34.8,25.7,3.0,,,Open-Meteo weather forecast
+2026-10-31,Seberang Perai Tengah,533.0,557.3,26.5,3.8,,,Open-Meteo weather forecast
+2026-10-31,Seberang Perai Utara,912.6,938.7,26.5,3.8,,,Open-Meteo weather forecast
+2026-10-31,Seremban,142.7,172.1,26.6,1.2,,,Open-Meteo weather forecast
+2026-10-31,Tampin,130.9,123.6,26.1,3.4,,,Open-Meteo weather forecast
+2026-10-31,Ulu Langat,94.6,90.6,26.7,1.2,,,Open-Meteo weather forecast
+2026-10-31,W.P. Kuala Lumpur,4235.1,4243.6,27.3,1.6,,,Open-Meteo weather forecast
+2026-11-01,Alor Gajah,161.1,141.3,26.7,9.0,,deepavali,Open-Meteo weather forecast
+2026-11-01,Batang Padang,197.8,195.4,25.9,7.8,,deepavali,Open-Meteo weather forecast
+2026-11-01,Gombak,59.6,74.6,26.6,9.0,,deepavali,Open-Meteo weather forecast
+2026-11-01,Jasin,62.6,62.1,26.3,8.4,,deepavali,Open-Meteo weather forecast
+2026-11-01,Kampar,301.3,299.4,26.2,15.6,,deepavali,Open-Meteo weather forecast
+2026-11-01,Kerian,238.1,234.5,26.0,12.6,,deepavali,Open-Meteo weather forecast
+2026-11-01,Kinta,1910.3,1903.6,26.2,10.8,,deepavali,Open-Meteo weather forecast
+2026-11-01,Kota Setar,296.8,262.4,26.5,12.0,,deepavali,Open-Meteo weather forecast
+2026-11-01,Kuala Kangsar,192.3,188.8,25.5,7.8,,deepavali,Open-Meteo weather forecast
+2026-11-01,Kuala Muda,286.3,312.7,25.7,13.8,,deepavali,Open-Meteo weather forecast
+2026-11-01,Larut dan Matang,489.8,479.5,26.2,10.8,,deepavali,Open-Meteo weather forecast
+2026-11-01,Muallim,248.4,252.6,26.2,5.4,,deepavali,Open-Meteo weather forecast
+2026-11-01,Perlis,913.2,821.5,26.0,12.6,,deepavali,Open-Meteo weather forecast
+2026-11-01,Petaling,576.7,577.0,26.2,8.4,,deepavali,Open-Meteo weather forecast
+2026-11-01,Seberang Perai Selatan,35.0,36.5,25.7,11.4,,deepavali,Open-Meteo weather forecast
+2026-11-01,Seberang Perai Tengah,558.2,523.5,26.1,14.4,,deepavali,Open-Meteo weather forecast
+2026-11-01,Seberang Perai Utara,933.1,909.3,26.1,14.4,,deepavali,Open-Meteo weather forecast
+2026-11-01,Seremban,158.6,171.0,26.2,6.0,,deepavali,Open-Meteo weather forecast
+2026-11-01,Tampin,165.2,174.1,26.8,5.4,,deepavali,Open-Meteo weather forecast
+2026-11-01,Ulu Langat,90.9,96.9,26.4,8.4,,deepavali,Open-Meteo weather forecast
+2026-11-01,W.P. Kuala Lumpur,4367.0,4335.5,27.4,4.2,,deepavali,Open-Meteo weather forecast
+2026-11-02,Alor Gajah,102.9,111.1,24.9,21.6,,deepavali,Open-Meteo weather forecast
+2026-11-02,Batang Padang,174.7,128.9,24.4,19.6,,deepavali,Open-Meteo weather forecast
+2026-11-02,Gombak,46.5,56.7,24.2,15.6,,deepavali,Open-Meteo weather forecast
+2026-11-02,Jasin,41.4,39.7,24.9,18.0,,deepavali,Open-Meteo weather forecast
+2026-11-02,Kampar,268.1,259.3,24.5,29.2,,deepavali,Open-Meteo weather forecast
+2026-11-02,Kerian,199.0,191.7,24.5,17.4,,deepavali,Open-Meteo weather forecast
+2026-11-02,Kinta,1835.1,1864.9,24.7,25.0,,deepavali,Open-Meteo weather forecast
+2026-11-02,Kota Setar,233.8,262.7,25.5,27.6,,deepavali,Open-Meteo weather forecast
+2026-11-02,Kuala Kangsar,154.4,148.5,25.1,10.8,,deepavali,Open-Meteo weather forecast
+2026-11-02,Kuala Muda,313.6,288.2,24.2,16.6,,deepavali,Open-Meteo weather forecast
+2026-11-02,Larut dan Matang,403.1,416.5,25.3,12.4,,deepavali,Open-Meteo weather forecast
+2026-11-02,Muallim,203.1,193.6,24.1,17.2,,deepavali,Open-Meteo weather forecast
+2026-11-02,Perlis,877.1,853.1,25.7,8.6,,deepavali,Open-Meteo weather forecast
+2026-11-02,Petaling,468.0,456.3,24.1,13.2,,deepavali,Open-Meteo weather forecast
+2026-11-02,Seberang Perai Selatan,27.9,25.6,24.6,24.6,,deepavali,Open-Meteo weather forecast
+2026-11-02,Seberang Perai Tengah,466.0,494.0,25.6,10.8,,deepavali,Open-Meteo weather forecast
+2026-11-02,Seberang Perai Utara,877.8,904.7,25.6,10.8,,deepavali,Open-Meteo weather forecast
+2026-11-02,Seremban,118.6,119.1,24.5,13.0,,deepavali,Open-Meteo weather forecast
+2026-11-02,Tampin,154.7,128.7,25.8,10.8,,deepavali,Open-Meteo weather forecast
+2026-11-02,Ulu Langat,69.4,75.5,24.6,16.8,,deepavali,Open-Meteo weather forecast
+2026-11-02,W.P. Kuala Lumpur,3933.4,3874.2,25.3,6.6,,deepavali,Open-Meteo weather forecast
+2026-11-03,Alor Gajah,109.2,97.2,24.9,6.4,,deepavali,Open-Meteo weather forecast
+2026-11-03,Batang Padang,137.4,107.3,25.7,5.6,,deepavali,Open-Meteo weather forecast
+2026-11-03,Gombak,39.6,40.2,25.5,10.8,,deepavali,Open-Meteo weather forecast
+2026-11-03,Jasin,31.6,33.3,25.1,4.2,,deepavali,Open-Meteo weather forecast
+2026-11-03,Kampar,244.9,225.3,25.9,11.6,,deepavali,Open-Meteo weather forecast
+2026-11-03,Kerian,159.4,152.2,25.4,10.2,,deepavali,Open-Meteo weather forecast
+2026-11-03,Kinta,1626.1,1633.2,26.1,13.0,,deepavali,Open-Meteo weather forecast
+2026-11-03,Kota Setar,304.1,306.8,25.5,9.0,,deepavali,Open-Meteo weather forecast
+2026-11-03,Kuala Kangsar,151.1,136.8,25.2,10.0,,deepavali,Open-Meteo weather forecast
+2026-11-03,Kuala Muda,330.8,310.5,24.7,14.0,,deepavali,Open-Meteo weather forecast
+2026-11-03,Larut dan Matang,349.2,343.8,25.0,17.0,,deepavali,Open-Meteo weather forecast
+2026-11-03,Muallim,216.0,186.2,25.6,9.8,,deepavali,Open-Meteo weather forecast
+2026-11-03,Perlis,700.5,575.0,25.6,7.0,,deepavali,Open-Meteo weather forecast
+2026-11-03,Petaling,439.8,392.4,25.6,14.2,,deepavali,Open-Meteo weather forecast
+2026-11-03,Seberang Perai Selatan,23.6,25.7,25.5,13.8,,deepavali,Open-Meteo weather forecast
+2026-11-03,Seberang Perai Tengah,412.8,394.9,25.8,9.4,,deepavali,Open-Meteo weather forecast
+2026-11-03,Seberang Perai Utara,783.2,745.6,25.8,9.4,,deepavali,Open-Meteo weather forecast
+2026-11-03,Seremban,109.5,115.2,25.8,8.6,,deepavali,Open-Meteo weather forecast
+2026-11-03,Tampin,145.7,101.6,25.9,7.8,,deepavali,Open-Meteo weather forecast
+2026-11-03,Ulu Langat,73.4,74.8,25.8,4.8,,deepavali,Open-Meteo weather forecast
+2026-11-03,W.P. Kuala Lumpur,3688.8,3326.2,26.2,10.0,,deepavali,Open-Meteo weather forecast
+2026-11-04,Alor Gajah,104.8,92.7,26.1,1.4,,deepavali,Open-Meteo weather forecast
+2026-11-04,Batang Padang,144.7,106.4,26.2,6.0,,deepavali,Open-Meteo weather forecast
+2026-11-04,Gombak,41.3,40.8,26.3,2.4,,deepavali,Open-Meteo weather forecast
+2026-11-04,Jasin,33.7,33.5,26.2,1.2,,deepavali,Open-Meteo weather forecast
+2026-11-04,Kampar,251.7,228.0,25.9,5.4,,deepavali,Open-Meteo weather forecast
+2026-11-04,Kerian,164.1,153.1,25.5,9.0,,deepavali,Open-Meteo weather forecast
+2026-11-04,Kinta,1652.9,1611.1,25.6,17.8,,deepavali,Open-Meteo weather forecast
+2026-11-04,Kota Setar,320.4,308.4,25.4,11.4,,deepavali,Open-Meteo weather forecast
+2026-11-04,Kuala Kangsar,175.4,131.5,25.4,7.4,,deepavali,Open-Meteo weather forecast
+2026-11-04,Kuala Muda,316.9,311.4,25.3,4.8,,deepavali,Open-Meteo weather forecast
+2026-11-04,Larut dan Matang,368.7,350.5,24.7,18.0,,deepavali,Open-Meteo weather forecast
+2026-11-04,Muallim,250.4,188.8,26.1,6.6,,deepavali,Open-Meteo weather forecast
+2026-11-04,Perlis,681.5,553.9,25.1,15.6,,deepavali,Open-Meteo weather forecast
+2026-11-04,Petaling,456.7,403.9,25.6,6.2,,deepavali,Open-Meteo weather forecast
+2026-11-04,Seberang Perai Selatan,34.8,28.3,25.3,6.6,,deepavali,Open-Meteo weather forecast
+2026-11-04,Seberang Perai Tengah,443.1,383.1,26.3,8.0,,deepavali,Open-Meteo weather forecast
+2026-11-04,Seberang Perai Utara,770.4,757.9,26.3,8.0,,deepavali,Open-Meteo weather forecast
+2026-11-04,Seremban,110.4,112.8,26.3,1.8,,deepavali,Open-Meteo weather forecast
+2026-11-04,Tampin,151.2,102.6,26.1,4.2,,deepavali,Open-Meteo weather forecast
+2026-11-04,Ulu Langat,71.9,76.5,25.4,3.0,,deepavali,Open-Meteo weather forecast
+2026-11-04,W.P. Kuala Lumpur,3996.4,3436.7,26.5,7.4,,deepavali,Open-Meteo weather forecast
+2026-11-05,Alor Gajah,122.4,112.1,25.6,2.7,,deepavali,Open-Meteo weather forecast
+2026-11-05,Batang Padang,299.1,184.4,25.5,8.1,,deepavali,Open-Meteo weather forecast
+2026-11-05,Gombak,37.9,39.0,25.9,8.2,,deepavali,Open-Meteo weather forecast
+2026-11-05,Jasin,41.9,34.2,25.5,5.2,,deepavali,Open-Meteo weather forecast
+2026-11-05,Kampar,418.0,310.9,25.5,7.0,,deepavali,Open-Meteo weather forecast
+2026-11-05,Kerian,244.2,160.2,24.4,11.6,,deepavali,Open-Meteo weather forecast
+2026-11-05,Kinta,1922.5,1681.1,26.0,2.8,,deepavali,Open-Meteo weather forecast
+2026-11-05,Kota Setar,385.7,374.0,25.0,14.0,,deepavali,Open-Meteo weather forecast
+2026-11-05,Kuala Kangsar,266.3,155.4,25.2,9.4,,deepavali,Open-Meteo weather forecast
+2026-11-05,Kuala Muda,448.6,388.7,24.3,13.2,,deepavali,Open-Meteo weather forecast
+2026-11-05,Larut dan Matang,437.5,348.7,25.2,13.8,,deepavali,Open-Meteo weather forecast
+2026-11-05,Muallim,328.5,229.7,25.9,13.5,,deepavali,Open-Meteo weather forecast
+2026-11-05,Perlis,800.4,565.8,25.2,7.8,,deepavali,Open-Meteo weather forecast
+2026-11-05,Petaling,521.6,483.0,25.4,8.4,,deepavali,Open-Meteo weather forecast
+2026-11-05,Seberang Perai Selatan,35.4,26.9,25.0,7.0,,deepavali,Open-Meteo weather forecast
+2026-11-05,Seberang Perai Tengah,516.5,439.2,25.8,6.8,,deepavali,Open-Meteo weather forecast
+2026-11-05,Seberang Perai Utara,852.8,777.7,25.9,6.4,,deepavali,Open-Meteo weather forecast
+2026-11-05,Seremban,131.5,108.0,25.7,6.2,,deepavali,Open-Meteo weather forecast
+2026-11-05,Tampin,189.6,105.3,25.7,17.8,,deepavali,Open-Meteo weather forecast
+2026-11-05,Ulu Langat,79.4,83.6,25.1,14.6,,deepavali,Open-Meteo weather forecast
+2026-11-05,W.P. Kuala Lumpur,4639.2,4007.2,26.2,13.2,,deepavali,Open-Meteo weather forecast
+2026-11-06,Alor Gajah,160.2,139.8,26.6,10.0,,deepavali,Monthly average weather (2023-2026)
+2026-11-06,Batang Padang,282.7,219.3,25.8,16.1,Birthday of the Sultan of Perak,deepavali,Monthly average weather (2023-2026)
+2026-11-06,Gombak,45.7,43.0,25.8,15.1,,deepavali,Monthly average weather (2023-2026)
+2026-11-06,Jasin,97.5,80.3,26.2,9.3,,deepavali,Monthly average weather (2023-2026)
+2026-11-06,Kampar,396.5,383.5,25.9,15.1,Birthday of the Sultan of Perak,deepavali,Monthly average weather (2023-2026)
+2026-11-06,Kerian,274.5,215.2,25.7,16.2,Birthday of the Sultan of Perak,deepavali,Monthly average weather (2023-2026)
+2026-11-06,Kinta,1865.8,1867.2,26.3,14.1,Birthday of the Sultan of Perak,deepavali,Monthly average weather (2023-2026)
+2026-11-06,Kota Setar,325.6,324.6,25.9,16.0,,deepavali,Monthly average weather (2023-2026)
+2026-11-06,Kuala Kangsar,440.4,215.5,25.5,10.7,Birthday of the Sultan of Perak,deepavali,Monthly average weather (2023-2026)
+2026-11-06,Kuala Muda,421.7,386.1,25.7,15.7,,deepavali,Monthly average weather (2023-2026)
+2026-11-06,Larut dan Matang,516.6,453.9,26.1,16.0,Birthday of the Sultan of Perak,deepavali,Monthly average weather (2023-2026)
+2026-11-06,Muallim,320.3,262.6,26.0,13.4,Birthday of the Sultan of Perak,deepavali,Monthly average weather (2023-2026)
+2026-11-06,Perlis,938.1,598.4,25.8,12.6,,deepavali,Monthly average weather (2023-2026)
+2026-11-06,Petaling,576.7,561.5,26.1,14.1,,deepavali,Monthly average weather (2023-2026)
+2026-11-06,Seberang Perai Selatan,48.3,39.0,25.8,17.3,,deepavali,Monthly average weather (2023-2026)
+2026-11-06,Seberang Perai Tengah,623.2,561.4,26.4,13.6,,deepavali,Monthly average weather (2023-2026)
+2026-11-06,Seberang Perai Utara,944.7,927.2,26.4,13.6,,deepavali,Monthly average weather (2023-2026)
+2026-11-06,Seremban,175.1,145.1,26.2,12.3,,deepavali,Monthly average weather (2023-2026)
+2026-11-06,Tampin,194.9,129.9,26.5,10.7,,deepavali,Monthly average weather (2023-2026)
+2026-11-06,Ulu Langat,83.5,91.5,26.2,12.4,,deepavali,Monthly average weather (2023-2026)
+2026-11-06,W.P. Kuala Lumpur,4700.5,4340.2,26.8,12.5,,deepavali,Monthly average weather (2023-2026)
+2026-11-07,Alor Gajah,165.2,134.8,26.6,10.0,,deepavali,Monthly average weather (2023-2026)
+2026-11-07,Batang Padang,269.3,196.9,25.8,16.1,,deepavali,Monthly average weather (2023-2026)
+2026-11-07,Gombak,48.7,54.6,25.8,15.1,,deepavali,Monthly average weather (2023-2026)
+2026-11-07,Jasin,69.4,51.0,26.2,9.3,,deepavali,Monthly average weather (2023-2026)
+2026-11-07,Kampar,282.4,302.1,25.9,15.1,,deepavali,Monthly average weather (2023-2026)
+2026-11-07,Kerian,229.9,227.5,25.7,16.2,,deepavali,Monthly average weather (2023-2026)
+2026-11-07,Kinta,1885.2,1897.4,26.3,14.1,,deepavali,Monthly average weather (2023-2026)
+2026-11-07,Kota Setar,302.2,300.8,25.9,16.0,,deepavali,Monthly average weather (2023-2026)
+2026-11-07,Kuala Kangsar,200.0,182.9,25.5,10.7,,deepavali,Monthly average weather (2023-2026)
+2026-11-07,Kuala Muda,343.3,345.4,25.7,15.7,,deepavali,Monthly average weather (2023-2026)
+2026-11-07,Larut dan Matang,450.6,418.4,26.1,16.0,,deepavali,Monthly average weather (2023-2026)
+2026-11-07,Muallim,303.7,251.2,26.0,13.4,,deepavali,Monthly average weather (2023-2026)
+2026-11-07,Perlis,951.0,741.6,25.8,12.6,,deepavali,Monthly average weather (2023-2026)
+2026-11-07,Petaling,577.0,558.0,26.1,14.1,,deepavali,Monthly average weather (2023-2026)
+2026-11-07,Seberang Perai Selatan,42.2,34.8,25.8,17.3,,deepavali,Monthly average weather (2023-2026)
+2026-11-07,Seberang Perai Tengah,669.4,557.3,26.4,13.6,,deepavali,Monthly average weather (2023-2026)
+2026-11-07,Seberang Perai Utara,961.2,938.7,26.4,13.6,,deepavali,Monthly average weather (2023-2026)
+2026-11-07,Seremban,180.5,172.1,26.2,12.3,,deepavali,Monthly average weather (2023-2026)
+2026-11-07,Tampin,185.5,123.6,26.5,10.7,,deepavali,Monthly average weather (2023-2026)
+2026-11-07,Ulu Langat,90.3,90.6,26.2,12.4,,deepavali,Monthly average weather (2023-2026)
+2026-11-07,W.P. Kuala Lumpur,4781.5,4243.6,26.8,12.5,,deepavali,Monthly average weather (2023-2026)
+2026-11-08,Alor Gajah,159.6,141.3,26.6,10.0,Diwali,deepavali,Monthly average weather (2023-2026)
+2026-11-08,Batang Padang,217.7,195.4,25.8,16.1,Diwali,deepavali,Monthly average weather (2023-2026)
+2026-11-08,Gombak,68.4,74.6,25.8,15.1,Diwali,deepavali,Monthly average weather (2023-2026)
+2026-11-08,Jasin,70.5,62.1,26.2,9.3,Diwali,deepavali,Monthly average weather (2023-2026)
+2026-11-08,Kampar,295.7,299.4,25.9,15.1,Diwali,deepavali,Monthly average weather (2023-2026)
+2026-11-08,Kerian,280.9,234.5,25.7,16.2,Diwali,deepavali,Monthly average weather (2023-2026)
+2026-11-08,Kinta,1973.2,1903.6,26.3,14.1,Diwali,deepavali,Monthly average weather (2023-2026)
+2026-11-08,Kota Setar,330.9,262.4,25.9,16.0,Diwali,deepavali,Monthly average weather (2023-2026)
+2026-11-08,Kuala Kangsar,209.9,188.8,25.5,10.7,Diwali,deepavali,Monthly average weather (2023-2026)
+2026-11-08,Kuala Muda,341.4,312.7,25.7,15.7,Diwali,deepavali,Monthly average weather (2023-2026)
+2026-11-08,Larut dan Matang,543.5,479.5,26.1,16.0,Diwali,deepavali,Monthly average weather (2023-2026)
+2026-11-08,Muallim,253.5,252.6,26.0,13.4,Diwali,deepavali,Monthly average weather (2023-2026)
+2026-11-08,Perlis,983.1,821.5,25.8,12.6,Diwali,deepavali,Monthly average weather (2023-2026)
+2026-11-08,Petaling,595.6,577.0,26.1,14.1,Diwali,deepavali,Monthly average weather (2023-2026)
+2026-11-08,Seberang Perai Selatan,40.8,36.5,25.8,17.3,Diwali,deepavali,Monthly average weather (2023-2026)
+2026-11-08,Seberang Perai Tengah,576.8,523.5,26.4,13.6,Diwali,deepavali,Monthly average weather (2023-2026)
+2026-11-08,Seberang Perai Utara,994.7,909.3,26.4,13.6,Diwali,deepavali,Monthly average weather (2023-2026)
+2026-11-08,Seremban,176.7,171.0,26.2,12.3,Diwali,deepavali,Monthly average weather (2023-2026)
+2026-11-08,Tampin,206.4,174.1,26.5,10.7,Diwali,deepavali,Monthly average weather (2023-2026)
+2026-11-08,Ulu Langat,90.0,96.9,26.2,12.4,Diwali,deepavali,Monthly average weather (2023-2026)
+2026-11-08,W.P. Kuala Lumpur,4620.1,4335.5,26.8,12.5,Diwali,deepavali,Monthly average weather (2023-2026)
+2026-11-09,Alor Gajah,139.1,111.1,26.6,10.0,Diwali (observed),deepavali,Monthly average weather (2023-2026)
+2026-11-09,Batang Padang,149.1,128.9,25.8,16.1,Diwali (observed),deepavali,Monthly average weather (2023-2026)
+2026-11-09,Gombak,70.4,56.7,25.8,15.1,Diwali (observed),deepavali,Monthly average weather (2023-2026)
+2026-11-09,Jasin,56.7,39.7,26.2,9.3,Diwali (observed),deepavali,Monthly average weather (2023-2026)
+2026-11-09,Kampar,305.9,259.3,25.9,15.1,Diwali (observed),deepavali,Monthly average weather (2023-2026)
+2026-11-09,Kerian,265.6,191.7,25.7,16.2,Diwali (observed),deepavali,Monthly average weather (2023-2026)
+2026-11-09,Kinta,1969.0,1864.9,26.3,14.1,Diwali (observed),deepavali,Monthly average weather (2023-2026)
+2026-11-09,Kota Setar,298.9,262.7,25.9,16.0,,deepavali,Monthly average weather (2023-2026)
+2026-11-09,Kuala Kangsar,220.0,148.5,25.5,10.7,Diwali (observed),deepavali,Monthly average weather (2023-2026)
+2026-11-09,Kuala Muda,317.2,288.2,25.7,15.7,,deepavali,Monthly average weather (2023-2026)
+2026-11-09,Larut dan Matang,554.7,416.5,26.1,16.0,Diwali (observed),deepavali,Monthly average weather (2023-2026)
+2026-11-09,Muallim,222.5,193.6,26.0,13.4,Diwali (observed),deepavali,Monthly average weather (2023-2026)
+2026-11-09,Perlis,1123.2,853.1,25.8,12.6,Diwali (observed),deepavali,Monthly average weather (2023-2026)
+2026-11-09,Petaling,564.3,456.3,26.1,14.1,Diwali (observed),deepavali,Monthly average weather (2023-2026)
+2026-11-09,Seberang Perai Selatan,31.6,25.6,25.8,17.3,Diwali (observed),deepavali,Monthly average weather (2023-2026)
+2026-11-09,Seberang Perai Tengah,561.9,494.0,26.4,13.6,Diwali (observed),deepavali,Monthly average weather (2023-2026)
+2026-11-09,Seberang Perai Utara,959.6,904.7,26.4,13.6,Diwali (observed),deepavali,Monthly average weather (2023-2026)
+2026-11-09,Seremban,123.8,119.1,26.2,12.3,Diwali (observed),deepavali,Monthly average weather (2023-2026)
+2026-11-09,Tampin,206.0,128.7,26.5,10.7,Diwali (observed),deepavali,Monthly average weather (2023-2026)
+2026-11-09,Ulu Langat,80.3,75.5,26.2,12.4,Diwali (observed),deepavali,Monthly average weather (2023-2026)
+2026-11-09,W.P. Kuala Lumpur,4676.0,3874.2,26.8,12.5,Diwali (observed),deepavali,Monthly average weather (2023-2026)
+2026-11-10,Alor Gajah,131.9,97.2,26.6,10.0,,deepavali,Monthly average weather (2023-2026)
+2026-11-10,Batang Padang,142.4,107.3,25.8,16.1,,deepavali,Monthly average weather (2023-2026)
+2026-11-10,Gombak,67.2,40.2,25.8,15.1,,deepavali,Monthly average weather (2023-2026)
+2026-11-10,Jasin,51.5,33.3,26.2,9.3,,deepavali,Monthly average weather (2023-2026)
+2026-11-10,Kampar,285.8,225.3,25.9,15.1,,deepavali,Monthly average weather (2023-2026)
+2026-11-10,Kerian,249.0,152.2,25.7,16.2,,deepavali,Monthly average weather (2023-2026)
+2026-11-10,Kinta,1906.9,1633.2,26.3,14.1,,deepavali,Monthly average weather (2023-2026)
+2026-11-10,Kota Setar,348.5,306.8,25.9,16.0,,deepavali,Monthly average weather (2023-2026)
+2026-11-10,Kuala Kangsar,189.9,136.8,25.5,10.7,,deepavali,Monthly average weather (2023-2026)
+2026-11-10,Kuala Muda,337.5,310.5,25.7,15.7,,deepavali,Monthly average weather (2023-2026)
+2026-11-10,Larut dan Matang,482.4,343.8,26.1,16.0,,deepavali,Monthly average weather (2023-2026)
+2026-11-10,Muallim,221.9,186.2,26.0,13.4,,deepavali,Monthly average weather (2023-2026)
+2026-11-10,Perlis,965.9,575.0,25.8,12.6,,deepavali,Monthly average weather (2023-2026)
+2026-11-10,Petaling,570.4,392.4,26.1,14.1,,deepavali,Monthly average weather (2023-2026)
+2026-11-10,Seberang Perai Selatan,27.4,25.7,25.8,17.3,,deepavali,Monthly average weather (2023-2026)
+2026-11-10,Seberang Perai Tengah,522.1,394.9,26.4,13.6,,deepavali,Monthly average weather (2023-2026)
+2026-11-10,Seberang Perai Utara,852.6,745.6,26.4,13.6,,deepavali,Monthly average weather (2023-2026)
+2026-11-10,Seremban,115.8,115.2,26.2,12.3,,deepavali,Monthly average weather (2023-2026)
+2026-11-10,Tampin,192.4,101.6,26.5,10.7,,deepavali,Monthly average weather (2023-2026)
+2026-11-10,Ulu Langat,76.3,74.8,26.2,12.4,,deepavali,Monthly average weather (2023-2026)
+2026-11-10,W.P. Kuala Lumpur,4124.8,3326.2,26.8,12.5,,deepavali,Monthly average weather (2023-2026)
+2026-11-11,Alor Gajah,124.1,92.7,26.6,10.0,,deepavali,Monthly average weather (2023-2026)
+2026-11-11,Batang Padang,145.2,106.4,25.8,16.1,,deepavali,Monthly average weather (2023-2026)
+2026-11-11,Gombak,62.6,40.8,25.8,15.1,,deepavali,Monthly average weather (2023-2026)
+2026-11-11,Jasin,45.0,33.5,26.2,9.3,,deepavali,Monthly average weather (2023-2026)
+2026-11-11,Kampar,289.6,228.0,25.9,15.1,,deepavali,Monthly average weather (2023-2026)
+2026-11-11,Kerian,227.8,153.1,25.7,16.2,,deepavali,Monthly average weather (2023-2026)
+2026-11-11,Kinta,1861.6,1611.1,26.3,14.1,,deepavali,Monthly average weather (2023-2026)
+2026-11-11,Kota Setar,363.7,308.4,25.9,16.0,,deepavali,Monthly average weather (2023-2026)
+2026-11-11,Kuala Kangsar,177.9,131.5,25.5,10.7,,deepavali,Monthly average weather (2023-2026)
+2026-11-11,Kuala Muda,370.9,311.4,25.7,15.7,,deepavali,Monthly average weather (2023-2026)
+2026-11-11,Larut dan Matang,467.1,350.5,26.1,16.0,,deepavali,Monthly average weather (2023-2026)
+2026-11-11,Muallim,220.7,188.8,26.0,13.4,,deepavali,Monthly average weather (2023-2026)
+2026-11-11,Perlis,754.2,553.9,25.8,12.6,,deepavali,Monthly average weather (2023-2026)
+2026-11-11,Petaling,530.2,403.9,26.1,14.1,,deepavali,Monthly average weather (2023-2026)
+2026-11-11,Seberang Perai Selatan,26.6,28.3,25.8,17.3,,deepavali,Monthly average weather (2023-2026)
+2026-11-11,Seberang Perai Tengah,509.7,383.1,26.4,13.6,,deepavali,Monthly average weather (2023-2026)
+2026-11-11,Seberang Perai Utara,836.7,757.9,26.4,13.6,,deepavali,Monthly average weather (2023-2026)
+2026-11-11,Seremban,113.9,112.8,26.2,12.3,,deepavali,Monthly average weather (2023-2026)
+2026-11-11,Tampin,180.7,102.6,26.5,10.7,,deepavali,Monthly average weather (2023-2026)
+2026-11-11,Ulu Langat,70.3,76.5,26.2,12.4,,deepavali,Monthly average weather (2023-2026)
+2026-11-11,W.P. Kuala Lumpur,3943.1,3436.7,26.8,12.5,,deepavali,Monthly average weather (2023-2026)
+2026-11-12,Alor Gajah,123.9,112.1,26.6,10.0,,deepavali,Monthly average weather (2023-2026)
+2026-11-12,Batang Padang,167.5,184.4,25.8,16.1,,deepavali,Monthly average weather (2023-2026)
+2026-11-12,Gombak,50.7,39.0,25.8,15.1,,deepavali,Monthly average weather (2023-2026)
+2026-11-12,Jasin,42.1,34.2,26.2,9.3,,deepavali,Monthly average weather (2023-2026)
+2026-11-12,Kampar,301.4,310.9,25.9,15.1,,deepavali,Monthly average weather (2023-2026)
+2026-11-12,Kerian,209.0,160.2,25.7,16.2,,deepavali,Monthly average weather (2023-2026)
+2026-11-12,Kinta,1851.4,1681.1,26.3,14.1,,deepavali,Monthly average weather (2023-2026)
+2026-11-12,Kota Setar,378.1,374.0,25.9,16.0,,deepavali,Monthly average weather (2023-2026)
+2026-11-12,Kuala Kangsar,199.4,155.4,25.5,10.7,,deepavali,Monthly average weather (2023-2026)
+2026-11-12,Kuala Muda,395.8,388.7,25.7,15.7,,deepavali,Monthly average weather (2023-2026)
+2026-11-12,Larut dan Matang,448.7,348.7,26.1,16.0,,deepavali,Monthly average weather (2023-2026)
+2026-11-12,Muallim,215.2,229.7,26.0,13.4,,deepavali,Monthly average weather (2023-2026)
+2026-11-12,Perlis,688.9,565.8,25.8,12.6,,deepavali,Monthly average weather (2023-2026)
+2026-11-12,Petaling,508.7,483.0,26.1,14.1,,deepavali,Monthly average weather (2023-2026)
+2026-11-12,Seberang Perai Selatan,27.2,26.9,25.8,17.3,,deepavali,Monthly average weather (2023-2026)
+2026-11-12,Seberang Perai Tengah,500.0,439.2,26.4,13.6,,deepavali,Monthly average weather (2023-2026)
+2026-11-12,Seberang Perai Utara,841.2,777.7,26.4,13.6,,deepavali,Monthly average weather (2023-2026)
+2026-11-12,Seremban,109.7,108.0,26.2,12.3,,deepavali,Monthly average weather (2023-2026)
+2026-11-12,Tampin,182.7,105.3,26.5,10.7,,deepavali,Monthly average weather (2023-2026)
+2026-11-12,Ulu Langat,75.9,83.6,26.2,12.4,,deepavali,Monthly average weather (2023-2026)
+2026-11-12,W.P. Kuala Lumpur,4101.2,4007.2,26.8,12.5,,deepavali,Monthly average weather (2023-2026)
+2026-11-13,Alor Gajah,145.5,139.8,26.6,10.0,,deepavali,Monthly average weather (2023-2026)
+2026-11-13,Batang Padang,222.5,219.3,25.8,16.1,,deepavali,Monthly average weather (2023-2026)
+2026-11-13,Gombak,50.0,43.0,25.8,15.1,,deepavali,Monthly average weather (2023-2026)
+2026-11-13,Jasin,67.6,80.3,26.2,9.3,,deepavali,Monthly average weather (2023-2026)
+2026-11-13,Kampar,371.0,383.5,25.9,15.1,,deepavali,Monthly average weather (2023-2026)
+2026-11-13,Kerian,253.9,215.2,25.7,16.2,,deepavali,Monthly average weather (2023-2026)
+2026-11-13,Kinta,1909.4,1867.2,26.3,14.1,,deepavali,Monthly average weather (2023-2026)
+2026-11-13,Kota Setar,346.6,324.6,25.9,16.0,,deepavali,Monthly average weather (2023-2026)
+2026-11-13,Kuala Kangsar,212.6,215.5,25.5,10.7,,deepavali,Monthly average weather (2023-2026)
+2026-11-13,Kuala Muda,388.7,386.1,25.7,15.7,,deepavali,Monthly average weather (2023-2026)
+2026-11-13,Larut dan Matang,470.8,453.9,26.1,16.0,,deepavali,Monthly average weather (2023-2026)
+2026-11-13,Muallim,247.6,262.6,26.0,13.4,,deepavali,Monthly average weather (2023-2026)
+2026-11-13,Perlis,688.1,598.4,25.8,12.6,,deepavali,Monthly average weather (2023-2026)
+2026-11-13,Petaling,541.6,561.5,26.1,14.1,,deepavali,Monthly average weather (2023-2026)
+2026-11-13,Seberang Perai Selatan,34.8,39.0,25.8,17.3,,deepavali,Monthly average weather (2023-2026)
+2026-11-13,Seberang Perai Tengah,570.9,561.4,26.4,13.6,,deepavali,Monthly average weather (2023-2026)
+2026-11-13,Seberang Perai Utara,938.1,927.2,26.4,13.6,,deepavali,Monthly average weather (2023-2026)
+2026-11-13,Seremban,147.3,145.1,26.2,12.3,,deepavali,Monthly average weather (2023-2026)
+2026-11-13,Tampin,178.2,129.9,26.5,10.7,,deepavali,Monthly average weather (2023-2026)
+2026-11-13,Ulu Langat,87.2,91.5,26.2,12.4,,deepavali,Monthly average weather (2023-2026)
+2026-11-13,W.P. Kuala Lumpur,4385.5,4340.2,26.8,12.5,,deepavali,Monthly average weather (2023-2026)
+2026-11-14,Alor Gajah,143.7,134.8,26.6,10.0,,deepavali,Monthly average weather (2023-2026)
+2026-11-14,Batang Padang,247.1,196.9,25.8,16.1,,deepavali,Monthly average weather (2023-2026)
+2026-11-14,Gombak,57.4,54.6,25.8,15.1,,deepavali,Monthly average weather (2023-2026)
+2026-11-14,Jasin,62.8,51.0,26.2,9.3,,deepavali,Monthly average weather (2023-2026)
+2026-11-14,Kampar,279.4,302.1,25.9,15.1,,deepavali,Monthly average weather (2023-2026)
+2026-11-14,Kerian,271.1,227.5,25.7,16.2,,deepavali,Monthly average weather (2023-2026)
+2026-11-14,Kinta,1948.8,1897.4,26.3,14.1,,deepavali,Monthly average weather (2023-2026)
+2026-11-14,Kota Setar,324.3,300.8,25.9,16.0,,deepavali,Monthly average weather (2023-2026)
+2026-11-14,Kuala Kangsar,202.5,182.9,25.5,10.7,,deepavali,Monthly average weather (2023-2026)
+2026-11-14,Kuala Muda,350.7,345.4,25.7,15.7,,deepavali,Monthly average weather (2023-2026)
+2026-11-14,Larut dan Matang,482.2,418.4,26.1,16.0,,deepavali,Monthly average weather (2023-2026)
+2026-11-14,Muallim,247.0,251.2,26.0,13.4,,deepavali,Monthly average weather (2023-2026)
+2026-11-14,Perlis,813.1,741.6,25.8,12.6,,deepavali,Monthly average weather (2023-2026)
+2026-11-14,Petaling,593.9,558.0,26.1,14.1,,deepavali,Monthly average weather (2023-2026)
+2026-11-14,Seberang Perai Selatan,35.3,34.8,25.8,17.3,,deepavali,Monthly average weather (2023-2026)
+2026-11-14,Seberang Perai Tengah,597.9,557.3,26.4,13.6,,deepavali,Monthly average weather (2023-2026)
+2026-11-14,Seberang Perai Utara,929.7,938.7,26.4,13.6,,deepavali,Monthly average weather (2023-2026)
+2026-11-14,Seremban,163.7,172.1,26.2,12.3,,deepavali,Monthly average weather (2023-2026)
+2026-11-14,Tampin,169.2,123.6,26.5,10.7,,deepavali,Monthly average weather (2023-2026)
+2026-11-14,Ulu Langat,94.4,90.6,26.2,12.4,,deepavali,Monthly average weather (2023-2026)
+2026-11-14,W.P. Kuala Lumpur,4417.7,4243.6,26.8,12.5,,deepavali,Monthly average weather (2023-2026)
+2026-11-15,Alor Gajah,144.7,141.3,26.6,10.0,,deepavali,Monthly average weather (2023-2026)
+2026-11-15,Batang Padang,243.1,195.4,25.8,16.1,,deepavali,Monthly average weather (2023-2026)
+2026-11-15,Gombak,83.8,74.6,25.8,15.1,,deepavali,Monthly average weather (2023-2026)
+2026-11-15,Jasin,75.9,62.1,26.2,9.3,,deepavali,Monthly average weather (2023-2026)
+2026-11-15,Kampar,289.3,299.4,25.9,15.1,,deepavali,Monthly average weather (2023-2026)
+2026-11-15,Kerian,292.2,234.5,25.7,16.2,,deepavali,Monthly average weather (2023-2026)
+2026-11-15,Kinta,1971.5,1903.6,26.3,14.1,,deepavali,Monthly average weather (2023-2026)
+2026-11-15,Kota Setar,310.3,262.4,25.9,16.0,,deepavali,Monthly average weather (2023-2026)
+2026-11-15,Kuala Kangsar,224.1,188.8,25.5,10.7,,deepavali,Monthly average weather (2023-2026)
+2026-11-15,Kuala Muda,307.2,312.7,25.7,15.7,,deepavali,Monthly average weather (2023-2026)
+2026-11-15,Larut dan Matang,568.7,479.5,26.1,16.0,,deepavali,Monthly average weather (2023-2026)
+2026-11-15,Muallim,258.5,252.6,26.0,13.4,,deepavali,Monthly average weather (2023-2026)
+2026-11-15,Perlis,893.5,821.5,25.8,12.6,,deepavali,Monthly average weather (2023-2026)
+2026-11-15,Petaling,647.1,577.0,26.1,14.1,,deepavali,Monthly average weather (2023-2026)
+2026-11-15,Seberang Perai Selatan,38.8,36.5,25.8,17.3,,deepavali,Monthly average weather (2023-2026)
+2026-11-15,Seberang Perai Tengah,597.5,523.5,26.4,13.6,,deepavali,Monthly average weather (2023-2026)
+2026-11-15,Seberang Perai Utara,911.9,909.3,26.4,13.6,,deepavali,Monthly average weather (2023-2026)
+2026-11-15,Seremban,171.4,171.0,26.2,12.3,,deepavali,Monthly average weather (2023-2026)
+2026-11-15,Tampin,211.2,174.1,26.5,10.7,,deepavali,Monthly average weather (2023-2026)
+2026-11-15,Ulu Langat,99.7,96.9,26.2,12.4,,deepavali,Monthly average weather (2023-2026)
+2026-11-15,W.P. Kuala Lumpur,4492.9,4335.5,26.8,12.5,,deepavali,Monthly average weather (2023-2026)
+2026-11-16,Alor Gajah,127.5,111.1,26.6,10.0,,,Monthly average weather (2023-2026)
+2026-11-16,Batang Padang,130.8,128.9,25.8,16.1,,,Monthly average weather (2023-2026)
+2026-11-16,Gombak,57.6,56.7,25.8,15.1,,,Monthly average weather (2023-2026)
+2026-11-16,Jasin,38.8,39.7,26.2,9.3,,,Monthly average weather (2023-2026)
+2026-11-16,Kampar,261.9,259.3,25.9,15.1,,,Monthly average weather (2023-2026)
+2026-11-16,Kerian,200.9,191.7,25.7,16.2,,,Monthly average weather (2023-2026)
+2026-11-16,Kinta,1866.0,1864.9,26.3,14.1,,,Monthly average weather (2023-2026)
+2026-11-16,Kota Setar,252.6,262.7,25.9,16.0,,,Monthly average weather (2023-2026)
+2026-11-16,Kuala Kangsar,153.6,148.5,25.5,10.7,,,Monthly average weather (2023-2026)
+2026-11-16,Kuala Muda,288.6,288.2,25.7,15.7,,,Monthly average weather (2023-2026)
+2026-11-16,Larut dan Matang,424.4,416.5,26.1,16.0,,,Monthly average weather (2023-2026)
+2026-11-16,Muallim,185.9,193.6,26.0,13.4,,,Monthly average weather (2023-2026)
+2026-11-16,Perlis,907.9,853.1,25.8,12.6,,,Monthly average weather (2023-2026)
+2026-11-16,Petaling,454.5,456.3,26.1,14.1,,,Monthly average weather (2023-2026)
+2026-11-16,Seberang Perai Selatan,24.6,25.6,25.8,17.3,,,Monthly average weather (2023-2026)
+2026-11-16,Seberang Perai Tengah,517.9,494.0,26.4,13.6,,,Monthly average weather (2023-2026)
+2026-11-16,Seberang Perai Utara,870.9,904.7,26.4,13.6,,,Monthly average weather (2023-2026)
+2026-11-16,Seremban,108.6,119.1,26.2,12.3,,,Monthly average weather (2023-2026)
+2026-11-16,Tampin,140.8,128.7,26.5,10.7,,,Monthly average weather (2023-2026)
+2026-11-16,Ulu Langat,69.9,75.5,26.2,12.4,,,Monthly average weather (2023-2026)
+2026-11-16,W.P. Kuala Lumpur,3799.5,3874.2,26.8,12.5,,,Monthly average weather (2023-2026)
+2026-11-17,Alor Gajah,98.6,97.2,26.6,10.0,,,Monthly average weather (2023-2026)
+2026-11-17,Batang Padang,112.7,107.3,25.8,16.1,,,Monthly average weather (2023-2026)
+2026-11-17,Gombak,43.2,40.2,25.8,15.1,,,Monthly average weather (2023-2026)
+2026-11-17,Jasin,31.2,33.3,26.2,9.3,,,Monthly average weather (2023-2026)
+2026-11-17,Kampar,208.6,225.3,25.9,15.1,,,Monthly average weather (2023-2026)
+2026-11-17,Kerian,162.2,152.2,25.7,16.2,,,Monthly average weather (2023-2026)
+2026-11-17,Kinta,1628.0,1633.2,26.3,14.1,,,Monthly average weather (2023-2026)
+2026-11-17,Kota Setar,332.6,306.8,25.9,16.0,,,Monthly average weather (2023-2026)
+2026-11-17,Kuala Kangsar,148.7,136.8,25.5,10.7,,,Monthly average weather (2023-2026)
+2026-11-17,Kuala Muda,341.8,310.5,25.7,15.7,,,Monthly average weather (2023-2026)
+2026-11-17,Larut dan Matang,379.4,343.8,26.1,16.0,,,Monthly average weather (2023-2026)
+2026-11-17,Muallim,189.7,186.2,26.0,13.4,,,Monthly average weather (2023-2026)
+2026-11-17,Perlis,664.4,575.0,25.8,12.6,,,Monthly average weather (2023-2026)
+2026-11-17,Petaling,386.3,392.4,26.1,14.1,,,Monthly average weather (2023-2026)
+2026-11-17,Seberang Perai Selatan,25.0,25.7,25.8,17.3,,,Monthly average weather (2023-2026)
+2026-11-17,Seberang Perai Tengah,422.2,394.9,26.4,13.6,,,Monthly average weather (2023-2026)
+2026-11-17,Seberang Perai Utara,708.5,745.6,26.4,13.6,,,Monthly average weather (2023-2026)
+2026-11-17,Seremban,103.9,115.2,26.2,12.3,,,Monthly average weather (2023-2026)
+2026-11-17,Tampin,109.2,101.6,26.5,10.7,,,Monthly average weather (2023-2026)
+2026-11-17,Ulu Langat,68.9,74.8,26.2,12.4,,,Monthly average weather (2023-2026)
+2026-11-17,W.P. Kuala Lumpur,3232.3,3326.2,26.8,12.5,,,Monthly average weather (2023-2026)
+2026-11-18,Alor Gajah,88.3,92.7,26.6,10.0,,,Monthly average weather (2023-2026)
+2026-11-18,Batang Padang,108.7,106.4,25.8,16.1,,,Monthly average weather (2023-2026)
+2026-11-18,Gombak,43.6,40.8,25.8,15.1,,,Monthly average weather (2023-2026)
+2026-11-18,Jasin,30.3,33.5,26.2,9.3,,,Monthly average weather (2023-2026)
+2026-11-18,Kampar,212.1,228.0,25.9,15.1,,,Monthly average weather (2023-2026)
+2026-11-18,Kerian,154.6,153.1,25.7,16.2,,,Monthly average weather (2023-2026)
+2026-11-18,Kinta,1572.6,1611.1,26.3,14.1,,,Monthly average weather (2023-2026)
+2026-11-18,Kota Setar,332.6,308.4,25.9,16.0,,,Monthly average weather (2023-2026)
+2026-11-18,Kuala Kangsar,137.6,131.5,25.5,10.7,,,Monthly average weather (2023-2026)
+2026-11-18,Kuala Muda,346.6,311.4,25.7,15.7,,,Monthly average weather (2023-2026)
+2026-11-18,Larut dan Matang,376.2,350.5,26.1,16.0,,,Monthly average weather (2023-2026)
+2026-11-18,Muallim,192.4,188.8,26.0,13.4,,,Monthly average weather (2023-2026)
+2026-11-18,Perlis,644.4,553.9,25.8,12.6,,,Monthly average weather (2023-2026)
+2026-11-18,Petaling,389.8,403.9,26.1,14.1,,,Monthly average weather (2023-2026)
+2026-11-18,Seberang Perai Selatan,22.8,28.3,25.8,17.3,,,Monthly average weather (2023-2026)
+2026-11-18,Seberang Perai Tengah,396.8,383.1,26.4,13.6,,,Monthly average weather (2023-2026)
+2026-11-18,Seberang Perai Utara,710.5,757.9,26.4,13.6,,,Monthly average weather (2023-2026)
+2026-11-18,Seremban,101.4,112.8,26.2,12.3,,,Monthly average weather (2023-2026)
+2026-11-18,Tampin,101.5,102.6,26.5,10.7,,,Monthly average weather (2023-2026)
+2026-11-18,Ulu Langat,69.4,76.5,26.2,12.4,,,Monthly average weather (2023-2026)
+2026-11-18,W.P. Kuala Lumpur,3334.0,3436.7,26.8,12.5,,,Monthly average weather (2023-2026)
+2026-11-19,Alor Gajah,113.9,112.1,26.6,10.0,,,Monthly average weather (2023-2026)
+2026-11-19,Batang Padang,163.3,184.4,25.8,16.1,,,Monthly average weather (2023-2026)
+2026-11-19,Gombak,43.0,39.0,25.8,15.1,,,Monthly average weather (2023-2026)
+2026-11-19,Jasin,32.4,34.2,26.2,9.3,,,Monthly average weather (2023-2026)
+2026-11-19,Kampar,300.9,310.9,25.9,15.1,,,Monthly average weather (2023-2026)
+2026-11-19,Kerian,157.7,160.2,25.7,16.2,,,Monthly average weather (2023-2026)
+2026-11-19,Kinta,1636.0,1681.1,26.3,14.1,,,Monthly average weather (2023-2026)
+2026-11-19,Kota Setar,348.1,374.0,25.9,16.0,,,Monthly average weather (2023-2026)
+2026-11-19,Kuala Kangsar,153.9,155.4,25.5,10.7,,,Monthly average weather (2023-2026)
+2026-11-19,Kuala Muda,367.9,388.7,25.7,15.7,,,Monthly average weather (2023-2026)
+2026-11-19,Larut dan Matang,375.2,348.7,26.1,16.0,,,Monthly average weather (2023-2026)
+2026-11-19,Muallim,226.3,229.7,26.0,13.4,,,Monthly average weather (2023-2026)
+2026-11-19,Perlis,656.4,565.8,25.8,12.6,,,Monthly average weather (2023-2026)
+2026-11-19,Petaling,449.9,483.0,26.1,14.1,,,Monthly average weather (2023-2026)
+2026-11-19,Seberang Perai Selatan,22.4,26.9,25.8,17.3,,,Monthly average weather (2023-2026)
+2026-11-19,Seberang Perai Tengah,441.2,439.2,26.4,13.6,,,Monthly average weather (2023-2026)
+2026-11-19,Seberang Perai Utara,729.0,777.7,26.4,13.6,,,Monthly average weather (2023-2026)
+2026-11-19,Seremban,94.4,108.0,26.2,12.3,,,Monthly average weather (2023-2026)
+2026-11-19,Tampin,100.3,105.3,26.5,10.7,,,Monthly average weather (2023-2026)
+2026-11-19,Ulu Langat,74.1,83.6,26.2,12.4,,,Monthly average weather (2023-2026)
+2026-11-19,W.P. Kuala Lumpur,4077.0,4007.2,26.8,12.5,,,Monthly average weather (2023-2026)
+2026-11-20,Alor Gajah,141.8,139.8,26.6,10.0,,,Monthly average weather (2023-2026)
+2026-11-20,Batang Padang,278.3,219.3,25.8,16.1,,,Monthly average weather (2023-2026)
+2026-11-20,Gombak,42.3,43.0,25.8,15.1,,,Monthly average weather (2023-2026)
+2026-11-20,Jasin,70.2,80.3,26.2,9.3,,,Monthly average weather (2023-2026)
+2026-11-20,Kampar,378.3,383.5,25.9,15.1,,,Monthly average weather (2023-2026)
+2026-11-20,Kerian,209.8,215.2,25.7,16.2,,,Monthly average weather (2023-2026)
+2026-11-20,Kinta,1810.8,1867.2,26.3,14.1,,,Monthly average weather (2023-2026)
+2026-11-20,Kota Setar,287.4,324.6,25.9,16.0,,,Monthly average weather (2023-2026)
+2026-11-20,Kuala Kangsar,203.4,215.5,25.5,10.7,,,Monthly average weather (2023-2026)
+2026-11-20,Kuala Muda,366.0,386.1,25.7,15.7,,,Monthly average weather (2023-2026)
+2026-11-20,Larut dan Matang,445.7,453.9,26.1,16.0,,,Monthly average weather (2023-2026)
+2026-11-20,Muallim,237.4,262.6,26.0,13.4,,,Monthly average weather (2023-2026)
+2026-11-20,Perlis,705.2,598.4,25.8,12.6,,,Monthly average weather (2023-2026)
+2026-11-20,Petaling,543.5,561.5,26.1,14.1,,,Monthly average weather (2023-2026)
+2026-11-20,Seberang Perai Selatan,33.5,39.0,25.8,17.3,,,Monthly average weather (2023-2026)
+2026-11-20,Seberang Perai Tengah,567.1,561.4,26.4,13.6,,,Monthly average weather (2023-2026)
+2026-11-20,Seberang Perai Utara,856.6,927.2,26.4,13.6,,,Monthly average weather (2023-2026)
+2026-11-20,Seremban,139.8,145.1,26.2,12.3,,,Monthly average weather (2023-2026)
+2026-11-20,Tampin,123.2,129.9,26.5,10.7,,,Monthly average weather (2023-2026)
+2026-11-20,Ulu Langat,90.2,91.5,26.2,12.4,,,Monthly average weather (2023-2026)
+2026-11-20,W.P. Kuala Lumpur,4383.7,4340.2,26.8,12.5,,,Monthly average weather (2023-2026)
+2026-11-21,Alor Gajah,141.9,134.8,26.6,10.0,,,Monthly average weather (2023-2026)
+2026-11-21,Batang Padang,299.0,196.9,25.8,16.1,,,Monthly average weather (2023-2026)
+2026-11-21,Gombak,51.3,54.6,25.8,15.1,,,Monthly average weather (2023-2026)
+2026-11-21,Jasin,49.7,51.0,26.2,9.3,,,Monthly average weather (2023-2026)
+2026-11-21,Kampar,249.6,302.1,25.9,15.1,,,Monthly average weather (2023-2026)
+2026-11-21,Kerian,215.0,227.5,25.7,16.2,,,Monthly average weather (2023-2026)
+2026-11-21,Kinta,1837.3,1897.4,26.3,14.1,,,Monthly average weather (2023-2026)
+2026-11-21,Kota Setar,258.2,300.8,25.9,16.0,,,Monthly average weather (2023-2026)
+2026-11-21,Kuala Kangsar,187.0,182.9,25.5,10.7,,,Monthly average weather (2023-2026)
+2026-11-21,Kuala Muda,314.9,345.4,25.7,15.7,,,Monthly average weather (2023-2026)
+2026-11-21,Larut dan Matang,403.1,418.4,26.1,16.0,,,Monthly average weather (2023-2026)
+2026-11-21,Muallim,217.9,251.2,26.0,13.4,,,Monthly average weather (2023-2026)
+2026-11-21,Perlis,817.4,741.6,25.8,12.6,,,Monthly average weather (2023-2026)
+2026-11-21,Petaling,567.0,558.0,26.1,14.1,,,Monthly average weather (2023-2026)
+2026-11-21,Seberang Perai Selatan,34.2,34.8,25.8,17.3,,,Monthly average weather (2023-2026)
+2026-11-21,Seberang Perai Tengah,572.9,557.3,26.4,13.6,,,Monthly average weather (2023-2026)
+2026-11-21,Seberang Perai Utara,877.5,938.7,26.4,13.6,,,Monthly average weather (2023-2026)
+2026-11-21,Seremban,160.5,172.1,26.2,12.3,,,Monthly average weather (2023-2026)
+2026-11-21,Tampin,113.4,123.6,26.5,10.7,,,Monthly average weather (2023-2026)
+2026-11-21,Ulu Langat,94.0,90.6,26.2,12.4,,,Monthly average weather (2023-2026)
+2026-11-21,W.P. Kuala Lumpur,4247.7,4243.6,26.8,12.5,,,Monthly average weather (2023-2026)
+2026-11-22,Alor Gajah,146.0,141.3,26.6,10.0,,,Monthly average weather (2023-2026)
+2026-11-22,Batang Padang,276.9,195.4,25.8,16.1,,,Monthly average weather (2023-2026)
+2026-11-22,Gombak,80.0,74.6,25.8,15.1,,,Monthly average weather (2023-2026)
+2026-11-22,Jasin,58.8,62.1,26.2,9.3,,,Monthly average weather (2023-2026)
+2026-11-22,Kampar,264.0,299.4,25.9,15.1,,,Monthly average weather (2023-2026)
+2026-11-22,Kerian,228.9,234.5,25.7,16.2,,,Monthly average weather (2023-2026)
+2026-11-22,Kinta,1856.6,1903.6,26.3,14.1,,,Monthly average weather (2023-2026)
+2026-11-22,Kota Setar,235.8,262.4,25.9,16.0,,,Monthly average weather (2023-2026)
+2026-11-22,Kuala Kangsar,205.7,188.8,25.5,10.7,,,Monthly average weather (2023-2026)
+2026-11-22,Kuala Muda,276.7,312.7,25.7,15.7,,,Monthly average weather (2023-2026)
+2026-11-22,Larut dan Matang,501.0,479.5,26.1,16.0,,,Monthly average weather (2023-2026)
+2026-11-22,Muallim,229.3,252.6,26.0,13.4,,,Monthly average weather (2023-2026)
+2026-11-22,Perlis,909.8,821.5,25.8,12.6,,,Monthly average weather (2023-2026)
+2026-11-22,Petaling,599.7,577.0,26.1,14.1,,,Monthly average weather (2023-2026)
+2026-11-22,Seberang Perai Selatan,36.8,36.5,25.8,17.3,,,Monthly average weather (2023-2026)
+2026-11-22,Seberang Perai Tengah,534.6,523.5,26.4,13.6,,,Monthly average weather (2023-2026)
+2026-11-22,Seberang Perai Utara,853.4,909.3,26.4,13.6,,,Monthly average weather (2023-2026)
+2026-11-22,Seremban,167.6,171.0,26.2,12.3,,,Monthly average weather (2023-2026)
+2026-11-22,Tampin,159.1,174.1,26.5,10.7,,,Monthly average weather (2023-2026)
+2026-11-22,Ulu Langat,102.0,96.9,26.2,12.4,,,Monthly average weather (2023-2026)
+2026-11-22,W.P. Kuala Lumpur,4377.6,4335.5,26.8,12.5,,,Monthly average weather (2023-2026)
+2026-11-23,Alor Gajah,121.0,111.1,26.6,10.0,,,Monthly average weather (2023-2026)
+2026-11-23,Batang Padang,127.8,128.9,25.8,16.1,,,Monthly average weather (2023-2026)
+2026-11-23,Gombak,57.8,56.7,25.8,15.1,,,Monthly average weather (2023-2026)
+2026-11-23,Jasin,37.4,39.7,26.2,9.3,,,Monthly average weather (2023-2026)
+2026-11-23,Kampar,248.6,259.3,25.9,15.1,,,Monthly average weather (2023-2026)
+2026-11-23,Kerian,181.2,191.7,25.7,16.2,,,Monthly average weather (2023-2026)
+2026-11-23,Kinta,1842.0,1864.9,26.3,14.1,,,Monthly average weather (2023-2026)
+2026-11-23,Kota Setar,237.8,262.7,25.9,16.0,,,Monthly average weather (2023-2026)
+2026-11-23,Kuala Kangsar,147.1,148.5,25.5,10.7,,,Monthly average weather (2023-2026)
+2026-11-23,Kuala Muda,271.7,288.2,25.7,15.7,,,Monthly average weather (2023-2026)
+2026-11-23,Larut dan Matang,406.3,416.5,26.1,16.0,,,Monthly average weather (2023-2026)
+2026-11-23,Muallim,175.6,193.6,26.0,13.4,,,Monthly average weather (2023-2026)
+2026-11-23,Perlis,916.2,853.1,25.8,12.6,,,Monthly average weather (2023-2026)
+2026-11-23,Petaling,447.3,456.3,26.1,14.1,,,Monthly average weather (2023-2026)
+2026-11-23,Seberang Perai Selatan,23.8,25.6,25.8,17.3,,,Monthly average weather (2023-2026)
+2026-11-23,Seberang Perai Tengah,480.7,494.0,26.4,13.6,,,Monthly average weather (2023-2026)
+2026-11-23,Seberang Perai Utara,876.7,904.7,26.4,13.6,,,Monthly average weather (2023-2026)
+2026-11-23,Seremban,101.2,119.1,26.2,12.3,,,Monthly average weather (2023-2026)
+2026-11-23,Tampin,122.8,128.7,26.5,10.7,,,Monthly average weather (2023-2026)
+2026-11-23,Ulu Langat,71.2,75.5,26.2,12.4,,,Monthly average weather (2023-2026)
+2026-11-23,W.P. Kuala Lumpur,3858.4,3874.2,26.8,12.5,,,Monthly average weather (2023-2026)
+2026-11-24,Alor Gajah,94.4,97.2,26.6,10.0,,,Monthly average weather (2023-2026)
+2026-11-24,Batang Padang,110.3,107.3,25.8,16.1,,,Monthly average weather (2023-2026)
+2026-11-24,Gombak,37.7,40.2,25.8,15.1,,,Monthly average weather (2023-2026)
+2026-11-24,Jasin,30.2,33.3,26.2,9.3,,,Monthly average weather (2023-2026)
+2026-11-24,Kampar,191.5,225.3,25.9,15.1,,,Monthly average weather (2023-2026)
+2026-11-24,Kerian,150.1,152.2,25.7,16.2,,,Monthly average weather (2023-2026)
+2026-11-24,Kinta,1597.2,1633.2,26.3,14.1,,,Monthly average weather (2023-2026)
+2026-11-24,Kota Setar,327.6,306.8,25.9,16.0,,,Monthly average weather (2023-2026)
+2026-11-24,Kuala Kangsar,137.0,136.8,25.5,10.7,,,Monthly average weather (2023-2026)
+2026-11-24,Kuala Muda,312.1,310.5,25.7,15.7,,,Monthly average weather (2023-2026)
+2026-11-24,Larut dan Matang,327.3,343.8,26.1,16.0,,,Monthly average weather (2023-2026)
+2026-11-24,Muallim,182.6,186.2,26.0,13.4,,,Monthly average weather (2023-2026)
+2026-11-24,Perlis,670.8,575.0,25.8,12.6,,,Monthly average weather (2023-2026)
+2026-11-24,Petaling,386.2,392.4,26.1,14.1,,,Monthly average weather (2023-2026)
+2026-11-24,Seberang Perai Selatan,25.1,25.7,25.8,17.3,,,Monthly average weather (2023-2026)
+2026-11-24,Seberang Perai Tengah,369.8,394.9,26.4,13.6,,,Monthly average weather (2023-2026)
+2026-11-24,Seberang Perai Utara,682.2,745.6,26.4,13.6,,,Monthly average weather (2023-2026)
+2026-11-24,Seremban,95.7,115.2,26.2,12.3,,,Monthly average weather (2023-2026)
+2026-11-24,Tampin,88.7,101.6,26.5,10.7,,,Monthly average weather (2023-2026)
+2026-11-24,Ulu Langat,70.6,74.8,26.2,12.4,,,Monthly average weather (2023-2026)
+2026-11-24,W.P. Kuala Lumpur,3275.2,3326.2,26.8,12.5,,,Monthly average weather (2023-2026)
+2026-11-25,Alor Gajah,87.5,92.7,26.6,10.0,,,Monthly average weather (2023-2026)
+2026-11-25,Batang Padang,106.5,106.4,25.8,16.1,,,Monthly average weather (2023-2026)
+2026-11-25,Gombak,37.7,40.8,25.8,15.1,,,Monthly average weather (2023-2026)
+2026-11-25,Jasin,30.1,33.5,26.2,9.3,,,Monthly average weather (2023-2026)
+2026-11-25,Kampar,201.5,228.0,25.9,15.1,,,Monthly average weather (2023-2026)
+2026-11-25,Kerian,149.1,153.1,25.7,16.2,,,Monthly average weather (2023-2026)
+2026-11-25,Kinta,1568.4,1611.1,26.3,14.1,,,Monthly average weather (2023-2026)
+2026-11-25,Kota Setar,327.3,308.4,25.9,16.0,,,Monthly average weather (2023-2026)
+2026-11-25,Kuala Kangsar,130.5,131.5,25.5,10.7,,,Monthly average weather (2023-2026)
+2026-11-25,Kuala Muda,314.6,311.4,25.7,15.7,,,Monthly average weather (2023-2026)
+2026-11-25,Larut dan Matang,327.2,350.5,26.1,16.0,,,Monthly average weather (2023-2026)
+2026-11-25,Muallim,190.9,188.8,26.0,13.4,,,Monthly average weather (2023-2026)
+2026-11-25,Perlis,642.6,553.9,25.8,12.6,,,Monthly average weather (2023-2026)
+2026-11-25,Petaling,398.3,403.9,26.1,14.1,,,Monthly average weather (2023-2026)
+2026-11-25,Seberang Perai Selatan,24.5,28.3,25.8,17.3,,,Monthly average weather (2023-2026)
+2026-11-25,Seberang Perai Tengah,356.2,383.1,26.4,13.6,,,Monthly average weather (2023-2026)
+2026-11-25,Seberang Perai Utara,691.9,757.9,26.4,13.6,,,Monthly average weather (2023-2026)
+2026-11-25,Seremban,93.0,112.8,26.2,12.3,,,Monthly average weather (2023-2026)
+2026-11-25,Tampin,89.1,102.6,26.5,10.7,,,Monthly average weather (2023-2026)
+2026-11-25,Ulu Langat,70.7,76.5,26.2,12.4,,,Monthly average weather (2023-2026)
+2026-11-25,W.P. Kuala Lumpur,3378.4,3436.7,26.8,12.5,,,Monthly average weather (2023-2026)
+2026-11-26,Alor Gajah,111.9,112.1,26.6,10.0,,,Monthly average weather (2023-2026)
+2026-11-26,Batang Padang,166.7,184.4,25.8,16.1,,,Monthly average weather (2023-2026)
+2026-11-26,Gombak,37.8,39.0,25.8,15.1,,,Monthly average weather (2023-2026)
+2026-11-26,Jasin,31.0,34.2,26.2,9.3,,,Monthly average weather (2023-2026)
+2026-11-26,Kampar,306.9,310.9,25.9,15.1,,,Monthly average weather (2023-2026)
+2026-11-26,Kerian,154.9,160.2,25.7,16.2,,,Monthly average weather (2023-2026)
+2026-11-26,Kinta,1665.1,1681.1,26.3,14.1,,,Monthly average weather (2023-2026)
+2026-11-26,Kota Setar,333.2,374.0,25.9,16.0,,,Monthly average weather (2023-2026)
+2026-11-26,Kuala Kangsar,150.5,155.4,25.5,10.7,,,Monthly average weather (2023-2026)
+2026-11-26,Kuala Muda,357.3,388.7,25.7,15.7,,,Monthly average weather (2023-2026)
+2026-11-26,Larut dan Matang,332.8,348.7,26.1,16.0,,,Monthly average weather (2023-2026)
+2026-11-26,Muallim,256.5,229.7,26.0,13.4,,,Monthly average weather (2023-2026)
+2026-11-26,Perlis,644.5,565.8,25.8,12.6,,,Monthly average weather (2023-2026)
+2026-11-26,Petaling,442.9,483.0,26.1,14.1,,,Monthly average weather (2023-2026)
+2026-11-26,Seberang Perai Selatan,25.0,26.9,25.8,17.3,,,Monthly average weather (2023-2026)
+2026-11-26,Seberang Perai Tengah,423.1,439.2,26.4,13.6,,,Monthly average weather (2023-2026)
+2026-11-26,Seberang Perai Utara,731.9,777.7,26.4,13.6,,,Monthly average weather (2023-2026)
+2026-11-26,Seremban,92.3,108.0,26.2,12.3,,,Monthly average weather (2023-2026)
+2026-11-26,Tampin,93.7,105.3,26.5,10.7,,,Monthly average weather (2023-2026)
+2026-11-26,Ulu Langat,77.4,83.6,26.2,12.4,,,Monthly average weather (2023-2026)
+2026-11-26,W.P. Kuala Lumpur,4027.4,4007.2,26.8,12.5,,,Monthly average weather (2023-2026)
+2026-11-27,Alor Gajah,139.8,139.8,26.6,10.0,,,Monthly average weather (2023-2026)
+2026-11-27,Batang Padang,281.9,219.3,25.8,16.1,,,Monthly average weather (2023-2026)
+2026-11-27,Gombak,40.0,43.0,25.8,15.1,,,Monthly average weather (2023-2026)
+2026-11-27,Jasin,86.4,80.3,26.2,9.3,,,Monthly average weather (2023-2026)
+2026-11-27,Kampar,400.0,383.5,25.9,15.1,,,Monthly average weather (2023-2026)
+2026-11-27,Kerian,234.1,215.2,25.7,16.2,,,Monthly average weather (2023-2026)
+2026-11-27,Kinta,1842.7,1867.2,26.3,14.1,,,Monthly average weather (2023-2026)
+2026-11-27,Kota Setar,282.0,324.6,25.9,16.0,,,Monthly average weather (2023-2026)
+2026-11-27,Kuala Kangsar,219.7,215.5,25.5,10.7,,,Monthly average weather (2023-2026)
+2026-11-27,Kuala Muda,358.4,386.1,25.7,15.7,,,Monthly average weather (2023-2026)
+2026-11-27,Larut dan Matang,451.2,453.9,26.1,16.0,,,Monthly average weather (2023-2026)
+2026-11-27,Muallim,289.7,262.6,26.0,13.4,,,Monthly average weather (2023-2026)
+2026-11-27,Perlis,673.7,598.4,25.8,12.6,,,Monthly average weather (2023-2026)
+2026-11-27,Petaling,546.1,561.5,26.1,14.1,,,Monthly average weather (2023-2026)
+2026-11-27,Seberang Perai Selatan,34.1,39.0,25.8,17.3,,,Monthly average weather (2023-2026)
+2026-11-27,Seberang Perai Tengah,562.5,561.4,26.4,13.6,,,Monthly average weather (2023-2026)
+2026-11-27,Seberang Perai Utara,880.5,927.2,26.4,13.6,,,Monthly average weather (2023-2026)
+2026-11-27,Seremban,133.6,145.1,26.2,12.3,,,Monthly average weather (2023-2026)
+2026-11-27,Tampin,122.6,129.9,26.5,10.7,,,Monthly average weather (2023-2026)
+2026-11-27,Ulu Langat,92.9,91.5,26.2,12.4,,,Monthly average weather (2023-2026)
+2026-11-27,W.P. Kuala Lumpur,4369.5,4340.2,26.8,12.5,,,Monthly average weather (2023-2026)
+2026-11-28,Alor Gajah,137.8,134.8,26.6,10.0,,,Monthly average weather (2023-2026)
+2026-11-28,Batang Padang,265.2,196.9,25.8,16.1,,,Monthly average weather (2023-2026)
+2026-11-28,Gombak,49.4,54.6,25.8,15.1,,,Monthly average weather (2023-2026)
+2026-11-28,Jasin,53.1,51.0,26.2,9.3,,,Monthly average weather (2023-2026)
+2026-11-28,Kampar,271.5,302.1,25.9,15.1,,,Monthly average weather (2023-2026)
+2026-11-28,Kerian,245.2,227.5,25.7,16.2,,,Monthly average weather (2023-2026)
+2026-11-28,Kinta,1858.2,1897.4,26.3,14.1,,,Monthly average weather (2023-2026)
+2026-11-28,Kota Setar,280.4,300.8,25.9,16.0,,,Monthly average weather (2023-2026)
+2026-11-28,Kuala Kangsar,178.9,182.9,25.5,10.7,,,Monthly average weather (2023-2026)
+2026-11-28,Kuala Muda,337.5,345.4,25.7,15.7,,,Monthly average weather (2023-2026)
+2026-11-28,Larut dan Matang,417.7,418.4,26.1,16.0,,,Monthly average weather (2023-2026)
+2026-11-28,Muallim,356.7,251.2,26.0,13.4,,,Monthly average weather (2023-2026)
+2026-11-28,Perlis,774.0,741.6,25.8,12.6,,,Monthly average weather (2023-2026)
+2026-11-28,Petaling,548.3,558.0,26.1,14.1,,,Monthly average weather (2023-2026)
+2026-11-28,Seberang Perai Selatan,34.8,34.8,25.8,17.3,,,Monthly average weather (2023-2026)
+2026-11-28,Seberang Perai Tengah,563.2,557.3,26.4,13.6,,,Monthly average weather (2023-2026)
+2026-11-28,Seberang Perai Utara,908.3,938.7,26.4,13.6,,,Monthly average weather (2023-2026)
+2026-11-28,Seremban,156.5,172.1,26.2,12.3,,,Monthly average weather (2023-2026)
+2026-11-28,Tampin,110.3,123.6,26.5,10.7,,,Monthly average weather (2023-2026)
+2026-11-28,Ulu Langat,98.2,90.6,26.2,12.4,,,Monthly average weather (2023-2026)
+2026-11-28,W.P. Kuala Lumpur,4288.9,4243.6,26.8,12.5,,,Monthly average weather (2023-2026)
+2026-11-29,Alor Gajah,140.7,141.3,26.6,10.0,,,Monthly average weather (2023-2026)
+2026-11-29,Batang Padang,241.5,195.4,25.8,16.1,,,Monthly average weather (2023-2026)
+2026-11-29,Gombak,77.8,74.6,25.8,15.1,,,Monthly average weather (2023-2026)
+2026-11-29,Jasin,56.9,62.1,26.2,9.3,,,Monthly average weather (2023-2026)
+2026-11-29,Kampar,288.3,299.4,25.9,15.1,,,Monthly average weather (2023-2026)
+2026-11-29,Kerian,246.6,234.5,25.7,16.2,,,Monthly average weather (2023-2026)
+2026-11-29,Kinta,1884.9,1903.6,26.3,14.1,,,Monthly average weather (2023-2026)
+2026-11-29,Kota Setar,246.0,262.4,25.9,16.0,,,Monthly average weather (2023-2026)
+2026-11-29,Kuala Kangsar,195.5,188.8,25.5,10.7,,,Monthly average weather (2023-2026)
+2026-11-29,Kuala Muda,281.9,312.7,25.7,15.7,,,Monthly average weather (2023-2026)
+2026-11-29,Larut dan Matang,478.5,479.5,26.1,16.0,,,Monthly average weather (2023-2026)
+2026-11-29,Muallim,336.3,252.6,26.0,13.4,,,Monthly average weather (2023-2026)
+2026-11-29,Perlis,881.5,821.5,25.8,12.6,,,Monthly average weather (2023-2026)
+2026-11-29,Petaling,599.3,577.0,26.1,14.1,,,Monthly average weather (2023-2026)
+2026-11-29,Seberang Perai Selatan,38.9,36.5,25.8,17.3,,,Monthly average weather (2023-2026)
+2026-11-29,Seberang Perai Tengah,518.9,523.5,26.4,13.6,,,Monthly average weather (2023-2026)
+2026-11-29,Seberang Perai Utara,883.9,909.3,26.4,13.6,,,Monthly average weather (2023-2026)
+2026-11-29,Seremban,162.8,171.0,26.2,12.3,,,Monthly average weather (2023-2026)
+2026-11-29,Tampin,161.3,174.1,26.5,10.7,,,Monthly average weather (2023-2026)
+2026-11-29,Ulu Langat,101.4,96.9,26.2,12.4,,,Monthly average weather (2023-2026)
+2026-11-29,W.P. Kuala Lumpur,4371.2,4335.5,26.8,12.5,,,Monthly average weather (2023-2026)
+2026-11-30,Alor Gajah,124.2,111.1,26.6,10.0,,,Monthly average weather (2023-2026)
+2026-11-30,Batang Padang,125.8,128.9,25.8,16.1,,,Monthly average weather (2023-2026)
+2026-11-30,Gombak,61.3,56.7,25.8,15.1,,,Monthly average weather (2023-2026)
+2026-11-30,Jasin,43.8,39.7,26.2,9.3,,,Monthly average weather (2023-2026)
+2026-11-30,Kampar,253.8,259.3,25.9,15.1,,,Monthly average weather (2023-2026)
+2026-11-30,Kerian,184.2,191.7,25.7,16.2,,,Monthly average weather (2023-2026)
+2026-11-30,Kinta,1860.8,1864.9,26.3,14.1,,,Monthly average weather (2023-2026)
+2026-11-30,Kota Setar,250.4,262.7,25.9,16.0,,,Monthly average weather (2023-2026)
+2026-11-30,Kuala Kangsar,150.5,148.5,25.5,10.7,,,Monthly average weather (2023-2026)
+2026-11-30,Kuala Muda,280.3,288.2,25.7,15.7,,,Monthly average weather (2023-2026)
+2026-11-30,Larut dan Matang,406.9,416.5,26.1,16.0,,,Monthly average weather (2023-2026)
+2026-11-30,Muallim,217.6,193.6,26.0,13.4,,,Monthly average weather (2023-2026)
+2026-11-30,Perlis,914.6,853.1,25.8,12.6,,,Monthly average weather (2023-2026)
+2026-11-30,Petaling,459.7,456.3,26.1,14.1,,,Monthly average weather (2023-2026)
+2026-11-30,Seberang Perai Selatan,24.2,25.6,25.8,17.3,,,Monthly average weather (2023-2026)
+2026-11-30,Seberang Perai Tengah,489.6,494.0,26.4,13.6,,,Monthly average weather (2023-2026)
+2026-11-30,Seberang Perai Utara,881.5,904.7,26.4,13.6,,,Monthly average weather (2023-2026)
+2026-11-30,Seremban,106.5,119.1,26.2,12.3,,,Monthly average weather (2023-2026)
+2026-11-30,Tampin,124.9,128.7,26.5,10.7,,,Monthly average weather (2023-2026)
+2026-11-30,Ulu Langat,84.7,75.5,26.2,12.4,,,Monthly average weather (2023-2026)
+2026-11-30,W.P. Kuala Lumpur,3910.1,3874.2,26.8,12.5,,,Monthly average weather (2023-2026)
+2026-12-01,Alor Gajah,90.6,97.2,26.1,9.8,,,Monthly average weather (2023-2026)
+2026-12-01,Batang Padang,109.6,107.3,25.6,11.5,,,Monthly average weather (2023-2026)
+2026-12-01,Gombak,39.8,40.2,25.7,14.3,,,Monthly average weather (2023-2026)
+2026-12-01,Jasin,31.1,33.3,25.6,9.9,,,Monthly average weather (2023-2026)
+2026-12-01,Kampar,200.9,225.3,25.8,12.7,,,Monthly average weather (2023-2026)
+2026-12-01,Kerian,154.0,152.2,26.0,12.9,,,Monthly average weather (2023-2026)
+2026-12-01,Kinta,1634.1,1633.2,26.1,11.9,,,Monthly average weather (2023-2026)
+2026-12-01,Kota Setar,291.4,306.8,26.8,5.4,,,Monthly average weather (2023-2026)
+2026-12-01,Kuala Kangsar,137.4,136.8,25.4,7.7,,,Monthly average weather (2023-2026)
+2026-12-01,Kuala Muda,302.9,310.5,26.3,8.9,,,Monthly average weather (2023-2026)
+2026-12-01,Larut dan Matang,338.2,343.8,26.3,12.9,,,Monthly average weather (2023-2026)
+2026-12-01,Muallim,224.2,186.2,25.7,10.0,,,Monthly average weather (2023-2026)
+2026-12-01,Perlis,547.6,575.0,26.4,5.1,,,Monthly average weather (2023-2026)
+2026-12-01,Petaling,396.2,392.4,25.8,15.5,,,Monthly average weather (2023-2026)
+2026-12-01,Seberang Perai Selatan,25.0,25.7,26.1,14.6,,,Monthly average weather (2023-2026)
+2026-12-01,Seberang Perai Tengah,392.5,394.9,26.7,9.0,,,Monthly average weather (2023-2026)
+2026-12-01,Seberang Perai Utara,745.7,745.6,26.7,9.0,,,Monthly average weather (2023-2026)
+2026-12-01,Seremban,100.4,115.2,25.9,10.4,,,Monthly average weather (2023-2026)
+2026-12-01,Tampin,99.8,101.6,25.9,12.4,,,Monthly average weather (2023-2026)
+2026-12-01,Ulu Langat,81.4,74.8,25.9,12.4,,,Monthly average weather (2023-2026)
+2026-12-01,W.P. Kuala Lumpur,3316.9,3326.2,26.5,14.0,,,Monthly average weather (2023-2026)
+2026-12-02,Alor Gajah,88.3,92.7,26.1,9.8,,,Monthly average weather (2023-2026)
+2026-12-02,Batang Padang,106.5,106.4,25.6,11.5,,,Monthly average weather (2023-2026)
+2026-12-02,Gombak,38.7,40.8,25.7,14.3,,,Monthly average weather (2023-2026)
+2026-12-02,Jasin,30.3,33.5,25.6,9.9,,,Monthly average weather (2023-2026)
+2026-12-02,Kampar,203.0,228.0,25.8,12.7,,,Monthly average weather (2023-2026)
+2026-12-02,Kerian,153.1,153.1,26.0,12.9,,,Monthly average weather (2023-2026)
+2026-12-02,Kinta,1610.7,1611.1,26.1,11.9,,,Monthly average weather (2023-2026)
+2026-12-02,Kota Setar,297.7,308.4,26.8,5.4,,,Monthly average weather (2023-2026)
+2026-12-02,Kuala Kangsar,132.0,131.5,25.4,7.7,,,Monthly average weather (2023-2026)
+2026-12-02,Kuala Muda,305.8,311.4,26.3,8.9,,,Monthly average weather (2023-2026)
+2026-12-02,Larut dan Matang,338.9,350.5,26.3,12.9,,,Monthly average weather (2023-2026)
+2026-12-02,Muallim,223.4,188.8,25.7,10.0,,,Monthly average weather (2023-2026)
+2026-12-02,Perlis,528.9,553.9,26.4,5.1,,,Monthly average weather (2023-2026)
+2026-12-02,Petaling,399.5,403.9,25.8,15.5,,,Monthly average weather (2023-2026)
+2026-12-02,Seberang Perai Selatan,28.3,28.3,26.1,14.6,,,Monthly average weather (2023-2026)
+2026-12-02,Seberang Perai Tengah,385.0,383.1,26.7,9.0,,,Monthly average weather (2023-2026)
+2026-12-02,Seberang Perai Utara,769.0,757.9,26.7,9.0,,,Monthly average weather (2023-2026)
+2026-12-02,Seremban,99.8,112.8,25.9,10.4,,,Monthly average weather (2023-2026)
+2026-12-02,Tampin,99.8,102.6,25.9,12.4,,,Monthly average weather (2023-2026)
+2026-12-02,Ulu Langat,80.6,76.5,25.9,12.4,,,Monthly average weather (2023-2026)
+2026-12-02,W.P. Kuala Lumpur,3434.7,3436.7,26.5,14.0,,,Monthly average weather (2023-2026)
+2026-12-03,Alor Gajah,109.7,112.1,26.1,9.8,,,Monthly average weather (2023-2026)
+2026-12-03,Batang Padang,149.2,184.4,25.6,11.5,,,Monthly average weather (2023-2026)
+2026-12-03,Gombak,38.6,39.0,25.7,14.3,,,Monthly average weather (2023-2026)
+2026-12-03,Jasin,29.3,34.2,25.6,9.9,,,Monthly average weather (2023-2026)
+2026-12-03,Kampar,315.5,310.9,25.8,12.7,,,Monthly average weather (2023-2026)
+2026-12-03,Kerian,170.5,160.2,26.0,12.9,,,Monthly average weather (2023-2026)
+2026-12-03,Kinta,1707.1,1681.1,26.1,11.9,,,Monthly average weather (2023-2026)
+2026-12-03,Kota Setar,366.8,374.0,26.8,5.4,,,Monthly average weather (2023-2026)
+2026-12-03,Kuala Kangsar,150.8,155.4,25.4,7.7,,,Monthly average weather (2023-2026)
+2026-12-03,Kuala Muda,373.3,388.7,26.3,8.9,,,Monthly average weather (2023-2026)
+2026-12-03,Larut dan Matang,340.0,348.7,26.3,12.9,,,Monthly average weather (2023-2026)
+2026-12-03,Muallim,228.5,229.7,25.7,10.0,,,Monthly average weather (2023-2026)
+2026-12-03,Perlis,522.8,565.8,26.4,5.1,,,Monthly average weather (2023-2026)
+2026-12-03,Petaling,453.7,483.0,25.8,15.5,,,Monthly average weather (2023-2026)
+2026-12-03,Seberang Perai Selatan,27.8,26.9,26.1,14.6,,,Monthly average weather (2023-2026)
+2026-12-03,Seberang Perai Tengah,425.5,439.2,26.7,9.0,,,Monthly average weather (2023-2026)
+2026-12-03,Seberang Perai Utara,805.5,777.7,26.7,9.0,,,Monthly average weather (2023-2026)
+2026-12-03,Seremban,96.7,108.0,25.9,10.4,,,Monthly average weather (2023-2026)
+2026-12-03,Tampin,100.8,105.3,25.9,12.4,,,Monthly average weather (2023-2026)
+2026-12-03,Ulu Langat,88.3,83.6,25.9,12.4,,,Monthly average weather (2023-2026)
+2026-12-03,W.P. Kuala Lumpur,4029.9,4007.2,26.5,14.0,,,Monthly average weather (2023-2026)
+2026-12-04,Alor Gajah,136.4,139.8,26.1,9.8,,,Monthly average weather (2023-2026)
+2026-12-04,Batang Padang,196.4,219.3,25.6,11.5,,,Monthly average weather (2023-2026)
+2026-12-04,Gombak,46.8,43.0,25.7,14.3,,,Monthly average weather (2023-2026)
+2026-12-04,Jasin,90.6,80.3,25.6,9.9,,,Monthly average weather (2023-2026)
+2026-12-04,Kampar,396.8,383.5,25.8,12.7,,,Monthly average weather (2023-2026)
+2026-12-04,Kerian,222.6,215.2,26.0,12.9,,,Monthly average weather (2023-2026)
+2026-12-04,Kinta,1865.5,1867.2,26.1,11.9,,,Monthly average weather (2023-2026)
+2026-12-04,Kota Setar,324.6,324.6,26.8,5.4,,,Monthly average weather (2023-2026)
+2026-12-04,Kuala Kangsar,198.9,215.5,25.4,7.7,,,Monthly average weather (2023-2026)
+2026-12-04,Kuala Muda,381.4,386.1,26.3,8.9,,,Monthly average weather (2023-2026)
+2026-12-04,Larut dan Matang,476.5,453.9,26.3,12.9,,,Monthly average weather (2023-2026)
+2026-12-04,Muallim,248.0,262.6,25.7,10.0,,,Monthly average weather (2023-2026)
+2026-12-04,Perlis,539.5,598.4,26.4,5.1,,,Monthly average weather (2023-2026)
+2026-12-04,Petaling,569.5,561.5,25.8,15.5,,,Monthly average weather (2023-2026)
+2026-12-04,Seberang Perai Selatan,41.3,39.0,26.1,14.6,,,Monthly average weather (2023-2026)
+2026-12-04,Seberang Perai Tengah,571.3,561.4,26.7,9.0,,,Monthly average weather (2023-2026)
+2026-12-04,Seberang Perai Utara,899.2,927.2,26.7,9.0,,,Monthly average weather (2023-2026)
+2026-12-04,Seremban,131.2,145.1,25.9,10.4,,,Monthly average weather (2023-2026)
+2026-12-04,Tampin,127.9,129.9,25.9,12.4,,,Monthly average weather (2023-2026)
+2026-12-04,Ulu Langat,91.1,91.5,25.9,12.4,,,Monthly average weather (2023-2026)
+2026-12-04,W.P. Kuala Lumpur,4260.7,4340.2,26.5,14.0,,,Monthly average weather (2023-2026)
+2026-12-05,Alor Gajah,133.6,134.8,26.1,9.8,,,Monthly average weather (2023-2026)
+2026-12-05,Batang Padang,183.3,196.9,25.6,11.5,,,Monthly average weather (2023-2026)
+2026-12-05,Gombak,53.8,54.6,25.7,14.3,,,Monthly average weather (2023-2026)
+2026-12-05,Jasin,53.8,51.0,25.6,9.9,,,Monthly average weather (2023-2026)
+2026-12-05,Kampar,283.1,302.1,25.8,12.7,,,Monthly average weather (2023-2026)
+2026-12-05,Kerian,229.4,227.5,26.0,12.9,,,Monthly average weather (2023-2026)
+2026-12-05,Kinta,1868.6,1897.4,26.1,11.9,,,Monthly average weather (2023-2026)
+2026-12-05,Kota Setar,313.0,300.8,26.8,5.4,,,Monthly average weather (2023-2026)
+2026-12-05,Kuala Kangsar,186.6,182.9,25.4,7.7,,,Monthly average weather (2023-2026)
+2026-12-05,Kuala Muda,374.8,345.4,26.3,8.9,,,Monthly average weather (2023-2026)
+2026-12-05,Larut dan Matang,430.2,418.4,26.3,12.9,,,Monthly average weather (2023-2026)
+2026-12-05,Muallim,247.0,251.2,25.7,10.0,,,Monthly average weather (2023-2026)
+2026-12-05,Perlis,668.3,741.6,26.4,5.1,,,Monthly average weather (2023-2026)
+2026-12-05,Petaling,553.2,558.0,25.8,15.5,,,Monthly average weather (2023-2026)
+2026-12-05,Seberang Perai Selatan,34.3,34.8,26.1,14.6,,,Monthly average weather (2023-2026)
+2026-12-05,Seberang Perai Tengah,573.0,557.3,26.7,9.0,,,Monthly average weather (2023-2026)
+2026-12-05,Seberang Perai Utara,922.0,938.7,26.7,9.0,,,Monthly average weather (2023-2026)
+2026-12-05,Seremban,193.0,172.1,25.9,10.4,,,Monthly average weather (2023-2026)
+2026-12-05,Tampin,137.2,123.6,25.9,12.4,,,Monthly average weather (2023-2026)
+2026-12-05,Ulu Langat,87.5,90.6,25.9,12.4,,,Monthly average weather (2023-2026)
+2026-12-05,W.P. Kuala Lumpur,4198.0,4243.6,26.5,14.0,,,Monthly average weather (2023-2026)
+2026-12-06,Alor Gajah,134.1,141.3,26.1,9.8,,,Monthly average weather (2023-2026)
+2026-12-06,Batang Padang,176.2,195.4,25.6,11.5,,,Monthly average weather (2023-2026)
+2026-12-06,Gombak,74.9,74.6,25.7,14.3,,,Monthly average weather (2023-2026)
+2026-12-06,Jasin,67.0,62.1,25.6,9.9,,,Monthly average weather (2023-2026)
+2026-12-06,Kampar,294.5,299.4,25.8,12.7,,,Monthly average weather (2023-2026)
+2026-12-06,Kerian,246.2,234.5,26.0,12.9,,,Monthly average weather (2023-2026)
+2026-12-06,Kinta,1887.7,1903.6,26.1,11.9,,,Monthly average weather (2023-2026)
+2026-12-06,Kota Setar,300.3,262.4,26.8,5.4,,,Monthly average weather (2023-2026)
+2026-12-06,Kuala Kangsar,188.6,188.8,25.4,7.7,,,Monthly average weather (2023-2026)
+2026-12-06,Kuala Muda,348.1,312.7,26.3,8.9,,,Monthly average weather (2023-2026)
+2026-12-06,Larut dan Matang,463.5,479.5,26.3,12.9,,,Monthly average weather (2023-2026)
+2026-12-06,Muallim,255.9,252.6,25.7,10.0,,,Monthly average weather (2023-2026)
+2026-12-06,Perlis,669.3,821.5,26.4,5.1,,,Monthly average weather (2023-2026)
+2026-12-06,Petaling,568.3,577.0,25.8,15.5,,,Monthly average weather (2023-2026)
+2026-12-06,Seberang Perai Selatan,36.9,36.5,26.1,14.6,,,Monthly average weather (2023-2026)
+2026-12-06,Seberang Perai Tengah,532.4,523.5,26.7,9.0,,,Monthly average weather (2023-2026)
+2026-12-06,Seberang Perai Utara,921.6,909.3,26.7,9.0,,,Monthly average weather (2023-2026)
+2026-12-06,Seremban,192.1,171.0,25.9,10.4,,,Monthly average weather (2023-2026)
+2026-12-06,Tampin,192.3,174.1,25.9,12.4,,,Monthly average weather (2023-2026)
+2026-12-06,Ulu Langat,90.7,96.9,25.9,12.4,,,Monthly average weather (2023-2026)
+2026-12-06,W.P. Kuala Lumpur,4291.8,4335.5,26.5,14.0,,,Monthly average weather (2023-2026)
+2026-12-07,Alor Gajah,94.6,111.1,26.1,9.8,,,Monthly average weather (2023-2026)
+2026-12-07,Batang Padang,123.4,128.9,25.6,11.5,,,Monthly average weather (2023-2026)
+2026-12-07,Gombak,60.0,56.7,25.7,14.3,,,Monthly average weather (2023-2026)
+2026-12-07,Jasin,39.6,39.7,25.6,9.9,,,Monthly average weather (2023-2026)
+2026-12-07,Kampar,242.0,259.3,25.8,12.7,,,Monthly average weather (2023-2026)
+2026-12-07,Kerian,200.3,191.7,26.0,12.9,,,Monthly average weather (2023-2026)
+2026-12-07,Kinta,1861.5,1864.9,26.1,11.9,,,Monthly average weather (2023-2026)
+2026-12-07,Kota Setar,294.7,262.7,26.8,5.4,,,Monthly average weather (2023-2026)
+2026-12-07,Kuala Kangsar,155.0,148.5,25.4,7.7,,,Monthly average weather (2023-2026)
+2026-12-07,Kuala Muda,299.8,288.2,26.3,8.9,,,Monthly average weather (2023-2026)
+2026-12-07,Larut dan Matang,424.5,416.5,26.3,12.9,,,Monthly average weather (2023-2026)
+2026-12-07,Muallim,198.8,193.6,25.7,10.0,,,Monthly average weather (2023-2026)
+2026-12-07,Perlis,754.0,853.1,26.4,5.1,,,Monthly average weather (2023-2026)
+2026-12-07,Petaling,439.8,456.3,25.8,15.5,,,Monthly average weather (2023-2026)
+2026-12-07,Seberang Perai Selatan,26.2,25.6,26.1,14.6,,,Monthly average weather (2023-2026)
+2026-12-07,Seberang Perai Tengah,509.5,494.0,26.7,9.0,,,Monthly average weather (2023-2026)
+2026-12-07,Seberang Perai Utara,918.4,904.7,26.7,9.0,,,Monthly average weather (2023-2026)
+2026-12-07,Seremban,99.4,119.1,25.9,10.4,,,Monthly average weather (2023-2026)
+2026-12-07,Tampin,123.5,128.7,25.9,12.4,,,Monthly average weather (2023-2026)
+2026-12-07,Ulu Langat,72.9,75.5,25.9,12.4,,,Monthly average weather (2023-2026)
+2026-12-07,W.P. Kuala Lumpur,3956.9,3874.2,26.5,14.0,,,Monthly average weather (2023-2026)
+2026-12-08,Alor Gajah,88.1,97.2,26.1,9.8,,,Monthly average weather (2023-2026)
+2026-12-08,Batang Padang,106.1,107.3,25.6,11.5,,,Monthly average weather (2023-2026)
+2026-12-08,Gombak,44.6,40.2,25.7,14.3,,,Monthly average weather (2023-2026)
+2026-12-08,Jasin,34.1,33.3,25.6,9.9,,,Monthly average weather (2023-2026)
+2026-12-08,Kampar,212.3,225.3,25.8,12.7,,,Monthly average weather (2023-2026)
+2026-12-08,Kerian,152.9,152.2,26.0,12.9,,,Monthly average weather (2023-2026)
+2026-12-08,Kinta,1718.6,1633.2,26.1,11.9,,,Monthly average weather (2023-2026)
+2026-12-08,Kota Setar,302.6,306.8,26.8,5.4,,,Monthly average weather (2023-2026)
+2026-12-08,Kuala Kangsar,132.2,136.8,25.4,7.7,,,Monthly average weather (2023-2026)
+2026-12-08,Kuala Muda,308.0,310.5,26.3,8.9,,,Monthly average weather (2023-2026)
+2026-12-08,Larut dan Matang,344.2,343.8,26.3,12.9,,,Monthly average weather (2023-2026)
+2026-12-08,Muallim,190.4,186.2,25.7,10.0,,,Monthly average weather (2023-2026)
+2026-12-08,Perlis,503.2,575.0,26.4,5.1,,,Monthly average weather (2023-2026)
+2026-12-08,Petaling,401.1,392.4,25.8,15.5,,,Monthly average weather (2023-2026)
+2026-12-08,Seberang Perai Selatan,25.4,25.7,26.1,14.6,,,Monthly average weather (2023-2026)
+2026-12-08,Seberang Perai Tengah,404.8,394.9,26.7,9.0,,,Monthly average weather (2023-2026)
+2026-12-08,Seberang Perai Utara,778.7,745.6,26.7,9.0,,,Monthly average weather (2023-2026)
+2026-12-08,Seremban,92.1,115.2,25.9,10.4,,,Monthly average weather (2023-2026)
+2026-12-08,Tampin,95.5,101.6,25.9,12.4,,,Monthly average weather (2023-2026)
+2026-12-08,Ulu Langat,70.4,74.8,25.9,12.4,,,Monthly average weather (2023-2026)
+2026-12-08,W.P. Kuala Lumpur,3392.6,3326.2,26.5,14.0,,,Monthly average weather (2023-2026)
+2026-12-09,Alor Gajah,88.8,92.7,26.1,9.8,,,Monthly average weather (2023-2026)
+2026-12-09,Batang Padang,105.7,106.4,25.6,11.5,,,Monthly average weather (2023-2026)
+2026-12-09,Gombak,44.8,40.8,25.7,14.3,,,Monthly average weather (2023-2026)
+2026-12-09,Jasin,33.5,33.5,25.6,9.9,,,Monthly average weather (2023-2026)
+2026-12-09,Kampar,219.7,228.0,25.8,12.7,,,Monthly average weather (2023-2026)
+2026-12-09,Kerian,149.5,153.1,26.0,12.9,,,Monthly average weather (2023-2026)
+2026-12-09,Kinta,1710.2,1611.1,26.1,11.9,,,Monthly average weather (2023-2026)
+2026-12-09,Kota Setar,303.5,308.4,26.8,5.4,,,Monthly average weather (2023-2026)
+2026-12-09,Kuala Kangsar,130.7,131.5,25.4,7.7,,,Monthly average weather (2023-2026)
+2026-12-09,Kuala Muda,310.0,311.4,26.3,8.9,,,Monthly average weather (2023-2026)
+2026-12-09,Larut dan Matang,341.0,350.5,26.3,12.9,,,Monthly average weather (2023-2026)
+2026-12-09,Muallim,184.8,188.8,25.7,10.0,,,Monthly average weather (2023-2026)
+2026-12-09,Perlis,465.7,553.9,26.4,5.1,,,Monthly average weather (2023-2026)
+2026-12-09,Petaling,406.6,403.9,25.8,15.5,,,Monthly average weather (2023-2026)
+2026-12-09,Seberang Perai Selatan,27.9,28.3,26.1,14.6,,,Monthly average weather (2023-2026)
+2026-12-09,Seberang Perai Tengah,399.3,383.1,26.7,9.0,,,Monthly average weather (2023-2026)
+2026-12-09,Seberang Perai Utara,779.2,757.9,26.7,9.0,,,Monthly average weather (2023-2026)
+2026-12-09,Seremban,88.7,112.8,25.9,10.4,,,Monthly average weather (2023-2026)
+2026-12-09,Tampin,98.3,102.6,25.9,12.4,,,Monthly average weather (2023-2026)
+2026-12-09,Ulu Langat,73.5,76.5,25.9,12.4,,,Monthly average weather (2023-2026)
+2026-12-09,W.P. Kuala Lumpur,3576.2,3436.7,26.5,14.0,,,Monthly average weather (2023-2026)
+2026-12-10,Alor Gajah,109.5,112.1,26.1,9.8,,,Monthly average weather (2023-2026)
+2026-12-10,Batang Padang,152.1,184.4,25.6,11.5,,,Monthly average weather (2023-2026)
+2026-12-10,Gombak,43.6,39.0,25.7,14.3,,,Monthly average weather (2023-2026)
+2026-12-10,Jasin,32.2,34.2,25.6,9.9,,,Monthly average weather (2023-2026)
+2026-12-10,Kampar,313.5,310.9,25.8,12.7,,,Monthly average weather (2023-2026)
+2026-12-10,Kerian,163.9,160.2,26.0,12.9,,,Monthly average weather (2023-2026)
+2026-12-10,Kinta,1712.6,1681.1,26.1,11.9,,,Monthly average weather (2023-2026)
+2026-12-10,Kota Setar,390.7,374.0,26.8,5.4,,,Monthly average weather (2023-2026)
+2026-12-10,Kuala Kangsar,151.9,155.4,25.4,7.7,,,Monthly average weather (2023-2026)
+2026-12-10,Kuala Muda,400.0,388.7,26.3,8.9,,,Monthly average weather (2023-2026)
+2026-12-10,Larut dan Matang,342.1,348.7,26.3,12.9,,,Monthly average weather (2023-2026)
+2026-12-10,Muallim,198.3,229.7,25.7,10.0,,,Monthly average weather (2023-2026)
+2026-12-10,Perlis,467.1,565.8,26.4,5.1,,,Monthly average weather (2023-2026)
+2026-12-10,Petaling,491.7,483.0,25.8,15.5,,,Monthly average weather (2023-2026)
+2026-12-10,Seberang Perai Selatan,28.5,26.9,26.1,14.6,,,Monthly average weather (2023-2026)
+2026-12-10,Seberang Perai Tengah,443.3,439.2,26.7,9.0,,,Monthly average weather (2023-2026)
+2026-12-10,Seberang Perai Utara,799.9,777.7,26.7,9.0,,,Monthly average weather (2023-2026)
+2026-12-10,Seremban,91.0,108.0,25.9,10.4,,,Monthly average weather (2023-2026)
+2026-12-10,Tampin,100.5,105.3,25.9,12.4,,,Monthly average weather (2023-2026)
+2026-12-10,Ulu Langat,81.4,83.6,25.9,12.4,,,Monthly average weather (2023-2026)
+2026-12-10,W.P. Kuala Lumpur,4086.2,4007.2,26.5,14.0,,,Monthly average weather (2023-2026)
+2026-12-11,Alor Gajah,133.2,139.8,26.1,9.8,,,Monthly average weather (2023-2026)
+2026-12-11,Batang Padang,193.2,219.3,25.6,11.5,,,Monthly average weather (2023-2026)
+2026-12-11,Gombak,56.3,43.0,25.7,14.3,Birthday of The Sultan of Selangor,,Monthly average weather (2023-2026)
+2026-12-11,Jasin,88.5,80.3,25.6,9.9,,,Monthly average weather (2023-2026)
+2026-12-11,Kampar,385.9,383.5,25.8,12.7,,,Monthly average weather (2023-2026)
+2026-12-11,Kerian,214.0,215.2,26.0,12.9,,,Monthly average weather (2023-2026)
+2026-12-11,Kinta,1850.3,1867.2,26.1,11.9,,,Monthly average weather (2023-2026)
+2026-12-11,Kota Setar,337.6,324.6,26.8,5.4,,,Monthly average weather (2023-2026)
+2026-12-11,Kuala Kangsar,200.2,215.5,25.4,7.7,,,Monthly average weather (2023-2026)
+2026-12-11,Kuala Muda,406.7,386.1,26.3,8.9,,,Monthly average weather (2023-2026)
+2026-12-11,Larut dan Matang,467.0,453.9,26.3,12.9,,,Monthly average weather (2023-2026)
+2026-12-11,Muallim,247.8,262.6,25.7,10.0,,,Monthly average weather (2023-2026)
+2026-12-11,Perlis,506.3,598.4,26.4,5.1,,,Monthly average weather (2023-2026)
+2026-12-11,Petaling,583.6,561.5,25.8,15.5,Birthday of The Sultan of Selangor,,Monthly average weather (2023-2026)
+2026-12-11,Seberang Perai Selatan,43.7,39.0,26.1,14.6,,,Monthly average weather (2023-2026)
+2026-12-11,Seberang Perai Tengah,554.3,561.4,26.7,9.0,,,Monthly average weather (2023-2026)
+2026-12-11,Seberang Perai Utara,968.4,927.2,26.7,9.0,,,Monthly average weather (2023-2026)
+2026-12-11,Seremban,132.7,145.1,25.9,10.4,,,Monthly average weather (2023-2026)
+2026-12-11,Tampin,125.6,129.9,25.9,12.4,,,Monthly average weather (2023-2026)
+2026-12-11,Ulu Langat,83.5,91.5,25.9,12.4,Birthday of The Sultan of Selangor,,Monthly average weather (2023-2026)
+2026-12-11,W.P. Kuala Lumpur,4286.5,4340.2,26.5,14.0,,,Monthly average weather (2023-2026)
+2026-12-12,Alor Gajah,140.1,134.8,26.1,9.8,,,Monthly average weather (2023-2026)
+2026-12-12,Batang Padang,156.6,196.9,25.6,11.5,,,Monthly average weather (2023-2026)
+2026-12-12,Gombak,52.0,54.6,25.7,14.3,,,Monthly average weather (2023-2026)
+2026-12-12,Jasin,53.3,51.0,25.6,9.9,,,Monthly average weather (2023-2026)
+2026-12-12,Kampar,286.2,302.1,25.8,12.7,,,Monthly average weather (2023-2026)
+2026-12-12,Kerian,228.7,227.5,26.0,12.9,,,Monthly average weather (2023-2026)
+2026-12-12,Kinta,1849.5,1897.4,26.1,11.9,,,Monthly average weather (2023-2026)
+2026-12-12,Kota Setar,319.2,300.8,26.8,5.4,,,Monthly average weather (2023-2026)
+2026-12-12,Kuala Kangsar,182.6,182.9,25.4,7.7,,,Monthly average weather (2023-2026)
+2026-12-12,Kuala Muda,365.5,345.4,26.3,8.9,,,Monthly average weather (2023-2026)
+2026-12-12,Larut dan Matang,437.3,418.4,26.3,12.9,,,Monthly average weather (2023-2026)
+2026-12-12,Muallim,232.2,251.2,25.7,10.0,,,Monthly average weather (2023-2026)
+2026-12-12,Perlis,681.5,741.6,26.4,5.1,,,Monthly average weather (2023-2026)
+2026-12-12,Petaling,551.0,558.0,25.8,15.5,,,Monthly average weather (2023-2026)
+2026-12-12,Seberang Perai Selatan,31.7,34.8,26.1,14.6,,,Monthly average weather (2023-2026)
+2026-12-12,Seberang Perai Tengah,551.7,557.3,26.7,9.0,,,Monthly average weather (2023-2026)
+2026-12-12,Seberang Perai Utara,995.3,938.7,26.7,9.0,,,Monthly average weather (2023-2026)
+2026-12-12,Seremban,203.9,172.1,25.9,10.4,,,Monthly average weather (2023-2026)
+2026-12-12,Tampin,132.1,123.6,25.9,12.4,,,Monthly average weather (2023-2026)
+2026-12-12,Ulu Langat,83.7,90.6,25.9,12.4,,,Monthly average weather (2023-2026)
+2026-12-12,W.P. Kuala Lumpur,4220.6,4243.6,26.5,14.0,,,Monthly average weather (2023-2026)
+2026-12-13,Alor Gajah,137.4,141.3,26.1,9.8,,,Monthly average weather (2023-2026)
+2026-12-13,Batang Padang,160.7,195.4,25.6,11.5,,,Monthly average weather (2023-2026)
+2026-12-13,Gombak,70.9,74.6,25.7,14.3,,,Monthly average weather (2023-2026)
+2026-12-13,Jasin,67.3,62.1,25.6,9.9,,,Monthly average weather (2023-2026)
+2026-12-13,Kampar,293.6,299.4,25.8,12.7,,,Monthly average weather (2023-2026)
+2026-12-13,Kerian,239.3,234.5,26.0,12.9,,,Monthly average weather (2023-2026)
+2026-12-13,Kinta,1872.6,1903.6,26.1,11.9,,,Monthly average weather (2023-2026)
+2026-12-13,Kota Setar,311.5,262.4,26.8,5.4,,,Monthly average weather (2023-2026)
+2026-12-13,Kuala Kangsar,183.7,188.8,25.4,7.7,,,Monthly average weather (2023-2026)
+2026-12-13,Kuala Muda,349.9,312.7,26.3,8.9,,,Monthly average weather (2023-2026)
+2026-12-13,Larut dan Matang,465.7,479.5,26.3,12.9,,,Monthly average weather (2023-2026)
+2026-12-13,Muallim,237.4,252.6,25.7,10.0,,,Monthly average weather (2023-2026)
+2026-12-13,Perlis,659.4,821.5,26.4,5.1,,,Monthly average weather (2023-2026)
+2026-12-13,Petaling,553.5,577.0,25.8,15.5,,,Monthly average weather (2023-2026)
+2026-12-13,Seberang Perai Selatan,33.9,36.5,26.1,14.6,,,Monthly average weather (2023-2026)
+2026-12-13,Seberang Perai Tengah,532.8,523.5,26.7,9.0,,,Monthly average weather (2023-2026)
+2026-12-13,Seberang Perai Utara,953.8,909.3,26.7,9.0,,,Monthly average weather (2023-2026)
+2026-12-13,Seremban,188.5,171.0,25.9,10.4,,,Monthly average weather (2023-2026)
+2026-12-13,Tampin,189.0,174.1,25.9,12.4,,,Monthly average weather (2023-2026)
+2026-12-13,Ulu Langat,87.9,96.9,25.9,12.4,,,Monthly average weather (2023-2026)
+2026-12-13,W.P. Kuala Lumpur,4315.0,4335.5,26.5,14.0,,,Monthly average weather (2023-2026)
+2026-12-14,Alor Gajah,99.9,111.1,26.1,9.8,,,Monthly average weather (2023-2026)
+2026-12-14,Batang Padang,124.1,128.9,25.6,11.5,,,Monthly average weather (2023-2026)
+2026-12-14,Gombak,53.1,56.7,25.7,14.3,,,Monthly average weather (2023-2026)
+2026-12-14,Jasin,37.7,39.7,25.6,9.9,,,Monthly average weather (2023-2026)
+2026-12-14,Kampar,249.5,259.3,25.8,12.7,,,Monthly average weather (2023-2026)
+2026-12-14,Kerian,198.4,191.7,26.0,12.9,,,Monthly average weather (2023-2026)
+2026-12-14,Kinta,1880.5,1864.9,26.1,11.9,,,Monthly average weather (2023-2026)
+2026-12-14,Kota Setar,295.8,262.7,26.8,5.4,,,Monthly average weather (2023-2026)
+2026-12-14,Kuala Kangsar,149.0,148.5,25.4,7.7,,,Monthly average weather (2023-2026)
+2026-12-14,Kuala Muda,294.7,288.2,26.3,8.9,,,Monthly average weather (2023-2026)
+2026-12-14,Larut dan Matang,432.2,416.5,26.3,12.9,,,Monthly average weather (2023-2026)
+2026-12-14,Muallim,187.9,193.6,25.7,10.0,,,Monthly average weather (2023-2026)
+2026-12-14,Perlis,733.1,853.1,26.4,5.1,,,Monthly average weather (2023-2026)
+2026-12-14,Petaling,437.9,456.3,25.8,15.5,,,Monthly average weather (2023-2026)
+2026-12-14,Seberang Perai Selatan,25.4,25.6,26.1,14.6,,,Monthly average weather (2023-2026)
+2026-12-14,Seberang Perai Tengah,519.4,494.0,26.7,9.0,,,Monthly average weather (2023-2026)
+2026-12-14,Seberang Perai Utara,914.8,904.7,26.7,9.0,,,Monthly average weather (2023-2026)
+2026-12-14,Seremban,104.0,119.1,25.9,10.4,,,Monthly average weather (2023-2026)
+2026-12-14,Tampin,125.3,128.7,25.9,12.4,,,Monthly average weather (2023-2026)
+2026-12-14,Ulu Langat,71.7,75.5,25.9,12.4,,,Monthly average weather (2023-2026)
+2026-12-14,W.P. Kuala Lumpur,3989.9,3874.2,26.5,14.0,,,Monthly average weather (2023-2026)
+2026-12-15,Alor Gajah,94.7,97.2,26.1,9.8,,,Monthly average weather (2023-2026)
+2026-12-15,Batang Padang,108.2,107.3,25.6,11.5,,,Monthly average weather (2023-2026)
+2026-12-15,Gombak,41.3,40.2,25.7,14.3,,,Monthly average weather (2023-2026)
+2026-12-15,Jasin,38.1,33.3,25.6,9.9,,,Monthly average weather (2023-2026)
+2026-12-15,Kampar,247.6,225.3,25.8,12.7,,,Monthly average weather (2023-2026)
+2026-12-15,Kerian,159.1,152.2,26.0,12.9,,,Monthly average weather (2023-2026)
+2026-12-15,Kinta,1766.5,1633.2,26.1,11.9,,,Monthly average weather (2023-2026)
+2026-12-15,Kota Setar,300.9,306.8,26.8,5.4,,,Monthly average weather (2023-2026)
+2026-12-15,Kuala Kangsar,135.4,136.8,25.4,7.7,,,Monthly average weather (2023-2026)
+2026-12-15,Kuala Muda,308.3,310.5,26.3,8.9,,,Monthly average weather (2023-2026)
+2026-12-15,Larut dan Matang,345.2,343.8,26.3,12.9,,,Monthly average weather (2023-2026)
+2026-12-15,Muallim,182.6,186.2,25.7,10.0,,,Monthly average weather (2023-2026)
+2026-12-15,Perlis,514.0,575.0,26.4,5.1,,,Monthly average weather (2023-2026)
+2026-12-15,Petaling,409.9,392.4,25.8,15.5,,,Monthly average weather (2023-2026)
+2026-12-15,Seberang Perai Selatan,24.5,25.7,26.1,14.6,,,Monthly average weather (2023-2026)
+2026-12-15,Seberang Perai Tengah,412.9,394.9,26.7,9.0,,,Monthly average weather (2023-2026)
+2026-12-15,Seberang Perai Utara,795.8,745.6,26.7,9.0,,,Monthly average weather (2023-2026)
+2026-12-15,Seremban,92.1,115.2,25.9,10.4,,,Monthly average weather (2023-2026)
+2026-12-15,Tampin,112.3,101.6,25.9,12.4,,,Monthly average weather (2023-2026)
+2026-12-15,Ulu Langat,72.3,74.8,25.9,12.4,,,Monthly average weather (2023-2026)
+2026-12-15,W.P. Kuala Lumpur,3496.8,3326.2,26.5,14.0,,,Monthly average weather (2023-2026)
+2026-12-16,Alor Gajah,99.9,92.7,26.1,9.8,,,Monthly average weather (2023-2026)
+2026-12-16,Batang Padang,110.4,106.4,25.6,11.5,,,Monthly average weather (2023-2026)
+2026-12-16,Gombak,40.0,40.8,25.7,14.3,,,Monthly average weather (2023-2026)
+2026-12-16,Jasin,34.4,33.5,25.6,9.9,,,Monthly average weather (2023-2026)
+2026-12-16,Kampar,254.3,228.0,25.8,12.7,,,Monthly average weather (2023-2026)
+2026-12-16,Kerian,154.7,153.1,26.0,12.9,,,Monthly average weather (2023-2026)
+2026-12-16,Kinta,1753.3,1611.1,26.1,11.9,,,Monthly average weather (2023-2026)
+2026-12-16,Kota Setar,304.9,308.4,26.8,5.4,,,Monthly average weather (2023-2026)
+2026-12-16,Kuala Kangsar,132.6,131.5,25.4,7.7,,,Monthly average weather (2023-2026)
+2026-12-16,Kuala Muda,318.3,311.4,26.3,8.9,,,Monthly average weather (2023-2026)
+2026-12-16,Larut dan Matang,343.7,350.5,26.3,12.9,,,Monthly average weather (2023-2026)
+2026-12-16,Muallim,183.3,188.8,25.7,10.0,,,Monthly average weather (2023-2026)
+2026-12-16,Perlis,520.4,553.9,26.4,5.1,,,Monthly average weather (2023-2026)
+2026-12-16,Petaling,422.2,403.9,25.8,15.5,,,Monthly average weather (2023-2026)
+2026-12-16,Seberang Perai Selatan,27.3,28.3,26.1,14.6,,,Monthly average weather (2023-2026)
+2026-12-16,Seberang Perai Tengah,406.5,383.1,26.7,9.0,,,Monthly average weather (2023-2026)
+2026-12-16,Seberang Perai Utara,801.6,757.9,26.7,9.0,,,Monthly average weather (2023-2026)
+2026-12-16,Seremban,92.4,112.8,25.9,10.4,,,Monthly average weather (2023-2026)
+2026-12-16,Tampin,112.5,102.6,25.9,12.4,,,Monthly average weather (2023-2026)
+2026-12-16,Ulu Langat,73.5,76.5,25.9,12.4,,,Monthly average weather (2023-2026)
+2026-12-16,W.P. Kuala Lumpur,3667.8,3436.7,26.5,14.0,,,Monthly average weather (2023-2026)
+2026-12-17,Alor Gajah,121.0,112.1,26.1,9.8,,,Monthly average weather (2023-2026)
+2026-12-17,Batang Padang,273.6,184.4,25.6,11.5,,,Monthly average weather (2023-2026)
+2026-12-17,Gombak,38.8,39.0,25.7,14.3,,,Monthly average weather (2023-2026)
+2026-12-17,Jasin,34.3,34.2,25.6,9.9,,,Monthly average weather (2023-2026)
+2026-12-17,Kampar,319.2,310.9,25.8,12.7,,,Monthly average weather (2023-2026)
+2026-12-17,Kerian,169.3,160.2,26.0,12.9,,,Monthly average weather (2023-2026)
+2026-12-17,Kinta,1703.6,1681.1,26.1,11.9,,,Monthly average weather (2023-2026)
+2026-12-17,Kota Setar,399.6,374.0,26.8,5.4,,,Monthly average weather (2023-2026)
+2026-12-17,Kuala Kangsar,176.2,155.4,25.4,7.7,,,Monthly average weather (2023-2026)
+2026-12-17,Kuala Muda,448.7,388.7,26.3,8.9,,,Monthly average weather (2023-2026)
+2026-12-17,Larut dan Matang,340.7,348.7,26.3,12.9,,,Monthly average weather (2023-2026)
+2026-12-17,Muallim,218.9,229.7,25.7,10.0,,,Monthly average weather (2023-2026)
+2026-12-17,Perlis,564.3,565.8,26.4,5.1,,,Monthly average weather (2023-2026)
+2026-12-17,Petaling,530.1,483.0,25.8,15.5,,,Monthly average weather (2023-2026)
+2026-12-17,Seberang Perai Selatan,27.2,26.9,26.1,14.6,,,Monthly average weather (2023-2026)
+2026-12-17,Seberang Perai Tengah,482.8,439.2,26.7,9.0,,,Monthly average weather (2023-2026)
+2026-12-17,Seberang Perai Utara,807.2,777.7,26.7,9.0,,,Monthly average weather (2023-2026)
+2026-12-17,Seremban,97.4,108.0,25.9,10.4,,,Monthly average weather (2023-2026)
+2026-12-17,Tampin,118.1,105.3,25.9,12.4,,,Monthly average weather (2023-2026)
+2026-12-17,Ulu Langat,78.7,83.6,25.9,12.4,,,Monthly average weather (2023-2026)
+2026-12-17,W.P. Kuala Lumpur,3957.6,4007.2,26.5,14.0,,,Monthly average weather (2023-2026)
+2026-12-18,Alor Gajah,139.4,139.8,26.1,9.8,,christmas,Monthly average weather (2023-2026)
+2026-12-18,Batang Padang,311.2,219.3,25.6,11.5,,christmas,Monthly average weather (2023-2026)
+2026-12-18,Gombak,43.6,43.0,25.7,14.3,,christmas,Monthly average weather (2023-2026)
+2026-12-18,Jasin,74.5,80.3,25.6,9.9,,christmas,Monthly average weather (2023-2026)
+2026-12-18,Kampar,370.6,383.5,25.8,12.7,,christmas,Monthly average weather (2023-2026)
+2026-12-18,Kerian,218.2,215.2,26.0,12.9,,christmas,Monthly average weather (2023-2026)
+2026-12-18,Kinta,1799.5,1867.2,26.1,11.9,,christmas,Monthly average weather (2023-2026)
+2026-12-18,Kota Setar,356.1,324.6,26.8,5.4,,christmas,Monthly average weather (2023-2026)
+2026-12-18,Kuala Kangsar,261.1,215.5,25.4,7.7,,christmas,Monthly average weather (2023-2026)
+2026-12-18,Kuala Muda,429.2,386.1,26.3,8.9,,christmas,Monthly average weather (2023-2026)
+2026-12-18,Larut dan Matang,450.8,453.9,26.3,12.9,,christmas,Monthly average weather (2023-2026)
+2026-12-18,Muallim,250.5,262.6,25.7,10.0,,christmas,Monthly average weather (2023-2026)
+2026-12-18,Perlis,828.4,598.4,26.4,5.1,,christmas,Monthly average weather (2023-2026)
+2026-12-18,Petaling,614.4,561.5,25.8,15.5,,christmas,Monthly average weather (2023-2026)
+2026-12-18,Seberang Perai Selatan,39.6,39.0,26.1,14.6,,christmas,Monthly average weather (2023-2026)
+2026-12-18,Seberang Perai Tengah,652.8,561.4,26.7,9.0,,christmas,Monthly average weather (2023-2026)
+2026-12-18,Seberang Perai Utara,1046.9,927.2,26.7,9.0,,christmas,Monthly average weather (2023-2026)
+2026-12-18,Seremban,154.2,145.1,25.9,10.4,,christmas,Monthly average weather (2023-2026)
+2026-12-18,Tampin,158.7,129.9,25.9,12.4,,christmas,Monthly average weather (2023-2026)
+2026-12-18,Ulu Langat,83.8,91.5,25.9,12.4,,christmas,Monthly average weather (2023-2026)
+2026-12-18,W.P. Kuala Lumpur,4512.9,4340.2,26.5,14.0,,christmas,Monthly average weather (2023-2026)
+2026-12-19,Alor Gajah,151.1,134.8,26.1,9.8,,christmas,Monthly average weather (2023-2026)
+2026-12-19,Batang Padang,276.7,196.9,25.6,11.5,,christmas,Monthly average weather (2023-2026)
+2026-12-19,Gombak,48.2,54.6,25.7,14.3,,christmas,Monthly average weather (2023-2026)
+2026-12-19,Jasin,55.2,51.0,25.6,9.9,,christmas,Monthly average weather (2023-2026)
+2026-12-19,Kampar,283.5,302.1,25.8,12.7,,christmas,Monthly average weather (2023-2026)
+2026-12-19,Kerian,227.6,227.5,26.0,12.9,,christmas,Monthly average weather (2023-2026)
+2026-12-19,Kinta,1779.6,1897.4,26.1,11.9,,christmas,Monthly average weather (2023-2026)
+2026-12-19,Kota Setar,341.3,300.8,26.8,5.4,,christmas,Monthly average weather (2023-2026)
+2026-12-19,Kuala Kangsar,182.3,182.9,25.4,7.7,,christmas,Monthly average weather (2023-2026)
+2026-12-19,Kuala Muda,389.9,345.4,26.3,8.9,,christmas,Monthly average weather (2023-2026)
+2026-12-19,Larut dan Matang,449.9,418.4,26.3,12.9,,christmas,Monthly average weather (2023-2026)
+2026-12-19,Muallim,239.8,251.2,25.7,10.0,,christmas,Monthly average weather (2023-2026)
+2026-12-19,Perlis,871.3,741.6,26.4,5.1,,christmas,Monthly average weather (2023-2026)
+2026-12-19,Petaling,586.1,558.0,25.8,15.5,,christmas,Monthly average weather (2023-2026)
+2026-12-19,Seberang Perai Selatan,32.8,34.8,26.1,14.6,,christmas,Monthly average weather (2023-2026)
+2026-12-19,Seberang Perai Tengah,655.8,557.3,26.7,9.0,,christmas,Monthly average weather (2023-2026)
+2026-12-19,Seberang Perai Utara,1065.6,938.7,26.7,9.0,,christmas,Monthly average weather (2023-2026)
+2026-12-19,Seremban,207.0,172.1,25.9,10.4,,christmas,Monthly average weather (2023-2026)
+2026-12-19,Tampin,164.9,123.6,25.9,12.4,,christmas,Monthly average weather (2023-2026)
+2026-12-19,Ulu Langat,81.8,90.6,25.9,12.4,,christmas,Monthly average weather (2023-2026)
+2026-12-19,W.P. Kuala Lumpur,4504.5,4243.6,26.5,14.0,,christmas,Monthly average weather (2023-2026)
+2026-12-20,Alor Gajah,155.8,141.3,26.1,9.8,,christmas,Monthly average weather (2023-2026)
+2026-12-20,Batang Padang,233.6,195.4,25.6,11.5,,christmas,Monthly average weather (2023-2026)
+2026-12-20,Gombak,58.4,74.6,25.7,14.3,,christmas,Monthly average weather (2023-2026)
+2026-12-20,Jasin,66.4,62.1,25.6,9.9,,christmas,Monthly average weather (2023-2026)
+2026-12-20,Kampar,295.6,299.4,25.8,12.7,,christmas,Monthly average weather (2023-2026)
+2026-12-20,Kerian,254.1,234.5,26.0,12.9,,christmas,Monthly average weather (2023-2026)
+2026-12-20,Kinta,1804.6,1903.6,26.1,11.9,,christmas,Monthly average weather (2023-2026)
+2026-12-20,Kota Setar,348.3,262.4,26.8,5.4,,christmas,Monthly average weather (2023-2026)
+2026-12-20,Kuala Kangsar,187.6,188.8,25.4,7.7,,christmas,Monthly average weather (2023-2026)
+2026-12-20,Kuala Muda,381.7,312.7,26.3,8.9,,christmas,Monthly average weather (2023-2026)
+2026-12-20,Larut dan Matang,471.0,479.5,26.3,12.9,,christmas,Monthly average weather (2023-2026)
+2026-12-20,Muallim,246.6,252.6,25.7,10.0,,christmas,Monthly average weather (2023-2026)
+2026-12-20,Perlis,788.3,821.5,26.4,5.1,,christmas,Monthly average weather (2023-2026)
+2026-12-20,Petaling,560.2,577.0,25.8,15.5,,christmas,Monthly average weather (2023-2026)
+2026-12-20,Seberang Perai Selatan,35.4,36.5,26.1,14.6,,christmas,Monthly average weather (2023-2026)
+2026-12-20,Seberang Perai Tengah,583.4,523.5,26.7,9.0,,christmas,Monthly average weather (2023-2026)
+2026-12-20,Seberang Perai Utara,1026.0,909.3,26.7,9.0,,christmas,Monthly average weather (2023-2026)
+2026-12-20,Seremban,190.9,171.0,25.9,10.4,,christmas,Monthly average weather (2023-2026)
+2026-12-20,Tampin,207.8,174.1,25.9,12.4,,christmas,Monthly average weather (2023-2026)
+2026-12-20,Ulu Langat,82.1,96.9,25.9,12.4,,christmas,Monthly average weather (2023-2026)
+2026-12-20,W.P. Kuala Lumpur,4592.1,4335.5,26.5,14.0,,christmas,Monthly average weather (2023-2026)
+2026-12-21,Alor Gajah,130.1,111.1,26.1,9.8,,christmas,Monthly average weather (2023-2026)
+2026-12-21,Batang Padang,171.2,128.9,25.6,11.5,,christmas,Monthly average weather (2023-2026)
+2026-12-21,Gombak,47.2,56.7,25.7,14.3,,christmas,Monthly average weather (2023-2026)
+2026-12-21,Jasin,42.7,39.7,25.6,9.9,,christmas,Monthly average weather (2023-2026)
+2026-12-21,Kampar,298.2,259.3,25.8,12.7,,christmas,Monthly average weather (2023-2026)
+2026-12-21,Kerian,190.1,191.7,26.0,12.9,,christmas,Monthly average weather (2023-2026)
+2026-12-21,Kinta,1863.0,1864.9,26.1,11.9,,christmas,Monthly average weather (2023-2026)
+2026-12-21,Kota Setar,307.1,262.7,26.8,5.4,,christmas,Monthly average weather (2023-2026)
+2026-12-21,Kuala Kangsar,165.7,148.5,25.4,7.7,,christmas,Monthly average weather (2023-2026)
+2026-12-21,Kuala Muda,322.0,288.2,26.3,8.9,,christmas,Monthly average weather (2023-2026)
+2026-12-21,Larut dan Matang,412.7,416.5,26.3,12.9,,christmas,Monthly average weather (2023-2026)
+2026-12-21,Muallim,237.8,193.6,25.7,10.0,,christmas,Monthly average weather (2023-2026)
+2026-12-21,Perlis,887.0,853.1,26.4,5.1,,christmas,Monthly average weather (2023-2026)
+2026-12-21,Petaling,444.8,456.3,25.8,15.5,,christmas,Monthly average weather (2023-2026)
+2026-12-21,Seberang Perai Selatan,25.7,25.6,26.1,14.6,,christmas,Monthly average weather (2023-2026)
+2026-12-21,Seberang Perai Tengah,471.0,494.0,26.7,9.0,,christmas,Monthly average weather (2023-2026)
+2026-12-21,Seberang Perai Utara,920.7,904.7,26.7,9.0,,christmas,Monthly average weather (2023-2026)
+2026-12-21,Seremban,111.1,119.1,25.9,10.4,,christmas,Monthly average weather (2023-2026)
+2026-12-21,Tampin,179.8,128.7,25.9,12.4,,christmas,Monthly average weather (2023-2026)
+2026-12-21,Ulu Langat,78.0,75.5,25.9,12.4,,christmas,Monthly average weather (2023-2026)
+2026-12-21,W.P. Kuala Lumpur,4336.4,3874.2,26.5,14.0,,christmas,Monthly average weather (2023-2026)
+2026-12-22,Alor Gajah,139.8,97.2,26.1,9.8,,christmas,Monthly average weather (2023-2026)
+2026-12-22,Batang Padang,164.0,107.3,25.6,11.5,,christmas,Monthly average weather (2023-2026)
+2026-12-22,Gombak,42.8,40.2,25.7,14.3,,christmas,Monthly average weather (2023-2026)
+2026-12-22,Jasin,46.3,33.3,25.6,9.9,,christmas,Monthly average weather (2023-2026)
+2026-12-22,Kampar,317.7,225.3,25.8,12.7,,christmas,Monthly average weather (2023-2026)
+2026-12-22,Kerian,198.7,152.2,26.0,12.9,,christmas,Monthly average weather (2023-2026)
+2026-12-22,Kinta,1875.1,1633.2,26.1,11.9,,christmas,Monthly average weather (2023-2026)
+2026-12-22,Kota Setar,333.0,306.8,26.8,5.4,,christmas,Monthly average weather (2023-2026)
+2026-12-22,Kuala Kangsar,198.1,136.8,25.4,7.7,,christmas,Monthly average weather (2023-2026)
+2026-12-22,Kuala Muda,344.0,310.5,26.3,8.9,,christmas,Monthly average weather (2023-2026)
+2026-12-22,Larut dan Matang,399.6,343.8,26.3,12.9,,christmas,Monthly average weather (2023-2026)
+2026-12-22,Muallim,252.6,186.2,25.7,10.0,,christmas,Monthly average weather (2023-2026)
+2026-12-22,Perlis,936.0,575.0,26.4,5.1,,christmas,Monthly average weather (2023-2026)
+2026-12-22,Petaling,447.1,392.4,25.8,15.5,,christmas,Monthly average weather (2023-2026)
+2026-12-22,Seberang Perai Selatan,27.7,25.7,26.1,14.6,,christmas,Monthly average weather (2023-2026)
+2026-12-22,Seberang Perai Tengah,458.3,394.9,26.7,9.0,,christmas,Monthly average weather (2023-2026)
+2026-12-22,Seberang Perai Utara,895.0,745.6,26.7,9.0,,christmas,Monthly average weather (2023-2026)
+2026-12-22,Seremban,109.5,115.2,25.9,10.4,,christmas,Monthly average weather (2023-2026)
+2026-12-22,Tampin,189.7,101.6,25.9,12.4,,christmas,Monthly average weather (2023-2026)
+2026-12-22,Ulu Langat,78.5,74.8,25.9,12.4,,christmas,Monthly average weather (2023-2026)
+2026-12-22,W.P. Kuala Lumpur,4637.8,3326.2,26.5,14.0,,christmas,Monthly average weather (2023-2026)
+2026-12-23,Alor Gajah,143.7,92.7,26.1,9.8,,christmas,Monthly average weather (2023-2026)
+2026-12-23,Batang Padang,180.5,106.4,25.6,11.5,,christmas,Monthly average weather (2023-2026)
+2026-12-23,Gombak,42.0,40.8,25.7,14.3,,christmas,Monthly average weather (2023-2026)
+2026-12-23,Jasin,47.6,33.5,25.6,9.9,,christmas,Monthly average weather (2023-2026)
+2026-12-23,Kampar,326.4,228.0,25.8,12.7,,christmas,Monthly average weather (2023-2026)
+2026-12-23,Kerian,211.1,153.1,26.0,12.9,,christmas,Monthly average weather (2023-2026)
+2026-12-23,Kinta,1889.1,1611.1,26.1,11.9,,christmas,Monthly average weather (2023-2026)
+2026-12-23,Kota Setar,375.2,308.4,26.8,5.4,,christmas,Monthly average weather (2023-2026)
+2026-12-23,Kuala Kangsar,247.3,131.5,25.4,7.7,,christmas,Monthly average weather (2023-2026)
+2026-12-23,Kuala Muda,378.4,311.4,26.3,8.9,,christmas,Monthly average weather (2023-2026)
+2026-12-23,Larut dan Matang,435.5,350.5,26.3,12.9,,christmas,Monthly average weather (2023-2026)
+2026-12-23,Muallim,240.3,188.8,25.7,10.0,,christmas,Monthly average weather (2023-2026)
+2026-12-23,Perlis,933.5,553.9,26.4,5.1,,christmas,Monthly average weather (2023-2026)
+2026-12-23,Petaling,478.3,403.9,25.8,15.5,,christmas,Monthly average weather (2023-2026)
+2026-12-23,Seberang Perai Selatan,35.3,28.3,26.1,14.6,,christmas,Monthly average weather (2023-2026)
+2026-12-23,Seberang Perai Tengah,469.4,383.1,26.7,9.0,,christmas,Monthly average weather (2023-2026)
+2026-12-23,Seberang Perai Utara,943.1,757.9,26.7,9.0,,christmas,Monthly average weather (2023-2026)
+2026-12-23,Seremban,115.4,112.8,25.9,10.4,,christmas,Monthly average weather (2023-2026)
+2026-12-23,Tampin,194.2,102.6,25.9,12.4,,christmas,Monthly average weather (2023-2026)
+2026-12-23,Ulu Langat,81.3,76.5,25.9,12.4,,christmas,Monthly average weather (2023-2026)
+2026-12-23,W.P. Kuala Lumpur,4755.7,3436.7,26.5,14.0,,christmas,Monthly average weather (2023-2026)
+2026-12-24,Alor Gajah,143.5,112.1,26.1,9.8,,christmas,Monthly average weather (2023-2026)
+2026-12-24,Batang Padang,304.5,184.4,25.6,11.5,,christmas,Monthly average weather (2023-2026)
+2026-12-24,Gombak,42.0,39.0,25.7,14.3,,christmas,Monthly average weather (2023-2026)
+2026-12-24,Jasin,44.5,34.2,25.6,9.9,,christmas,Monthly average weather (2023-2026)
+2026-12-24,Kampar,434.7,310.9,25.8,12.7,,christmas,Monthly average weather (2023-2026)
+2026-12-24,Kerian,248.3,160.2,26.0,12.9,,christmas,Monthly average weather (2023-2026)
+2026-12-24,Kinta,1922.7,1681.1,26.1,11.9,,christmas,Monthly average weather (2023-2026)
+2026-12-24,Kota Setar,441.1,374.0,26.8,5.4,,christmas,Monthly average weather (2023-2026)
+2026-12-24,Kuala Kangsar,253.4,155.4,25.4,7.7,,christmas,Monthly average weather (2023-2026)
+2026-12-24,Kuala Muda,475.1,388.7,26.3,8.9,,christmas,Monthly average weather (2023-2026)
+2026-12-24,Larut dan Matang,455.4,348.7,26.3,12.9,,christmas,Monthly average weather (2023-2026)
+2026-12-24,Muallim,285.0,229.7,25.7,10.0,,christmas,Monthly average weather (2023-2026)
+2026-12-24,Perlis,902.3,565.8,26.4,5.1,,christmas,Monthly average weather (2023-2026)
+2026-12-24,Petaling,539.9,483.0,25.8,15.5,,christmas,Monthly average weather (2023-2026)
+2026-12-24,Seberang Perai Selatan,44.4,26.9,26.1,14.6,,christmas,Monthly average weather (2023-2026)
+2026-12-24,Seberang Perai Tengah,543.1,439.2,26.7,9.0,,christmas,Monthly average weather (2023-2026)
+2026-12-24,Seberang Perai Utara,968.4,777.7,26.7,9.0,,christmas,Monthly average weather (2023-2026)
+2026-12-24,Seremban,136.9,108.0,25.9,10.4,,christmas,Monthly average weather (2023-2026)
+2026-12-24,Tampin,210.5,105.3,25.9,12.4,,christmas,Monthly average weather (2023-2026)
+2026-12-24,Ulu Langat,89.9,83.6,25.9,12.4,,christmas,Monthly average weather (2023-2026)
+2026-12-24,W.P. Kuala Lumpur,4801.6,4007.2,26.5,14.0,,christmas,Monthly average weather (2023-2026)
+2026-12-25,Alor Gajah,172.8,139.8,26.1,9.8,Christmas Day,christmas,Monthly average weather (2023-2026)
+2026-12-25,Batang Padang,290.0,219.3,25.6,11.5,Christmas Day,christmas,Monthly average weather (2023-2026)
+2026-12-25,Gombak,45.5,43.0,25.7,14.3,Christmas Day,christmas,Monthly average weather (2023-2026)
+2026-12-25,Jasin,85.1,80.3,25.6,9.9,Christmas Day,christmas,Monthly average weather (2023-2026)
+2026-12-25,Kampar,452.7,383.5,25.8,12.7,Christmas Day,christmas,Monthly average weather (2023-2026)
+2026-12-25,Kerian,274.2,215.2,26.0,12.9,Christmas Day,christmas,Monthly average weather (2023-2026)
+2026-12-25,Kinta,1904.2,1867.2,26.1,11.9,Christmas Day,christmas,Monthly average weather (2023-2026)
+2026-12-25,Kota Setar,419.9,324.6,26.8,5.4,Christmas Day,christmas,Monthly average weather (2023-2026)
+2026-12-25,Kuala Kangsar,301.6,215.5,25.4,7.7,Christmas Day,christmas,Monthly average weather (2023-2026)
+2026-12-25,Kuala Muda,398.6,386.1,26.3,8.9,Christmas Day,christmas,Monthly average weather (2023-2026)
+2026-12-25,Larut dan Matang,490.1,453.9,26.3,12.9,Christmas Day,christmas,Monthly average weather (2023-2026)
+2026-12-25,Muallim,248.6,262.6,25.7,10.0,Christmas Day,christmas,Monthly average weather (2023-2026)
+2026-12-25,Perlis,922.0,598.4,26.4,5.1,Christmas Day,christmas,Monthly average weather (2023-2026)
+2026-12-25,Petaling,541.8,561.5,25.8,15.5,Christmas Day,christmas,Monthly average weather (2023-2026)
+2026-12-25,Seberang Perai Selatan,46.3,39.0,26.1,14.6,Christmas Day,christmas,Monthly average weather (2023-2026)
+2026-12-25,Seberang Perai Tengah,628.1,561.4,26.7,9.0,Christmas Day,christmas,Monthly average weather (2023-2026)
+2026-12-25,Seberang Perai Utara,1124.3,927.2,26.7,9.0,Christmas Day,christmas,Monthly average weather (2023-2026)
+2026-12-25,Seremban,156.2,145.1,25.9,10.4,Christmas Day,christmas,Monthly average weather (2023-2026)
+2026-12-25,Tampin,201.3,129.9,25.9,12.4,Christmas Day,christmas,Monthly average weather (2023-2026)
+2026-12-25,Ulu Langat,86.4,91.5,25.9,12.4,Christmas Day,christmas,Monthly average weather (2023-2026)
+2026-12-25,W.P. Kuala Lumpur,4845.6,4340.2,26.5,14.0,Christmas Day,christmas,Monthly average weather (2023-2026)
+2026-12-26,Alor Gajah,155.0,134.8,26.1,9.8,,christmas,Monthly average weather (2023-2026)
+2026-12-26,Batang Padang,185.4,196.9,25.6,11.5,,christmas,Monthly average weather (2023-2026)
+2026-12-26,Gombak,52.2,54.6,25.7,14.3,,christmas,Monthly average weather (2023-2026)
+2026-12-26,Jasin,67.6,51.0,25.6,9.9,,christmas,Monthly average weather (2023-2026)
+2026-12-26,Kampar,286.1,302.1,25.8,12.7,,christmas,Monthly average weather (2023-2026)
+2026-12-26,Kerian,249.2,227.5,26.0,12.9,,christmas,Monthly average weather (2023-2026)
+2026-12-26,Kinta,2004.3,1897.4,26.1,11.9,,christmas,Monthly average weather (2023-2026)
+2026-12-26,Kota Setar,417.5,300.8,26.8,5.4,,christmas,Monthly average weather (2023-2026)
+2026-12-26,Kuala Kangsar,175.5,182.9,25.4,7.7,,christmas,Monthly average weather (2023-2026)
+2026-12-26,Kuala Muda,391.7,345.4,26.3,8.9,,christmas,Monthly average weather (2023-2026)
+2026-12-26,Larut dan Matang,515.3,418.4,26.3,12.9,,christmas,Monthly average weather (2023-2026)
+2026-12-26,Muallim,228.8,251.2,25.7,10.0,,christmas,Monthly average weather (2023-2026)
+2026-12-26,Perlis,803.2,741.6,26.4,5.1,,christmas,Monthly average weather (2023-2026)
+2026-12-26,Petaling,578.0,558.0,25.8,15.5,,christmas,Monthly average weather (2023-2026)
+2026-12-26,Seberang Perai Selatan,30.1,34.8,26.1,14.6,,christmas,Monthly average weather (2023-2026)
+2026-12-26,Seberang Perai Tengah,584.4,557.3,26.7,9.0,,christmas,Monthly average weather (2023-2026)
+2026-12-26,Seberang Perai Utara,1148.0,938.7,26.7,9.0,,christmas,Monthly average weather (2023-2026)
+2026-12-26,Seremban,164.7,172.1,25.9,10.4,,christmas,Monthly average weather (2023-2026)
+2026-12-26,Tampin,190.7,123.6,25.9,12.4,,christmas,Monthly average weather (2023-2026)
+2026-12-26,Ulu Langat,88.4,90.6,25.9,12.4,,christmas,Monthly average weather (2023-2026)
+2026-12-26,W.P. Kuala Lumpur,4736.2,4243.6,26.5,14.0,,christmas,Monthly average weather (2023-2026)
+2026-12-27,Alor Gajah,153.8,141.3,26.1,9.8,,christmas,Monthly average weather (2023-2026)
+2026-12-27,Batang Padang,206.4,195.4,25.6,11.5,,christmas,Monthly average weather (2023-2026)
+2026-12-27,Gombak,79.2,74.6,25.7,14.3,,christmas,Monthly average weather (2023-2026)
+2026-12-27,Jasin,76.7,62.1,25.6,9.9,,christmas,Monthly average weather (2023-2026)
+2026-12-27,Kampar,295.7,299.4,25.8,12.7,,christmas,Monthly average weather (2023-2026)
+2026-12-27,Kerian,293.1,234.5,26.0,12.9,,christmas,Monthly average weather (2023-2026)
+2026-12-27,Kinta,2029.9,1903.6,26.1,11.9,,christmas,Monthly average weather (2023-2026)
+2026-12-27,Kota Setar,425.6,262.4,26.8,5.4,Christmas Day (observed),christmas,Monthly average weather (2023-2026)
+2026-12-27,Kuala Kangsar,203.7,188.8,25.4,7.7,,christmas,Monthly average weather (2023-2026)
+2026-12-27,Kuala Muda,383.4,312.7,26.3,8.9,Christmas Day (observed),christmas,Monthly average weather (2023-2026)
+2026-12-27,Larut dan Matang,612.1,479.5,26.3,12.9,,christmas,Monthly average weather (2023-2026)
+2026-12-27,Muallim,248.2,252.6,25.7,10.0,,christmas,Monthly average weather (2023-2026)
+2026-12-27,Perlis,820.1,821.5,26.4,5.1,,christmas,Monthly average weather (2023-2026)
+2026-12-27,Petaling,680.4,577.0,25.8,15.5,,christmas,Monthly average weather (2023-2026)
+2026-12-27,Seberang Perai Selatan,27.9,36.5,26.1,14.6,,christmas,Monthly average weather (2023-2026)
+2026-12-27,Seberang Perai Tengah,599.2,523.5,26.7,9.0,,christmas,Monthly average weather (2023-2026)
+2026-12-27,Seberang Perai Utara,1137.1,909.3,26.7,9.0,,christmas,Monthly average weather (2023-2026)
+2026-12-27,Seremban,165.4,171.0,25.9,10.4,,christmas,Monthly average weather (2023-2026)
+2026-12-27,Tampin,228.4,174.1,25.9,12.4,,christmas,Monthly average weather (2023-2026)
+2026-12-27,Ulu Langat,88.8,96.9,25.9,12.4,,christmas,Monthly average weather (2023-2026)
+2026-12-27,W.P. Kuala Lumpur,4646.5,4335.5,26.5,14.0,,christmas,Monthly average weather (2023-2026)
+2026-12-28,Alor Gajah,142.9,111.1,26.1,9.8,,christmas,Monthly average weather (2023-2026)
+2026-12-28,Batang Padang,145.7,128.9,25.6,11.5,,christmas,Monthly average weather (2023-2026)
+2026-12-28,Gombak,60.3,56.7,25.7,14.3,,christmas,Monthly average weather (2023-2026)
+2026-12-28,Jasin,58.0,39.7,25.6,9.9,,christmas,Monthly average weather (2023-2026)
+2026-12-28,Kampar,327.5,259.3,25.8,12.7,,christmas,Monthly average weather (2023-2026)
+2026-12-28,Kerian,252.5,191.7,26.0,12.9,,christmas,Monthly average weather (2023-2026)
+2026-12-28,Kinta,1912.0,1864.9,26.1,11.9,,christmas,Monthly average weather (2023-2026)
+2026-12-28,Kota Setar,404.0,262.7,26.8,5.4,,christmas,Monthly average weather (2023-2026)
+2026-12-28,Kuala Kangsar,177.3,148.5,25.4,7.7,,christmas,Monthly average weather (2023-2026)
+2026-12-28,Kuala Muda,362.6,288.2,26.3,8.9,,christmas,Monthly average weather (2023-2026)
+2026-12-28,Larut dan Matang,501.5,416.5,26.3,12.9,,christmas,Monthly average weather (2023-2026)
+2026-12-28,Muallim,216.1,193.6,25.7,10.0,,christmas,Monthly average weather (2023-2026)
+2026-12-28,Perlis,817.7,853.1,26.4,5.1,,christmas,Monthly average weather (2023-2026)
+2026-12-28,Petaling,541.6,456.3,25.8,15.5,,christmas,Monthly average weather (2023-2026)
+2026-12-28,Seberang Perai Selatan,27.4,25.6,26.1,14.6,,christmas,Monthly average weather (2023-2026)
+2026-12-28,Seberang Perai Tengah,518.4,494.0,26.7,9.0,,christmas,Monthly average weather (2023-2026)
+2026-12-28,Seberang Perai Utara,1049.9,904.7,26.7,9.0,,christmas,Monthly average weather (2023-2026)
+2026-12-28,Seremban,116.9,119.1,25.9,10.4,,christmas,Monthly average weather (2023-2026)
+2026-12-28,Tampin,203.3,128.7,25.9,12.4,,christmas,Monthly average weather (2023-2026)
+2026-12-28,Ulu Langat,74.8,75.5,25.9,12.4,,christmas,Monthly average weather (2023-2026)
+2026-12-28,W.P. Kuala Lumpur,4298.4,3874.2,26.5,14.0,,christmas,Monthly average weather (2023-2026)
+2026-12-29,Alor Gajah,148.1,97.2,26.1,9.8,,christmas,Monthly average weather (2023-2026)
+2026-12-29,Batang Padang,138.9,107.3,25.6,11.5,,christmas,Monthly average weather (2023-2026)
+2026-12-29,Gombak,51.9,40.2,25.7,14.3,,christmas,Monthly average weather (2023-2026)
+2026-12-29,Jasin,56.1,33.3,25.6,9.9,,christmas,Monthly average weather (2023-2026)
+2026-12-29,Kampar,333.4,225.3,25.8,12.7,,christmas,Monthly average weather (2023-2026)
+2026-12-29,Kerian,242.6,152.2,26.0,12.9,,christmas,Monthly average weather (2023-2026)
+2026-12-29,Kinta,1884.6,1633.2,26.1,11.9,,christmas,Monthly average weather (2023-2026)
+2026-12-29,Kota Setar,410.7,306.8,26.8,5.4,,christmas,Monthly average weather (2023-2026)
+2026-12-29,Kuala Kangsar,166.6,136.8,25.4,7.7,,christmas,Monthly average weather (2023-2026)
+2026-12-29,Kuala Muda,365.8,310.5,26.3,8.9,,christmas,Monthly average weather (2023-2026)
+2026-12-29,Larut dan Matang,472.5,343.8,26.3,12.9,,christmas,Monthly average weather (2023-2026)
+2026-12-29,Muallim,226.2,186.2,25.7,10.0,,christmas,Monthly average weather (2023-2026)
+2026-12-29,Perlis,856.5,575.0,26.4,5.1,,christmas,Monthly average weather (2023-2026)
+2026-12-29,Petaling,510.6,392.4,25.8,15.5,,christmas,Monthly average weather (2023-2026)
+2026-12-29,Seberang Perai Selatan,27.9,25.7,26.1,14.6,,christmas,Monthly average weather (2023-2026)
+2026-12-29,Seberang Perai Tengah,494.3,394.9,26.7,9.0,,christmas,Monthly average weather (2023-2026)
+2026-12-29,Seberang Perai Utara,1026.4,745.6,26.7,9.0,,christmas,Monthly average weather (2023-2026)
+2026-12-29,Seremban,114.8,115.2,25.9,10.4,,christmas,Monthly average weather (2023-2026)
+2026-12-29,Tampin,189.8,101.6,25.9,12.4,,christmas,Monthly average weather (2023-2026)
+2026-12-29,Ulu Langat,75.8,74.8,25.9,12.4,,christmas,Monthly average weather (2023-2026)
+2026-12-29,W.P. Kuala Lumpur,4255.7,3326.2,26.5,14.0,,christmas,Monthly average weather (2023-2026)
+2026-12-30,Alor Gajah,153.8,92.7,26.1,9.8,,christmas,Monthly average weather (2023-2026)
+2026-12-30,Batang Padang,133.8,106.4,25.6,11.5,,christmas,Monthly average weather (2023-2026)
+2026-12-30,Gombak,48.1,40.8,25.7,14.3,,christmas,Monthly average weather (2023-2026)
+2026-12-30,Jasin,51.7,33.5,25.6,9.9,,christmas,Monthly average weather (2023-2026)
+2026-12-30,Kampar,333.1,228.0,25.8,12.7,,christmas,Monthly average weather (2023-2026)
+2026-12-30,Kerian,219.6,153.1,26.0,12.9,,christmas,Monthly average weather (2023-2026)
+2026-12-30,Kinta,1783.2,1611.1,26.1,11.9,,christmas,Monthly average weather (2023-2026)
+2026-12-30,Kota Setar,397.8,308.4,26.8,5.4,,christmas,Monthly average weather (2023-2026)
+2026-12-30,Kuala Kangsar,162.7,131.5,25.4,7.7,,christmas,Monthly average weather (2023-2026)
+2026-12-30,Kuala Muda,375.3,311.4,26.3,8.9,,christmas,Monthly average weather (2023-2026)
+2026-12-30,Larut dan Matang,426.5,350.5,26.3,12.9,,christmas,Monthly average weather (2023-2026)
+2026-12-30,Muallim,222.0,188.8,25.7,10.0,,christmas,Monthly average weather (2023-2026)
+2026-12-30,Perlis,818.9,553.9,26.4,5.1,,christmas,Monthly average weather (2023-2026)
+2026-12-30,Petaling,488.7,403.9,25.8,15.5,,christmas,Monthly average weather (2023-2026)
+2026-12-30,Seberang Perai Selatan,31.5,28.3,26.1,14.6,,christmas,Monthly average weather (2023-2026)
+2026-12-30,Seberang Perai Tengah,478.4,383.1,26.7,9.0,,christmas,Monthly average weather (2023-2026)
+2026-12-30,Seberang Perai Utara,1017.3,757.9,26.7,9.0,,christmas,Monthly average weather (2023-2026)
+2026-12-30,Seremban,120.8,112.8,25.9,10.4,,christmas,Monthly average weather (2023-2026)
+2026-12-30,Tampin,182.5,102.6,25.9,12.4,,christmas,Monthly average weather (2023-2026)
+2026-12-30,Ulu Langat,78.0,76.5,25.9,12.4,,christmas,Monthly average weather (2023-2026)
+2026-12-30,W.P. Kuala Lumpur,4212.8,3436.7,26.5,14.0,,christmas,Monthly average weather (2023-2026)
+2026-12-31,Alor Gajah,150.4,112.1,26.1,9.8,,christmas,Monthly average weather (2023-2026)
+2026-12-31,Batang Padang,197.4,184.4,25.6,11.5,,christmas,Monthly average weather (2023-2026)
+2026-12-31,Gombak,41.2,39.0,25.7,14.3,,christmas,Monthly average weather (2023-2026)
+2026-12-31,Jasin,69.1,34.2,25.6,9.9,,christmas,Monthly average weather (2023-2026)
+2026-12-31,Kampar,447.6,310.9,25.8,12.7,,christmas,Monthly average weather (2023-2026)
+2026-12-31,Kerian,213.1,160.2,26.0,12.9,,christmas,Monthly average weather (2023-2026)
+2026-12-31,Kinta,1827.0,1681.1,26.1,11.9,,christmas,Monthly average weather (2023-2026)
+2026-12-31,Kota Setar,421.2,374.0,26.8,5.4,,christmas,Monthly average weather (2023-2026)
+2026-12-31,Kuala Kangsar,193.1,155.4,25.4,7.7,,christmas,Monthly average weather (2023-2026)
+2026-12-31,Kuala Muda,400.8,388.7,26.3,8.9,,christmas,Monthly average weather (2023-2026)
+2026-12-31,Larut dan Matang,433.3,348.7,26.3,12.9,,christmas,Monthly average weather (2023-2026)
+2026-12-31,Muallim,293.7,229.7,25.7,10.0,,christmas,Monthly average weather (2023-2026)
+2026-12-31,Perlis,777.9,565.8,26.4,5.1,,christmas,Monthly average weather (2023-2026)
+2026-12-31,Petaling,497.3,483.0,25.8,15.5,,christmas,Monthly average weather (2023-2026)
+2026-12-31,Seberang Perai Selatan,37.3,26.9,26.1,14.6,,christmas,Monthly average weather (2023-2026)
+2026-12-31,Seberang Perai Tengah,484.9,439.2,26.7,9.0,,christmas,Monthly average weather (2023-2026)
+2026-12-31,Seberang Perai Utara,983.4,777.7,26.7,9.0,,christmas,Monthly average weather (2023-2026)
+2026-12-31,Seremban,129.5,108.0,25.9,10.4,,christmas,Monthly average weather (2023-2026)
+2026-12-31,Tampin,209.1,105.3,25.9,12.4,,christmas,Monthly average weather (2023-2026)
+2026-12-31,Ulu Langat,83.7,83.6,25.9,12.4,,christmas,Monthly average weather (2023-2026)
+2026-12-31,W.P. Kuala Lumpur,4273.9,4007.2,26.5,14.0,,christmas,Monthly average weather (2023-2026)

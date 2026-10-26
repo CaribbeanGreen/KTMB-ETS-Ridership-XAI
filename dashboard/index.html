@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>KTMB ETS Surge Predictor</title>
+  <!-- Structure is plain HTML; all styling is in style.css. Every id is used by app.js, keep them. -->
+  <link rel="stylesheet" href="style.css">
+  <script>
+    /* light / dark mode: the saved choice wins, otherwise follow the computer's setting; set before first paint */
+    (function () {
+      var m = "";
+      try { m = new URLSearchParams(location.search).get("mode") || localStorage.getItem("ets-mode") || ""; } catch (e) {}
+      if (m !== "dark" && m !== "light") m = (window.matchMedia && matchMedia("(prefers-color-scheme: dark)").matches) ? "dark" : "light";
+      document.documentElement.setAttribute("data-theme", m);
+    })();
+  </script>
+</head>
+<body>
+  <header id="top">
+    <div class="bar">
+      <h1>KTMB ETS Surge Predictor</h1>
+      <p>Random Forest forecast with a TreeSHAP reason for every number</p>
+      <p class="theme-pick">
+        <button type="button" id="mode" aria-pressed="false">Dark mode</button>
+      </p>
+    </div>
+  </header>
+
+  <main id="main">
+    <!-- Layout follows report Figure 3.5: 1 status, 2 parameters, 3 output -->
+
+    <!-- 1. Input & Processing Layer Status -->
+    <section id="layer-status" aria-labelledby="h-status">
+      <h2 id="h-status">Input and processing</h2>
+      <ul id="sources"></ul>
+      <p id="pipe-status">Cleaned &amp; partitioned (80% train / 20% test)</p>
+      <div id="update">
+        <p id="update-status"></p>
+        <p id="update-prompt" hidden></p>
+        <p class="update-actions">
+          <button type="button" id="update-forecast">Update forecast</button>
+          <button type="button" id="update-full">Full data update</button>
+        </p>
+        <div id="update-run" hidden>
+          <p class="run-row">
+            <progress id="update-bar" max="100" value="0"></progress>
+            <span id="update-pct">0%</span>
+            <span id="update-eta">estimating time</span>
+          </p>
+          <p id="update-progress"></p>
+        </div>
+      </div>
+      <details id="update-details" hidden>
+        <summary>Show update log</summary>
+        <pre id="update-log"></pre>
+      </details>
+      <details id="status-details">
+        <summary>Data and model details</summary>
+        <p id="pipe-note"></p>
+        <p id="update-help">Update forecast fetches today's 16-day weather forecast and takes a few minutes.
+          Full data update adds newly published ETS ridership from data.gov.my and observed weather, then
+          retrains the forecast model; it takes 30 to 60 minutes and is needed about once a month.</p>
+      </details>
+    </section>
+
+    <!-- 2. Forecast Parameters (Admin Input) -->
+    <section id="layer-input" aria-labelledby="h-input">
+      <h2 id="h-input">Forecast parameters</h2>
+      <form id="params" onsubmit="return false">
+        <p class="field">
+          <label for="district">Departure district</label>
+          <select id="district"></select>
+        </p>
+        <p class="field">
+          <label for="date">Date</label>
+          <span class="date-row">
+            <button type="button" id="prev" aria-label="Previous day">&#8249;</button>
+            <input type="date" id="date">
+            <button type="button" id="next" aria-label="Next day">&#8250;</button>
+          </span>
+        </p>
+        <p class="field field-go">
+          <button type="submit" id="predict">Predict</button>
+          <span id="stale-note"></span>
+        </p>
+      </form>
+      <p id="range-note"></p>
+    </section>
+
+    <!-- 3. Model Evaluation & Output Layer -->
+    <section id="layer-output" aria-labelledby="h-output">
+      <h2 id="h-output" class="sr-only">Prediction</h2>
+
+      <div id="readout">
+        <div class="where">
+          <p id="b-district"></p>
+          <p><span id="b-state"></span> &middot; <span id="b-date"></span></p>
+        </div>
+        <dl id="board">
+          <div class="kpi kpi-main"><dt>Predicted trips</dt><dd id="b-pred"></dd></div>
+          <div class="kpi"><dt id="b-compare-label">Compared with a normal day</dt><dd id="b-change"></dd></div>
+          <div class="kpi"><dt>Status</dt><dd id="b-status"></dd></div>
+          <div class="kpi"><dt>Actual trips</dt><dd><span id="b-actual"></span> <span id="b-error"></span></dd></div>
+        </dl>
+        <p id="b-network"></p>
+      </div>
+
+      <div class="explain">
+        <section id="why" aria-labelledby="h-why">
+          <h3 id="h-why">Why this number</h3>
+          <p id="why-lead"></p>
+          <p id="baseline"></p>
+          <figure id="shap-figure">
+            <div id="factors"></div>
+            <figcaption>TreeSHAP contribution of each condition in trips. Red adds trips, <span class="light-only">black</span><span class="dark-only">grey</span> removes them;
+              the district's normal level plus every bar equals the prediction.</figcaption>
+          </figure>
+          <p id="factor-total"></p>
+        </section>
+
+        <section id="todo" aria-labelledby="h-todo">
+          <h3 id="h-todo">Recommended action</h3>
+          <ul id="actions"></ul>
+        </section>
+      </div>
+
+      <details id="features-details">
+        <summary>All 13 model inputs for this day</summary>
+        <table id="features">
+          <thead><tr><th scope="col">Feature</th><th scope="col">Value used by the model</th><th scope="col">Effect (trips)</th></tr></thead>
+          <tbody id="inputs"></tbody>
+        </table>
+      </details>
+    </section>
+
+    <!-- Additional views (beyond Figure 3.5) -->
+    <section id="extra-trend" aria-labelledby="trend-title">
+      <h2 id="trend-title">Three weeks around this date</h2>
+      <figure>
+        <div id="trend"></div>
+        <figcaption><span class="light-only">Black</span><span class="dark-only">White</span>: actual trips. Red: predicted trips. Dashed line: selected date. Click a day to select it.</figcaption>
+      </figure>
+    </section>
+
+    <section id="extra-peaks" aria-labelledby="peaks-title">
+      <h2 id="peaks-title">Biggest predicted surge in each district</h2>
+      <p id="peaks-hint">Each district's busiest predicted day, ranked by extra trips above a normal day.</p>
+      <ol id="peaks"></ol>
+    </section>
+  </main>
+
+  <footer id="footer"></footer>
+
+  <script src="data.js"></script>
+  <script src="forecast.js"></script>  <!-- written by 07_forecast.py; the page still works without it -->
+  <script src="app.js"></script>
+</body>
+</html>

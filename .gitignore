@@ -1,0 +1,13 @@
+# Backups and run logs
+*.zip
+*.rar
+5Oct2.txt
+5_Oct.txt
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+# OS
+Thumbs.db
+desktop.ini
