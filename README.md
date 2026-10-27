@@ -1,6 +1,55 @@
-# FYP Phase 2: Data Collection
+# KTMB ETS Ridership Surge Forecasting with Explainable AI
 
-KTMB ETS ridership surge dataset (Random Forest + TreeSHAP FYP).
+**Final Year Project** · Bachelor of Computer Science (Hons.), Universiti Teknologi MARA (UiTM)
+**Author:** Muhammad Aiman bin Jamaluddin · **Supervisor:** Dr. Norul Hidayah binti Isa
+
+Forecasts daily KTMB ETS ridership for 21 districts and explains every prediction, so an operator can see a
+surge coming (such as the Hari Raya exodus) and why. The Random Forest and TreeSHAP are implemented from
+scratch in NumPy, and a local web dashboard turns the forecasts into recommended actions.
+
+## Results
+
+| Metric | Random Forest | Naive baseline |
+|---|---|---|
+| Network forecast error, test May–Dec 2025 (MAPE) | **4.1%** | 6.4% |
+| Error on festive days, test (MAPE) | **6.7%** | 9.4% |
+| Network R², test | **0.69** | 0.47 |
+| Network forecast error, unseen 2026 holdout Jan–Oct (MAPE) | **11.3%** | 12.3% |
+| Error on festive days, 2026 holdout (MAPE) | **15.3%** | 21.8% |
+
+The baseline predicts each district's average for that weekday. 2026 was never used for training or tuning.
+
+![Actual vs predicted network ridership, test period](data/processed/model/fig_test_network.png)
+
+Each prediction comes with a TreeSHAP explanation. For Kuala Lumpur on 28 March 2025, three days before Hari Raya,
+the model predicted 5,196 departures (actual 5,474) and shows which factors pushed it up:
+
+![TreeSHAP explanation of a Hari Raya surge](data/processed/shap/fig_shap_local_raya.png)
+
+## How it works
+
+- **Data:** 2.2 million hourly origin–destination records from data.gov.my (2023–2026), 50 stations mapped to
+  21 districts, joined with DOSM population and household income, Open-Meteo weather, and public holidays and festivals.
+- **Model:** a Random Forest written in NumPy (`ets_rf.py`), tuned with 3-fold time-series cross-validation.
+- **Explanations:** path-dependent TreeSHAP written in NumPy (`ets_treeshap.py`), verified against exact Shapley
+  enumeration (largest difference 1.8 × 10⁻¹²), plus additivity and common-sense checks.
+- **Dashboard:** hand-written HTML, CSS and JavaScript with the 2026 holdout results, a 16-day weather-based
+  forecast, recommended actions and one-click data updates.
+
+## Quick start
+
+The trained models and processed data are included, so the dashboard runs without retraining:
+
+```
+python serve.py        # or double-click "Start Dashboard.bat", then open http://localhost:8765/
+```
+
+To rebuild everything from the raw open data, follow the pipeline below.
+
+---
+
+## Full pipeline
+
 Builds **one unified table: one row per departure district per day**, 2023–2025 (study) + 2026 (holdout).
 
 ## Run (about 5–10 minutes, needs internet)
