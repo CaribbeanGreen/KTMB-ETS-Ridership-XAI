@@ -1,7 +1,7 @@
 # KTMB ETS Ridership Surge Forecasting with Explainable AI
 
 **Final Year Project** · Bachelor of Computer Science (Hons.), Universiti Teknologi MARA (UiTM)
-**Author:** Muhammad Aiman bin Jamaluddin · **Supervisor:** Dr. Norul Hidayah binti Isa
+**Author:** Muhammad Aiman bin Jamaluddin · **Supervisor:** Dr. Norulhidayah binti Isa
 
 Forecasts daily KTMB ETS ridership for 21 districts and explains every prediction, so an operator can see a
 surge coming (such as the Hari Raya exodus) and why. The Random Forest and TreeSHAP are implemented from
