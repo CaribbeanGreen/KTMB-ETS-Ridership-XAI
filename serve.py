@@ -20,6 +20,7 @@ Stop:  close the window (or Ctrl + C).
 The server only listens on this computer (127.0.0.1); nothing is exposed to the network.
 """
 import json
+import os
 import socket
 import re
 import subprocess
@@ -38,6 +39,15 @@ LOG = BASE / "data" / "processed" / "update_log.txt"
 PORT = 8800                 # first port tried; if another program uses it, the next free one is taken
 PORT_TRIES = 50
 PY = sys.executable
+
+# Public mode (hosted server, e.g. the NAS behind Cloudflare Tunnel): set ETS_PUBLIC=1.
+# Visitors can't start updates; they run on a schedule instead and the page shows their progress.
+PUBLIC = os.environ.get("ETS_PUBLIC") == "1"
+HOST = os.environ.get("ETS_HOST", "0.0.0.0" if PUBLIC else "127.0.0.1")
+SCHEDULE = PUBLIC and os.environ.get("ETS_SCHEDULE", "1") == "1"
+FORECAST_AT = os.environ.get("ETS_FORECAST_AT", "06:00")   # daily: fresh 16-day weather forecast
+FULL_DAY = int(os.environ.get("ETS_FULL_DAY", "1"))         # monthly: new ridership + retrain forecast model
+FULL_AT = os.environ.get("ETS_FULL_AT", "03:00")
 
 JOBS = {
     "forecast": {"label": "Update forecast",
@@ -149,24 +159,67 @@ class Handler(SimpleHTTPRequestHandler):
         if self.path.startswith("/api/status"):
             with lock:
                 j = dict(job, lines=job["lines"][-12:])
-            return self.send_json({"server": True, "today": date.today().isoformat(), "state": read_state(),
-                                   "job": j, "jobs": {k: v["label"] for k, v in JOBS.items()}})
+            st = {"server": True, "today": date.today().isoformat(), "state": read_state(),
+                  "job": j, "jobs": {k: v["label"] for k, v in JOBS.items()}, "public": PUBLIC}
+            if SCHEDULE:
+                st["schedule"] = {"forecast": FORECAST_AT, "full_day": FULL_DAY, "full": FULL_AT}
+            return self.send_json(st)
         return super().do_GET()
 
     def do_POST(self):
         if not self.path.startswith("/api/update"):
             return self.send_json({"error": "not found"}, 404)
+        if PUBLIC:
+            return self.send_json({"error": "Updates run automatically on this server."}, 403)
         name = self.path.split("mode=")[-1] if "mode=" in self.path else "forecast"
         if name not in JOBS:
             return self.send_json({"error": f"unknown update '{name}'"}, 400)
-        with lock:
-            if job["running"]:
-                return self.send_json({"error": "an update is already running"}, 409)
-            job.update(running=True, name=name, step=0, steps=len(JOBS[name]["steps"]), script=None,
-                       started=datetime.now().strftime("%Y-%m-%d %H:%M"), finished=None, ok=None, lines=[],
-                       progress=0.0, eta=sum(TYPICAL.get(st[0], 120) for st in JOBS[name]["steps"]), phase="Starting")
-        threading.Thread(target=run_job, args=(name,), daemon=True).start()
+        err = start_job(name)
+        if err:
+            return self.send_json({"error": err}, 409)
         return self.send_json({"started": name})
+
+
+def start_job(name, wait=False):
+    """Start an update unless one is already running. Returns an error message, or None when started."""
+    with lock:
+        if job["running"]:
+            return "an update is already running"
+        job.update(running=True, name=name, step=0, steps=len(JOBS[name]["steps"]), script=None,
+                   started=datetime.now().strftime("%Y-%m-%d %H:%M"), finished=None, ok=None, lines=[],
+                   progress=0.0, eta=sum(TYPICAL.get(st[0], 120) for st in JOBS[name]["steps"]), phase="Starting")
+    if wait:
+        run_job(name)
+    else:
+        threading.Thread(target=run_job, args=(name,), daemon=True).start()
+    return None
+
+
+def due_job(now, state):
+    """Which scheduled update is due now, if any. Missed runs (server was off) catch up on the next check."""
+    hhmm, today = now.strftime("%H:%M"), now.date().isoformat()
+    if state.get("full", "")[:7] != today[:7] and (now.day > FULL_DAY or (now.day == FULL_DAY and hhmm >= FULL_AT)):
+        return "full"
+    if state.get("forecast", "")[:10] != today and hhmm >= FORECAST_AT:
+        return "forecast"
+    return None
+
+
+def scheduler():
+    """Public mode: run the updates automatically. A failed update is retried after an hour, not in a loop."""
+    failed = {}
+    while True:
+        name = due_job(datetime.now(), read_state())
+        if name and time.time() - failed.get(name, 0) > 3600:
+            start_job(name, wait=True)
+            if job["ok"]:
+                if name == "full":                       # the full update ends with 07_forecast.py
+                    state = read_state()
+                    state["forecast"] = state["full"]
+                    STATE.write_text(json.dumps(state, indent=2))
+            else:
+                failed[name] = time.time()
+        time.sleep(60)
 
 
 class Server(ThreadingHTTPServer):
@@ -209,12 +262,21 @@ def open_server():
 def main():
     if not (DASH / "index.html").exists():
         raise SystemExit(f"dashboard/index.html not found next to {Path(__file__).name}")
-    server, port = open_server()
-    url = f"http://127.0.0.1:{port}/"   # not "localhost": it can resolve to IPv6, where another app may answer
-    if port != PORT:
-        print(f"Port {PORT} is used by another program, so port {port} is used instead.")
-    print(f"Dashboard running at {url}  (keep this window open; close it to stop)")
-    threading.Timer(1.0, lambda: webbrowser.open(url)).start()
+    if PUBLIC:
+        port = int(os.environ.get("ETS_PORT", "8080"))
+        server = ThreadingHTTPServer((HOST, port), Handler)
+        print(f"Public mode on {HOST}:{port}; update buttons off; "
+              + (f"forecast daily {FORECAST_AT}, full update day {FULL_DAY} at {FULL_AT}" if SCHEDULE else "no schedule"),
+              flush=True)
+        if SCHEDULE:
+            threading.Thread(target=scheduler, daemon=True).start()
+    else:
+        server, port = open_server()
+        url = f"http://127.0.0.1:{port}/"   # not "localhost": it can resolve to IPv6, where another app may answer
+        if port != PORT:
+            print(f"Port {PORT} is used by another program, so port {port} is used instead.")
+        print(f"Dashboard running at {url}  (keep this window open; close it to stop)")
+        threading.Timer(1.0, lambda: webbrowser.open(url)).start()
     try:
         server.serve_forever()
     except KeyboardInterrupt:

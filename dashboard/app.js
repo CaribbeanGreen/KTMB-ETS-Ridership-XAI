@@ -301,7 +301,9 @@
       out.push("Ramadan lowers demand; expect it to build sharply in the final week before Hari Raya.");
     }
     if (r.forecast && r.wx === 2) {
-      out.push("This far ahead the weather is a monthly average; press Update forecast within 16 days of the date for a real weather forecast.");
+      out.push(window.ETS_PUBLIC
+        ? "This far ahead the weather is a monthly average; it switches to a real weather forecast automatically within 16 days of the date."
+        : "This far ahead the weather is a monthly average; press Update forecast within 16 days of the date for a real weather forecast.");
     }
     return out;
   }
@@ -477,6 +479,18 @@
     U.status.textContent = "Actual data to " + shortDate(lastActual) + ". " +
       (FC ? "Forecast issued " + shortDate(FC.issued) + "." : "No forecast yet.") +
       (s.last ? " Last updated here " + s.last + "." : "");
+    if (st.public) {                       // hosted copy: updates are automatic, so no buttons or prompts
+      window.ETS_PUBLIC = true;
+      document.querySelector(".update-actions").hidden = true;
+      if ($("update-help")) $("update-help").hidden = true;
+      U.prompt.hidden = true;
+      const sc = st.schedule;
+      U.status.textContent = "Actual data to " + shortDate(lastActual) + ". " +
+        (FC ? "Forecast issued " + shortDate(FC.issued) + ". " : "") +
+        (sc ? "Updates automatically: weather forecast every day at " + sc.forecast +
+          ", new ridership data on day " + sc.full_day + " of each month." : "");
+      return;
+    }
     const stale = !FC || FC.issued < st.today;
     U.prompt.hidden = !(stale && !st.job.running);
     if (stale) {
