@@ -38,7 +38,9 @@ the model predicted 5,196 departures (actual 5,474) and shows which factors push
 
 ## Quick start
 
-The trained models and processed data are included, so the dashboard runs without retraining:
+The processed data and dashboard data are included, so the dashboard opens straight away. The trained models
+(`models/*.npz`, 18–26 MB each) are not kept in git; `06_prepare_dashboard.py` and `07_forecast.py` train them
+when they're missing, and the dashboard's update buttons do the same:
 
 ```
 python serve.py        # or double-click "Start Dashboard.bat"; it opens http://127.0.0.1:8800/ for you
