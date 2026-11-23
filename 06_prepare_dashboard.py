@@ -20,6 +20,9 @@ import json
 import time
 from pathlib import Path
 
+import matplotlib
+matplotlib.use("Agg")
+import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 
@@ -58,6 +61,26 @@ def score(df, col):
             "network_mape": mape(net[TARGET], net[col]),
             "festive_network_mape": mape(fest[TARGET], fest[col]) if len(fest) else None,
             "festive_days": int(len(fest))}
+
+
+def bias_chart(bias):
+    """Figure 4.12: network prediction bias by month on the unseen 2026 data (negative = under-prediction)."""
+    fig, ax = plt.subplots(figsize=(8, 3.4), dpi=200)
+    labels = [p.strftime("%b") for p in bias.index]
+    vals = bias.to_numpy(float)
+    ax.bar(labels, vals, width=0.6, color=["#0b2a5b" if v >= 0 else "#c8102e" for v in vals])
+    for i, v in enumerate(vals):
+        ax.text(i, v + (0.4 if v >= 0 else -0.4), f"{v:+.1f}%".replace("-", "\u2212"),
+                ha="center", va="bottom" if v >= 0 else "top", fontsize=9)
+    ax.axhline(0, color="black", lw=0.8)
+    ax.set_ylim(min(vals.min() - 2.5, -3), max(vals.max() + 2.2, 4))
+    ax.set_ylabel("Prediction bias (%)\nnegative = under-prediction")
+    ax.set_xlabel(f"Month of {bias.index[0].year}")
+    ax.grid(axis="y", color="#e6e5e1", lw=0.8); ax.set_axisbelow(True)
+    for side in ("top", "right"):
+        ax.spines[side].set_visible(False)
+    fig.tight_layout(); fig.savefig(HOLD / "fig_monthly_bias.png", facecolor="white", bbox_inches="tight")
+    plt.close(fig)
 
 
 def main():
@@ -101,6 +124,7 @@ def main():
     bias = ((month["pred"] / month[TARGET] - 1) * 100).round(1)
     metrics["monthly_bias_pct"] = {str(k): float(v) for k, v in bias.items()}
     (HOLD / "holdout_metrics.json").write_text(json.dumps(metrics, indent=2))
+    bias_chart(bias)
     hold[["date", "district", TARGET, "pred", "naive", "is_festive_period"]].to_csv(
         HOLD / "holdout_predictions.csv", index=False)
     r, n = metrics["rf"], metrics["naive_baseline"]

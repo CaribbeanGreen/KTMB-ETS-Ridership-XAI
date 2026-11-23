@@ -41,7 +41,7 @@ the model predicted 5,196 departures (actual 5,474) and shows which factors push
 The trained models and processed data are included, so the dashboard runs without retraining:
 
 ```
-python serve.py        # or double-click "Start Dashboard.bat", then open http://localhost:8765/
+python serve.py        # or double-click "Start Dashboard.bat"; it opens http://127.0.0.1:8800/ for you
 ```
 
 To rebuild everything from the raw open data, follow the pipeline below.
@@ -114,7 +114,8 @@ surge everywhere (e.g. KL -> JB Sentral trips depart from KL).
 ## Using the dashboard (no terminal needed after the first setup)
 
 Double-click **Start Dashboard.bat**. It starts a small local server (`serve.py`, Python standard library
-only, listening on this computer only) and opens http://localhost:8765/. Keep its window open while you use it.
+only, listening on this computer only) and opens http://127.0.0.1:8800/ (or the next free port if another program
+already uses it). Keep its window open while you use it.
 
 - **Update forecast** (a few minutes): runs `07_forecast.py --reuse` for today's 16-day weather forecast.
   The dashboard asks for this whenever the forecast was issued before today.

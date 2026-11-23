@@ -3,7 +3,7 @@ serve.py  -  open the dashboard with one-click data updates (no terminal command
 FYP: An Explainable Prediction Model Using Random Forest for KTMB ETS Ridership Surges
 
 Starts a small local web server (Python standard library only) that
-  - serves dashboard/ at http://localhost:8765/ and opens it in the browser
+  - serves dashboard/ at http://127.0.0.1:8800/ (or the next free port) and opens it in the browser
   - lets the dashboard run the update scripts with a button, and shows their progress
 
 Two kinds of update, both started from the dashboard:
@@ -20,6 +20,7 @@ Stop:  close the window (or Ctrl + C).
 The server only listens on this computer (127.0.0.1); nothing is exposed to the network.
 """
 import json
+import socket
 import re
 import subprocess
 import sys
@@ -34,7 +35,8 @@ BASE = Path(__file__).resolve().parent
 DASH = BASE / "dashboard"
 STATE = BASE / "data" / "processed" / "update_state.json"
 LOG = BASE / "data" / "processed" / "update_log.txt"
-PORT = 8765
+PORT = 8800                 # first port tried; if another program uses it, the next free one is taken
+PORT_TRIES = 50
 PY = sys.executable
 
 JOBS = {
@@ -167,11 +169,50 @@ class Handler(SimpleHTTPRequestHandler):
         return self.send_json({"started": name})
 
 
+class Server(ThreadingHTTPServer):
+    """Refuses a port another program already uses. Python's default (address reuse) lets two programs
+    share a port on Windows, so the browser could reach the other program instead of this dashboard."""
+    allow_reuse_address = sys.platform != "win32"
+
+    def server_bind(self):
+        if sys.platform == "win32" and hasattr(socket, "SO_EXCLUSIVEADDRUSE"):
+            self.socket.setsockopt(socket.SOL_SOCKET, socket.SO_EXCLUSIVEADDRUSE, 1)
+        super().server_bind()
+
+
+def port_in_use(port):
+    """True if any program on this computer already answers on the port, over IPv4 or IPv6.
+    Windows sends "localhost" to IPv6 (::1) first, so a program listening only there (e.g. Streamlit)
+    would not be seen by an IPv4-only check, and the browser would open that program instead."""
+    for family, host in ((socket.AF_INET, "127.0.0.1"), (socket.AF_INET6, "::1")):
+        try:
+            with socket.socket(family, socket.SOCK_STREAM) as s:
+                s.settimeout(0.3)
+                if s.connect_ex((host, port)) == 0:
+                    return True
+        except OSError:
+            pass
+    return False
+
+
+def open_server():
+    for port in range(PORT, PORT + PORT_TRIES):
+        if port_in_use(port):
+            continue
+        try:
+            return Server(("127.0.0.1", port), Handler), port
+        except OSError:
+            continue
+    raise SystemExit(f"No free port between {PORT} and {PORT + PORT_TRIES - 1}. Close another local server and try again.")
+
+
 def main():
     if not (DASH / "index.html").exists():
         raise SystemExit(f"dashboard/index.html not found next to {Path(__file__).name}")
-    server = ThreadingHTTPServer(("127.0.0.1", PORT), Handler)
-    url = f"http://localhost:{PORT}/"
+    server, port = open_server()
+    url = f"http://127.0.0.1:{port}/"   # not "localhost": it can resolve to IPv6, where another app may answer
+    if port != PORT:
+        print(f"Port {PORT} is used by another program, so port {port} is used instead.")
     print(f"Dashboard running at {url}  (keep this window open; close it to stop)")
     threading.Timer(1.0, lambda: webbrowser.open(url)).start()
     try:
